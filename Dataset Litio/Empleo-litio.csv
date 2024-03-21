@@ -1,0 +1,2404 @@
+año_mes;provincia_zona;genero;rubro;Cantidad;remuneracion_Med;remuneracion_prom
+39083;Catamarca;Femenino;Litio-Produccion;6;2516,99;4162,77
+39083;Catamarca;Masculino;Litio-Produccion;128;2776,38;3269,75
+39083;Jujuy;Femenino;Litio-exploración y financiación;2;3438,66;3438,66
+39083;Jujuy;Masculino;Litio-exploración y financiación;4;1473,92;1891,21
+39083;Salta;Femenino;Litio-exploración y financiación;4;1029,68;1229,91
+39083;Salta;Femenino;Litio-Produccion;11;2206,95;2712,3
+39083;Salta;Masculino;Litio-exploración y financiación;2;914,53;914,53
+39083;Salta;Masculino;Litio-Produccion;36;3568,31;5507,43
+39114;Catamarca;Femenino;Litio-Produccion;6;6211,21;11546,33
+39114;Catamarca;Masculino;Litio-Produccion;129;7271,01;7744,05
+39114;Jujuy;Femenino;Litio-exploración y financiación;3;2874;2584,37
+39114;Jujuy;Masculino;Litio-exploración y financiación;4;1622,47;2075,82
+39114;Salta;Femenino;Litio-exploración y financiación;4;1048,67;1116,09
+39114;Salta;Femenino;Litio-Produccion;10;5082,02;6109,91
+39114;Salta;Masculino;Litio-exploración y financiación;2;1228,26;1228,26
+39114;Salta;Masculino;Litio-Produccion;37;9644,02;13296,21
+39142;Catamarca;Femenino;Litio-Produccion;6;4379,46;5854,18
+39142;Catamarca;Masculino;Litio-Produccion;128;3447,53;4677,05
+39142;Jujuy;Femenino;Litio-exploración y financiación;3;2874;2985,44
+39142;Jujuy;Masculino;Litio-exploración y financiación;4;2722,1;2644,13
+39142;Salta;Femenino;Litio-exploración y financiación;4;1029,68;1106,59
+39142;Salta;Femenino;Litio-Produccion;11;2036,53;2606,63
+39142;Salta;Masculino;Litio-exploración y financiación;2;1228,26;1228,26
+39142;Salta;Masculino;Litio-Produccion;37;4276,05;11539,88
+39173;Catamarca;Femenino;Litio-Produccion;6;4556,06;8490,9
+39173;Catamarca;Masculino;Litio-Produccion;125;4822,26;5690,9
+39173;Jujuy;Femenino;Litio-exploración y financiación;3;2874;2997,05
+39173;Jujuy;Masculino;Litio-exploración y financiación;4;2762,03;2699,34
+39173;Salta;Femenino;Litio-exploración y financiación;4;1654,86;1649,18
+39173;Salta;Femenino;Litio-Produccion;11;2396,85;3753,66
+39173;Salta;Masculino;Litio-exploración y financiación;2;1228,26;1228,26
+39173;Salta;Masculino;Litio-Produccion;38;5630,42;10434,32
+39203;Catamarca;Femenino;Litio-Produccion;6;3177,62;5720,14
+39203;Catamarca;Masculino;Litio-Produccion;124;3484;3966,24
+39203;Jujuy;Femenino;Litio-exploración y financiación;3;3273,14;3118,49
+39203;Jujuy;Masculino;Litio-exploración y financiación;4;2722,1;2644,13
+39203;Salta;Femenino;Litio-exploración y financiación;5;2367,01;2051,99
+39203;Salta;Femenino;Litio-Produccion;11;1984,75;2789,18
+39203;Salta;Masculino;Litio-exploración y financiación;2;1228,26;1228,26
+39203;Salta;Masculino;Litio-Produccion;37;4276,05;7045,87
+39234;Catamarca;Femenino;Litio-Produccion;6;4686,74;8756,87
+39234;Catamarca;Masculino;Litio-Produccion;131;5375,03;6968,18
+39234;Jujuy;Femenino;Litio-exploración y financiación;3;4311;4404,35
+39234;Jujuy;Masculino;Litio-exploración y financiación;4;3882,59;3957,66
+39234;Salta;Femenino;Litio-exploración y financiación;5;3329,05;2885,39
+39234;Salta;Femenino;Litio-Produccion;14;3315,91;4716,04
+39234;Salta;Masculino;Litio-exploración y financiación;2;2041,69;2041,69
+39234;Salta;Masculino;Litio-Produccion;37;6713,13;10831,9
+39264;Catamarca;Femenino;Litio-Produccion;6;4770,12;8099,48
+39264;Catamarca;Masculino;Litio-Produccion;133;4557,22;5410,58
+39264;Jujuy;Femenino;Litio-exploración y financiación;3;2874;2985,44
+39264;Jujuy;Masculino;Litio-exploración y financiación;4;2722,1;2682,96
+39264;Salta;Femenino;Litio-exploración y financiación;5;2367,01;2106,68
+39264;Salta;Femenino;Litio-Produccion;14;3348,82;4316,28
+39264;Salta;Masculino;Litio-exploración y financiación;4;1391,4;1610,33
+39264;Salta;Masculino;Litio-Produccion;35;5502,92;11356,21
+39295;Catamarca;Femenino;Litio-Produccion;7;3032,6;5459,72
+39295;Catamarca;Masculino;Litio-Produccion;135;3550,84;4118,42
+39295;Jujuy;Femenino;Litio-exploración y financiación;3;2874;3369,47
+39295;Jujuy;Masculino;Litio-exploración y financiación;4;2722,1;2725,64
+39295;Salta;Femenino;Litio-exploración y financiación;5;2367,01;2079,33
+39295;Salta;Femenino;Litio-Produccion;13;2492,22;3128,99
+39295;Salta;Masculino;Litio-exploración y financiación;4;1598,61;1906,89
+39295;Salta;Masculino;Litio-Produccion;36;4303,65;6540,15
+39326;Catamarca;Femenino;Litio-Produccion;7;3553,88;5962,08
+39326;Catamarca;Masculino;Litio-Produccion;135;3608,93;4360,37
+39326;Jujuy;Femenino;Litio-exploración y financiación;3;2874;2985,44
+39326;Jujuy;Masculino;Litio-exploración y financiación;4;2742,17;2750,64
+39326;Salta;Femenino;Litio-exploración y financiación;5;2367,01;2136,95
+39326;Salta;Femenino;Litio-Produccion;12;3058,64;4055,2
+39326;Salta;Masculino;Litio-exploración y financiación;5;1567;1838,91
+39326;Salta;Masculino;Litio-Produccion;36;4246,52;7022,11
+39356;Catamarca;Femenino;Litio-Produccion;7;8372,63;13334,75
+39356;Catamarca;Masculino;Litio-Produccion;135;7685,1;8419
+39356;Jujuy;Femenino;Litio-exploración y financiación;3;3909;3562,33
+39356;Jujuy;Masculino;Litio-exploración y financiación;4;2995,5;2955,08
+39356;Salta;Femenino;Litio-exploración y financiación;7;1391,66;2062,94
+39356;Salta;Femenino;Litio-Produccion;11;7435,45;9507,64
+39356;Salta;Masculino;Litio-exploración y financiación;6;1849;2008,36
+39356;Salta;Masculino;Litio-Produccion;39;10118,5;14278,36
+39387;Catamarca;Femenino;Litio-Produccion;6;4420,97;7104,07
+39387;Catamarca;Masculino;Litio-Produccion;136;4390,65;6338,73
+39387;Jujuy;Femenino;Litio-exploración y financiación;3;3909;4165,48
+39387;Jujuy;Masculino;Litio-exploración y financiación;4;2995,5;2955,08
+39387;Salta;Femenino;Litio-exploración y financiación;7;2841;2684,5
+39387;Salta;Femenino;Litio-Produccion;11;3495,49;3988,45
+39387;Salta;Masculino;Litio-exploración y financiación;9;2131;2387,54
+39387;Salta;Masculino;Litio-Produccion;41;4943,1;7195,39
+39417;Catamarca;Femenino;Litio-Produccion;6;9413,72;13649,19
+39417;Catamarca;Masculino;Litio-Produccion;136;9709,51;11308,32
+39417;Jujuy;Femenino;Litio-exploración y financiación;3;5863,5;5403
+39417;Jujuy;Masculino;Litio-exploración y financiación;4;4493,25;4432,63
+39417;Salta;Femenino;Litio-exploración y financiación;8;3393,81;3603,39
+39417;Salta;Femenino;Litio-Produccion;12;6065,14;8539,65
+39417;Salta;Masculino;Litio-exploración y financiación;16;1953,17;2637,21
+39417;Salta;Masculino;Litio-Produccion;41;9040;15326,29
+39448;Catamarca;Femenino;Litio-Produccion;6;4934,5;6295,64
+39448;Catamarca;Masculino;Litio-Produccion;136;4439,99;5212,93
+39448;Jujuy;Femenino;Litio-exploración y financiación;3;4561,33;3908,58
+39448;Jujuy;Masculino;Litio-exploración y financiación;4;3092,5;3120,73
+39448;Salta;Femenino;Litio-exploración y financiación;8;2771,7;3671,95
+39448;Salta;Femenino;Litio-Produccion;12;3799,13;4981,28
+39448;Salta;Masculino;Litio-exploración y financiación;21;2370,7;2560,78
+39448;Salta;Masculino;Litio-Produccion;40;5639,92;6116,3
+39479;Catamarca;Femenino;Litio-Produccion;7;7890,23;7280,07
+39479;Catamarca;Masculino;Litio-Produccion;136;9833,2;8500,8
+39479;Jujuy;Femenino;Litio-exploración y financiación;3;4097;3975,66
+39479;Jujuy;Masculino;Litio-exploración y financiación;5;2088;2619,93
+39479;Salta;Femenino;Litio-exploración y financiación;5;2787,01;2986,15
+39479;Salta;Femenino;Litio-Produccion;12;6934,88;7441,88
+39479;Salta;Masculino;Litio-exploración y financiación;21;2119,63;2532,12
+39479;Salta;Masculino;Litio-Produccion;40;10000;8231,23
+39508;Catamarca;Femenino;Litio-Produccion;7;5734,28;6009,7
+39508;Catamarca;Masculino;Litio-Produccion;135;6534,36;6570,52
+39508;Jujuy;Femenino;Litio-exploración y financiación;3;4097;3764,9
+39508;Jujuy;Masculino;Litio-exploración y financiación;5;2088;2770,77
+39508;Salta;Femenino;Litio-exploración y financiación;6;2577,9;2633,93
+39508;Salta;Femenino;Litio-Produccion;12;4657,35;5502,68
+39508;Salta;Masculino;Litio-exploración y financiación;31;2286,35;2268,28
+39508;Salta;Masculino;Litio-Produccion;40;6159,3;6392,23
+39539;Catamarca;Femenino;Litio-Produccion;7;5874,09;6655,52
+39539;Catamarca;Masculino;Litio-Produccion;135;5450,95;5960,32
+39539;Jujuy;Femenino;Litio-exploración y financiación;3;4097;3764,9
+39539;Jujuy;Masculino;Litio-exploración y financiación;5;2259,09;2756,7
+39539;Salta;Femenino;Litio-exploración y financiación;5;2236,04;2694,72
+39539;Salta;Femenino;Litio-Produccion;14;3476,28;4555,26
+39539;Salta;Masculino;Litio-exploración y financiación;31;2263,61;2450,68
+39539;Salta;Masculino;Litio-Produccion;40;6250,93;6380,49
+39569;Catamarca;Femenino;Litio-Produccion;7;5874,09;6375,22
+39569;Catamarca;Masculino;Litio-Produccion;135;6051,57;6354,98
+39569;Jujuy;Femenino;Litio-exploración y financiación;3;4097;3764,91
+39569;Jujuy;Masculino;Litio-exploración y financiación;5;2394,64;2776,51
+39569;Mendoza;Femenino;Litio-Produccion;1;4809,67;4809,67
+39569;Mendoza;Masculino;Litio-Produccion;2;5234,84;5234,84
+39569;Salta;Femenino;Litio-exploración y financiación;5;2236,04;4050,39
+39569;Salta;Femenino;Litio-Produccion;14;3578,95;4647,86
+39569;Salta;Masculino;Litio-exploración y financiación;31;2304,27;2927
+39569;Salta;Masculino;Litio-Produccion;38;6181,56;6447,75
+39600;Catamarca;Femenino;Litio-Produccion;7;7587,82;8045,15
+39600;Catamarca;Masculino;Litio-Produccion;135;8681,15;8313,57
+39600;Jujuy;Femenino;Litio-exploración y financiación;3;6377,67;6162,22
+39600;Jujuy;Masculino;Litio-exploración y financiación;5;3564,85;4307,21
+39600;Mendoza;Femenino;Litio-Produccion;1;5798,32;5798,32
+39600;Mendoza;Masculino;Litio-Produccion;4;3779,66;4453,79
+39600;Salta;Femenino;Litio-exploración y financiación;5;3144,9;3709,83
+39600;Salta;Femenino;Litio-Produccion;15;5863,08;6192,04
+39600;Salta;Masculino;Litio-exploración y financiación;32;3268,71;4119,64
+39600;Salta;Masculino;Litio-Produccion;40;10000;8410,9
+39630;Catamarca;Femenino;Litio-Produccion;7;5018,41;6391,9
+39630;Catamarca;Masculino;Litio-Produccion;135;5054,78;5547,74
+39630;Jujuy;Femenino;Litio-exploración y financiación;3;4097;3832,64
+39630;Jujuy;Masculino;Litio-exploración y financiación;5;2069,33;2756,68
+39630;Mendoza;Femenino;Litio-Produccion;1;4969,99;4969,99
+39630;Mendoza;Masculino;Litio-Produccion;4;3386,5;3916,79
+39630;Salta;Femenino;Litio-exploración y financiación;5;2236,04;2673,4
+39630;Salta;Femenino;Litio-Produccion;15;3673,29;5043,52
+39630;Salta;Masculino;Litio-exploración y financiación;32;2385,6;2908,65
+39630;Salta;Masculino;Litio-Produccion;41;6305,05;6332,57
+39661;Catamarca;Femenino;Litio-Produccion;8;5032,2;5774,19
+39661;Catamarca;Masculino;Litio-Produccion;135;5421,84;5823,43
+39661;Jujuy;Femenino;Litio-exploración y financiación;3;4097;3832,64
+39661;Jujuy;Masculino;Litio-exploración y financiación;5;2326,86;2824,3
+39661;Jujuy;Masculino;Litio-Produccion;8;394,6;647,76
+39661;Mendoza;Femenino;Litio-Produccion;1;4969,99;4969,99
+39661;Mendoza;Masculino;Litio-Produccion;3;7446,16;7590,39
+39661;Salta;Femenino;Litio-exploración y financiación;5;2236,04;2673,4
+39661;Salta;Femenino;Litio-Produccion;15;3539,23;4552,06
+39661;Salta;Masculino;Litio-exploración y financiación;32;2390,81;2966,44
+39661;Salta;Masculino;Litio-Produccion;41;6051,57;6331,23
+39692;Catamarca;Femenino;Litio-Produccion;9;5208,51;5622,62
+39692;Catamarca;Masculino;Litio-Produccion;133;5506,05;5906,31
+39692;Jujuy;Femenino;Litio-exploración y financiación;3;4097;3663,44
+39692;Jujuy;Masculino;Litio-exploración y financiación;5;2191,32;2847,63
+39692;Jujuy;Masculino;Litio-Produccion;9;1567;1710,03
+39692;Mendoza;Femenino;Litio-Produccion;1;4969,99;4969,99
+39692;Mendoza;Masculino;Litio-Produccion;3;8700;8008,34
+39692;Salta;Femenino;Litio-exploración y financiación;6;2118,73;1950,83
+39692;Salta;Femenino;Litio-Produccion;15;4262,04;4894,67
+39692;Salta;Masculino;Litio-exploración y financiación;33;1991,97;2585,03
+39692;Salta;Masculino;Litio-Produccion;42;6326,75;6574,7
+39722;Catamarca;Femenino;Litio-Produccion;9;6265,6;6192,31
+39722;Catamarca;Masculino;Litio-Produccion;131;6353,33;6626,97
+39722;Jujuy;Femenino;Litio-exploración y financiación;3;4885,68;4301,93
+39722;Jujuy;Masculino;Litio-exploración y financiación;6;3879,86;3525,81
+39722;Jujuy;Masculino;Litio-Produccion;9;1567;1727,44
+39722;Mendoza;Femenino;Litio-Produccion;1;4969,99;4969,99
+39722;Mendoza;Masculino;Litio-Produccion;3;8700;8008,34
+39722;Salta;Femenino;Litio-exploración y financiación;6;1981,5;1904,36
+39722;Salta;Femenino;Litio-Produccion;15;4871,5;5939,19
+39722;Salta;Masculino;Litio-exploración y financiación;33;2317,61;3167,18
+39722;Salta;Masculino;Litio-Produccion;42;7956,57;7493,52
+39753;Catamarca;Femenino;Litio-Produccion;9;5704,74;5694,99
+39753;Catamarca;Masculino;Litio-Produccion;135;5647,46;5907,6
+39753;Jujuy;Femenino;Litio-exploración y financiación;3;10000;10000
+39753;Jujuy;Masculino;Litio-exploración y financiación;5;10000;8563,08
+39753;Jujuy;Masculino;Litio-Produccion;9;1567,39;1728
+39753;Mendoza;Femenino;Litio-Produccion;1;5246,82;5246,82
+39753;Mendoza;Masculino;Litio-Produccion;3;9366;8338,83
+39753;Salta;Femenino;Litio-exploración y financiación;7;8354,98;7217,14
+39753;Salta;Femenino;Litio-Produccion;15;3896,73;4952,42
+39753;Salta;Masculino;Litio-exploración y financiación;33;8491,31;8945,4
+39753;Salta;Masculino;Litio-Produccion;43;6905,76;6828,18
+39783;Catamarca;Femenino;Litio-Produccion;9;8325,41;7420
+39783;Catamarca;Masculino;Litio-Produccion;137;8241,81;8154,48
+39783;Jujuy;Masculino;Litio-Produccion;9;2209,1;2437,31
+39783;Mendoza;Femenino;Litio-Produccion;1;7869,73;7869,73
+39783;Mendoza;Masculino;Litio-Produccion;3;10000;9491,92
+39783;Salta;Femenino;Litio-Produccion;15;5845,09;6652,77
+39783;Salta;Masculino;Litio-Produccion;43;10000;8386,57
+39814;Catamarca;Femenino;Litio-Produccion;10;5053,56;5475,05
+39814;Catamarca;Masculino;Litio-Produccion;148;4871,58;5511,14
+39814;Jujuy;Femenino;Litio-exploración y financiación;3;4885,68;4407,1
+39814;Jujuy;Masculino;Litio-exploración y financiación;5;2413,79;3168,05
+39814;Jujuy;Masculino;Litio-Produccion;5;1928,76;1753,88
+39814;Mendoza;Femenino;Litio-Produccion;1;4674,57;4674,57
+39814;Mendoza;Masculino;Litio-Produccion;3;10000;8848,13
+39814;Salta;Femenino;Litio-exploración y financiación;6;2370,19;2937,37
+39814;Salta;Femenino;Litio-Produccion;16;4029,44;5271,26
+39814;Salta;Masculino;Litio-exploración y financiación;29;2298,79;2858,31
+39814;Salta;Masculino;Litio-Produccion;52;5581,63;6246,45
+39845;Catamarca;Femenino;Litio-Produccion;10;8505,12;7362,69
+39845;Catamarca;Masculino;Litio-Produccion;152;8221,86;7685,16
+39845;Jujuy;Femenino;Litio-exploración y financiación;3;4885,68;4572,51
+39845;Jujuy;Masculino;Litio-exploración y financiación;5;2413,79;3251,3
+39845;Jujuy;Masculino;Litio-Produccion;4;1957,68;1957,68
+39845;Mendoza;Femenino;Litio-Produccion;1;10000;10000
+39845;Mendoza;Masculino;Litio-Produccion;3;10000;9908,93
+39845;Salta;Femenino;Litio-exploración y financiación;6;2459,08;2670,77
+39845;Salta;Femenino;Litio-Produccion;16;7948,52;7457,23
+39845;Salta;Masculino;Litio-exploración y financiación;29;2667,62;3191,46
+39845;Salta;Masculino;Litio-Produccion;53;9363,58;7579,15
+39873;Catamarca;Femenino;Litio-Produccion;10;4828,89;5467,39
+39873;Catamarca;Masculino;Litio-Produccion;152;4922,67;5507,73
+39873;Jujuy;Femenino;Litio-exploración y financiación;3;4885,68;5040,46
+39873;Jujuy;Masculino;Litio-exploración y financiación;6;2212,86;2831,37
+39873;Jujuy;Masculino;Litio-Produccion;4;1948,76;1948,76
+39873;Mendoza;Masculino;Litio-Produccion;2;9863,15;9863,15
+39873;Salta;Femenino;Litio-exploración y financiación;6;2370,19;2937,37
+39873;Salta;Femenino;Litio-Produccion;16;3952,38;4812,25
+39873;Salta;Masculino;Litio-exploración y financiación;30;2957,06;3651,58
+39873;Salta;Masculino;Litio-Produccion;51;6338,17;6639,38
+39904;Catamarca;Femenino;Litio-Produccion;10;4828,89;5467,39
+39904;Catamarca;Masculino;Litio-Produccion;149;4835,94;5362,03
+39904;Jujuy;Femenino;Litio-exploración y financiación;3;4885,68;4706,74
+39904;Jujuy;Masculino;Litio-exploración y financiación;6;2411,71;3159,59
+39904;Jujuy;Masculino;Litio-Produccion;4;1948,76;1948,76
+39904;Mendoza;Masculino;Litio-Produccion;2;9863,11;9863,11
+39904;Salta;Femenino;Litio-exploración y financiación;6;2447,64;2991,54
+39904;Salta;Femenino;Litio-Produccion;16;4357,75;5338,38
+39904;Salta;Masculino;Litio-exploración y financiación;37;2590,84;3151,06
+39904;Salta;Masculino;Litio-Produccion;49;6338,17;6367,01
+39934;Catamarca;Femenino;Litio-Produccion;10;5110,54;5599,51
+39934;Catamarca;Masculino;Litio-Produccion;145;5828,14;6040,84
+39934;Jujuy;Femenino;Litio-exploración y financiación;3;4885,68;4681,7
+39934;Jujuy;Masculino;Litio-exploración y financiación;6;2411,71;3117,96
+39934;Jujuy;Masculino;Litio-Produccion;4;1948,76;1948,76
+39934;Mendoza;Masculino;Litio-Produccion;2;9863,11;9863,11
+39934;Salta;Femenino;Litio-exploración y financiación;6;2447,64;4000,46
+39934;Salta;Femenino;Litio-Produccion;16;4357,75;5184,79
+39934;Salta;Masculino;Litio-exploración y financiación;37;2737,22;3692,54
+39934;Salta;Masculino;Litio-Produccion;49;5815,63;6445,27
+39965;Catamarca;Femenino;Litio-Produccion;10;7377,23;8114,16
+39965;Catamarca;Masculino;Litio-Produccion;145,5;7918,16;8438,87
+39965;Jujuy;Femenino;Litio-exploración y financiación;3;7084,24;6882,43
+39965;Jujuy;Masculino;Litio-exploración y financiación;8;3496,98;4692,18
+39965;Jujuy;Masculino;Litio-Produccion;7,5;2825,7;2603,59
+39965;Mendoza;Masculino;Litio-Produccion;2,5;14103,69;12493,99
+39965;Salta;Femenino;Litio-exploración y financiación;5;3231,77;4770,45
+39965;Salta;Femenino;Litio-Produccion;16;6318,74;7701,67
+39965;Salta;Masculino;Litio-exploración y financiación;37;4010,79;5291,11
+39965;Salta;Masculino;Litio-Produccion;48;9217,69;9455,23
+39995;Catamarca;Femenino;Litio-Produccion;10;5087,75;5592,43
+39995;Catamarca;Masculino;Litio-Produccion;146;5108,85;5600,5
+39995;Jujuy;Femenino;Litio-exploración y financiación;3;4885,68;4811,31
+39995;Jujuy;Masculino;Litio-exploración y financiación;10;2573,35;3306,8
+39995;Jujuy;Masculino;Litio-Produccion;11;1586,27;1739,88
+39995;Mendoza;Masculino;Litio-Produccion;3;9726,68;7785,51
+39995;Salta;Femenino;Litio-exploración y financiación;4;2151,36;2224,23
+39995;Salta;Femenino;Litio-Produccion;16;4357,75;5438,2
+39995;Salta;Masculino;Litio-exploración y financiación;37;2788,02;3605,54
+39995;Salta;Masculino;Litio-Produccion;47;6870,75;6599,65
+40026;Catamarca;Femenino;Litio-Produccion;10;5345,58;5748,33
+40026;Catamarca;Masculino;Litio-Produccion;145;5347,86;5779,86
+40026;Jujuy;Femenino;Litio-exploración y financiación;3;4885,68;5109,09
+40026;Jujuy;Masculino;Litio-exploración y financiación;14;1994,42;3793,59
+40026;Jujuy;Masculino;Litio-Produccion;11;1586,27;1739,88
+40026;Mendoza;Masculino;Litio-Produccion;5;9726,48;7164,65
+40026;Salta;Femenino;Litio-exploración y financiación;4;2886,03;3054,43
+40026;Salta;Femenino;Litio-Produccion;16;4779,33;5704,08
+40026;Salta;Masculino;Litio-exploración y financiación;34;3420,38;3938,04
+40026;Salta;Masculino;Litio-Produccion;48;6107,78;6433,18
+40057;Catamarca;Femenino;Litio-Produccion;10;5171,18;5687,39
+40057;Catamarca;Masculino;Litio-Produccion;145;5347,86;5836,36
+40057;Jujuy;Femenino;Litio-exploración y financiación;3;4885,68;5602,71
+40057;Jujuy;Masculino;Litio-exploración y financiación;14;1994,42;3802,94
+40057;Jujuy;Masculino;Litio-Produccion;17;1927,75;1652,51
+40057;Mendoza;Femenino;Litio-Produccion;4;4741,66;5495,83
+40057;Mendoza;Masculino;Litio-Produccion;11;10000;8156,93
+40057;Salta;Femenino;Litio-exploración y financiación;4;2943,76;3090,65
+40057;Salta;Femenino;Litio-Produccion;15;4701,87;5691,93
+40057;Salta;Masculino;Litio-exploración y financiación;34;3550,83;3974,15
+40057;Salta;Masculino;Litio-Produccion;47;6357,03;6613,64
+40087;Catamarca;Femenino;Litio-Produccion;9,5;5173,93;5804,05
+40087;Catamarca;Masculino;Litio-Produccion;145;5300,78;5710,19
+40087;Jujuy;Femenino;Litio-exploración y financiación;3;4885,68;5397,14
+40087;Jujuy;Masculino;Litio-exploración y financiación;14;1994,42;3829,42
+40087;Jujuy;Masculino;Litio-Produccion;17,5;1927,75;1858,95
+40087;Mendoza;Femenino;Litio-Produccion;2;4741,66;5495,83
+40087;Mendoza;Masculino;Litio-Produccion;7;10000;8532,33
+40087;Salta;Femenino;Litio-exploración y financiación;4;3070,64;3118,69
+40087;Salta;Femenino;Litio-Produccion;15;4469,37;5322,96
+40087;Salta;Masculino;Litio-exploración y financiación;34;3478,26;3970,5
+40087;Salta;Masculino;Litio-Produccion;47,5;6357,03;6527,67
+40118;Catamarca;Femenino;Litio-Produccion;9;5691,08;5933,66
+40118;Catamarca;Masculino;Litio-Produccion;145;5208,11;5584,01
+40118;Jujuy;Femenino;Litio-exploración y financiación;3;4885,68;5191,58
+40118;Jujuy;Masculino;Litio-exploración y financiación;14;2001,36;3855,9
+40118;Jujuy;Masculino;Litio-Produccion;18;1927,75;2053,92
+40118;Mendoza;Masculino;Litio-Produccion;3;10000;9908,76
+40118;Salta;Femenino;Litio-exploración y financiación;4;3070,64;3146,74
+40118;Salta;Femenino;Litio-Produccion;15;4013,63;4953,99
+40118;Salta;Masculino;Litio-exploración y financiación;34;3449,81;3966,85
+40118;Salta;Masculino;Litio-Produccion;48;5839,31;6443,49
+40148;Catamarca;Femenino;Litio-Produccion;11;7510,59;7318,01
+40148;Catamarca;Masculino;Litio-Produccion;146;8794,44;8287,83
+40148;Jujuy;Femenino;Litio-exploración y financiación;3;7328,52;7230,89
+40148;Jujuy;Masculino;Litio-exploración y financiación;14;3378,14;4899,79
+40148;Jujuy;Masculino;Litio-Produccion;19;2891,62;2873,25
+40148;Mendoza;Femenino;Litio-Produccion;7;6012,5;6091,18
+40148;Mendoza;Masculino;Litio-Produccion;11;10000;8829,8
+40148;Salta;Femenino;Litio-exploración y financiación;4;4036,91;4439,26
+40148;Salta;Femenino;Litio-Produccion;15;6511,23;7135,92
+40148;Salta;Masculino;Litio-exploración y financiación;35;5030,81;5680,21
+40148;Salta;Masculino;Litio-Produccion;48;9606;8192,26
+40179;Catamarca;Femenino;Litio-Produccion;10;5017,4;5649,86
+40179;Catamarca;Masculino;Litio-Produccion;149;5445,4;5834,01
+40179;Jujuy;Femenino;Litio-exploración y financiación;3;5341,67;4814,92
+40179;Jujuy;Masculino;Litio-exploración y financiación;14;2225,68;3921,14
+40179;Jujuy;Masculino;Litio-Produccion;26;1927,75;2508,9
+40179;Mendoza;Femenino;Litio-Produccion;8;8500;7706,25
+40179;Mendoza;Masculino;Litio-Produccion;12;10000;8672,04
+40179;Salta;Femenino;Litio-exploración y financiación;6;1906,65;2063,96
+40179;Salta;Femenino;Litio-Produccion;16;4132,09;5475,83
+40179;Salta;Masculino;Litio-exploración y financiación;37;3448,29;3990,09
+40179;Salta;Masculino;Litio-Produccion;51;5622,19;6489,31
+40210;Catamarca;Femenino;Litio-Produccion;10;10000;8330,85
+40210;Catamarca;Masculino;Litio-Produccion;152;10000;8684,58
+40210;Jujuy;Femenino;Litio-exploración y financiación;2;6117,78;6117,78
+40210;Jujuy;Masculino;Litio-exploración y financiación;14;2496,59;4168,76
+40210;Jujuy;Masculino;Litio-Produccion;26;2220;2675,99
+40210;Mendoza;Femenino;Litio-Produccion;8;5250;5741,25
+40210;Mendoza;Masculino;Litio-Produccion;12;8467,74;8036,29
+40210;Salta;Femenino;Litio-exploración y financiación;4;2857,88;2581,55
+40210;Salta;Femenino;Litio-Produccion;17;8422,31;7544,28
+40210;Salta;Masculino;Litio-exploración y financiación;37;3825,45;3985,69
+40210;Salta;Masculino;Litio-Produccion;51;9319,61;8241,94
+40238;Catamarca;Femenino;Litio-Produccion;11;4822,32;4898,85
+40238;Catamarca;Masculino;Litio-Produccion;152;5363,36;5802,89
+40238;Jujuy;Femenino;Litio-exploración y financiación;2;7893,37;7893,37
+40238;Jujuy;Femenino;Litio-Produccion;1;1974,62;1974,62
+40238;Jujuy;Masculino;Litio-exploración y financiación;14;3128,81;4838,59
+40238;Jujuy;Masculino;Litio-Produccion;31;2220;3080,23
+40238;Mendoza;Femenino;Litio-Produccion;9;5500;5750
+40238;Mendoza;Masculino;Litio-Produccion;13;7500;7176,32
+40238;Salta;Femenino;Litio-exploración y financiación;4;3429,85;3307,76
+40238;Salta;Femenino;Litio-Produccion;17;4182,2;5557,74
+40238;Salta;Masculino;Litio-exploración y financiación;50;3879,19;4654,52
+40238;Salta;Masculino;Litio-Produccion;50;5824,12;6632,63
+40269;Catamarca;Femenino;Litio-Produccion;11;5207,34;5598,35
+40269;Catamarca;Masculino;Litio-Produccion;149;6928,68;6975,47
+40269;Jujuy;Femenino;Litio-exploración y financiación;2;7893,36;7893,36
+40269;Jujuy;Femenino;Litio-Produccion;2;2350;2350
+40269;Jujuy;Masculino;Litio-exploración y financiación;16;3128,81;5216,34
+40269;Jujuy;Masculino;Litio-Produccion;36;2409,8;3200,66
+40269;Mendoza;Femenino;Litio-Produccion;9;6000;6028,19
+40269;Mendoza;Masculino;Litio-Produccion;11;7500;7954,55
+40269;Salta;Femenino;Litio-exploración y financiación;4;3665,26;3900,38
+40269;Salta;Femenino;Litio-Produccion;16;4616,63;5886,87
+40269;Salta;Masculino;Litio-exploración y financiación;51;3509,04;4571,22
+40269;Salta;Masculino;Litio-Produccion;48;6477,4;7003,13
+40299;Catamarca;Femenino;Litio-Produccion;11;4822,32;4800,69
+40299;Catamarca;Masculino;Litio-Produccion;150;5471,36;5934,42
+40299;Jujuy;Femenino;Litio-exploración y financiación;2;7893,36;7893,36
+40299;Jujuy;Femenino;Litio-Produccion;2;2350;2350
+40299;Jujuy;Masculino;Litio-exploración y financiación;15;3265,87;5196,35
+40299;Jujuy;Masculino;Litio-Produccion;37;2409,8;3228,46
+40299;Mendoza;Femenino;Litio-Produccion;12;6000;6643,75
+40299;Mendoza;Masculino;Litio-Produccion;12;10000;8833,33
+40299;Salta;Femenino;Litio-exploración y financiación;4;3993,5;4045,75
+40299;Salta;Femenino;Litio-Produccion;16;4935,38;5962,15
+40299;Salta;Masculino;Litio-exploración y financiación;54;3695;4577,98
+40299;Salta;Masculino;Litio-Produccion;51;5514,07;6481,31
+40330;Catamarca;Femenino;Litio-Produccion;11;9676,02;8436,71
+40330;Catamarca;Masculino;Litio-Produccion;150;9987,45;8839,73
+40330;Jujuy;Femenino;Litio-exploración y financiación;2;9653,61;9653,61
+40330;Jujuy;Femenino;Litio-Produccion;3;1395,75;2366,76
+40330;Jujuy;Masculino;Litio-exploración y financiación;15;4700,02;6440,97
+40330;Jujuy;Masculino;Litio-Produccion;38;3958,74;4489,1
+40330;Mendoza;Femenino;Litio-Produccion;13;10000;8675,79
+40330;Mendoza;Masculino;Litio-Produccion;12;10000;8998,04
+40330;Salta;Femenino;Litio-exploración y financiación;4;5662,01;5904,51
+40330;Salta;Femenino;Litio-Produccion;16;7979,76;8230,54
+40330;Salta;Masculino;Litio-exploración y financiación;53;5630,01;6423,08
+40330;Salta;Masculino;Litio-Produccion;49;9511,78;8622,89
+40360;Catamarca;Femenino;Litio-Produccion;8;6904,33;7345,54
+40360;Catamarca;Masculino;Litio-Produccion;149;6366,89;6703,65
+40360;Jujuy;Femenino;Litio-exploración y financiación;2;7266,63;7266,63
+40360;Jujuy;Femenino;Litio-Produccion;3;2220;3226,47
+40360;Jujuy;Masculino;Litio-exploración y financiación;17;4048;5390,09
+40360;Jujuy;Masculino;Litio-Produccion;40;4410;4630,47
+40360;Mendoza;Femenino;Litio-Produccion;13;6800;7138,46
+40360;Mendoza;Masculino;Litio-Produccion;13;8000;7769,23
+40360;Salta;Femenino;Litio-exploración y financiación;4;3665,26;3886,12
+40360;Salta;Femenino;Litio-Produccion;16;5288,98;6551,47
+40360;Salta;Masculino;Litio-exploración y financiación;54;3868,38;4543,43
+40360;Salta;Masculino;Litio-Produccion;50;6767,04;7089,6
+40391;Catamarca;Femenino;Litio-Produccion;9;5551,57;6425,29
+40391;Catamarca;Masculino;Litio-Produccion;150;6337,56;6581,41
+40391;Jujuy;Femenino;Litio-exploración y financiación;2;6960,07;6960,07
+40391;Jujuy;Femenino;Litio-Produccion;3;2503,22;2541,07
+40391;Jujuy;Masculino;Litio-exploración y financiación;17;4084,8;5367,74
+40391;Jujuy;Masculino;Litio-Produccion;41;2500;3618,15
+40391;Mendoza;Femenino;Litio-Produccion;13;6800;7074,22
+40391;Mendoza;Masculino;Litio-Produccion;15;8000;7432,68
+40391;Salta;Femenino;Litio-exploración y financiación;4;3766,85;3941,41
+40391;Salta;Femenino;Litio-Produccion;15;4769,23;6141,5
+40391;Salta;Masculino;Litio-exploración y financiación;56;3715,77;4490,89
+40391;Salta;Masculino;Litio-Produccion;51;6341,19;6870,35
+40422;Catamarca;Femenino;Litio-Produccion;10;5860,56;6163,44
+40422;Catamarca;Masculino;Litio-Produccion;151;6874,2;6983,35
+40422;Jujuy;Femenino;Litio-exploración y financiación;2;7558,62;7558,62
+40422;Jujuy;Femenino;Litio-Produccion;3;3013,02;2944,34
+40422;Jujuy;Masculino;Litio-exploración y financiación;17;4412,32;5324,02
+40422;Jujuy;Masculino;Litio-Produccion;42;2710;3738,46
+40422;Mendoza;Femenino;Litio-Produccion;15;6800;6672,84
+40422;Mendoza;Masculino;Litio-Produccion;16;7500;7393,75
+40422;Salta;Femenino;Litio-exploración y financiación;4;4056,65;4260,96
+40422;Salta;Femenino;Litio-Produccion;17;5808,72;6368,04
+40422;Salta;Masculino;Litio-exploración y financiación;58;4378,82;4993,75
+40422;Salta;Masculino;Litio-Produccion;51;7229,44;7206,27
+40452;Catamarca;Femenino;Litio-Produccion;10;6912,26;6431,68
+40452;Catamarca;Masculino;Litio-Produccion;152;6181,27;6519,82
+40452;Jujuy;Femenino;Litio-exploración y financiación;2;8381,62;8381,62
+40452;Jujuy;Femenino;Litio-Produccion;3;3112,46;2977,49
+40452;Jujuy;Masculino;Litio-exploración y financiación;17;4452,43;5572,95
+40452;Jujuy;Masculino;Litio-Produccion;78;3050;3472,79
+40452;Mendoza;Femenino;Litio-Produccion;15;6800;7016,05
+40452;Mendoza;Masculino;Litio-Produccion;18;7000;6950,14
+40452;Salta;Femenino;Litio-exploración y financiación;4;3995,12;4236,81
+40452;Salta;Femenino;Litio-Produccion;17;5808,72;5967,16
+40452;Salta;Masculino;Litio-exploración y financiación;57;4773,46;4972,81
+40452;Salta;Masculino;Litio-Produccion;52;6523,77;6960,13
+40483;Catamarca;Femenino;Litio-Produccion;10;7197,74;6334,8
+40483;Catamarca;Masculino;Litio-Produccion;153;6858,76;6902,27
+40483;Jujuy;Femenino;Litio-exploración y financiación;2;8381,62;8381,62
+40483;Jujuy;Femenino;Litio-Produccion;4;3751,54;3690,73
+40483;Jujuy;Masculino;Litio-exploración y financiación;17;4452,43;5641,04
+40483;Jujuy;Masculino;Litio-Produccion;90;3050;3662,79
+40483;Mendoza;Femenino;Litio-Produccion;14;7150;7292,46
+40483;Mendoza;Masculino;Litio-Produccion;15;8000;8205
+40483;Salta;Femenino;Litio-exploración y financiación;4;4571,83;4566,59
+40483;Salta;Femenino;Litio-Produccion;18;5607,9;6172,59
+40483;Salta;Masculino;Litio-exploración y financiación;63;4412,32;4899,39
+40483;Salta;Masculino;Litio-Produccion;54;7505,68;7320,17
+40513;Catamarca;Femenino;Litio-Produccion;9;10800,2;15355,85
+40513;Catamarca;Masculino;Litio-Produccion;151;11477,9;12981,07
+40513;Jujuy;Femenino;Litio-exploración y financiación;2;13970,95;13970,95
+40513;Jujuy;Femenino;Litio-Produccion;4;5694,43;5212,06
+40513;Jujuy;Masculino;Litio-exploración y financiación;17;6678,65;20351,11
+40513;Jujuy;Masculino;Litio-Produccion;90;3812,5;5504,08
+40513;Mendoza;Femenino;Litio-Produccion;12;10093,2;12516,71
+40513;Mendoza;Masculino;Litio-Produccion;15;12000;14746,45
+40513;Salta;Femenino;Litio-exploración y financiación;5;7050,45;6023,24
+40513;Salta;Femenino;Litio-Produccion;21;9216,52;10493,94
+40513;Salta;Masculino;Litio-exploración y financiación;63;6661,65;9790,5
+40513;Salta;Masculino;Litio-Produccion;56;11692,2;17858,95
+40544;Catamarca;Femenino;Litio-Produccion;9;7540,71;10204,31
+40544;Catamarca;Masculino;Litio-Produccion;153;6686,73;8262,42
+40544;Jujuy;Femenino;Litio-exploración y financiación;2;8536,47;8536,47
+40544;Jujuy;Femenino;Litio-Produccion;14;8080,12;10630,16
+40544;Jujuy;Masculino;Litio-exploración y financiación;17;4699,91;12608,81
+40544;Jujuy;Masculino;Litio-Produccion;102;4050,5;6514,1
+40544;Mendoza;Femenino;Litio-Produccion;6;11100,85;16533,9
+40544;Mendoza;Masculino;Litio-Produccion;5;28000,9;27512,34
+40544;Salta;Femenino;Litio-exploración y financiación;6;3615,51;3183,57
+40544;Salta;Femenino;Litio-Produccion;21;6621,57;7853,58
+40544;Salta;Masculino;Litio-exploración y financiación;64;4562,08;6678,02
+40544;Salta;Masculino;Litio-Produccion;59;7394,35;11844,07
+40575;Catamarca;Femenino;Litio-Produccion;10;13588,4;20735,35
+40575;Catamarca;Masculino;Litio-Produccion;157;12381,4;15827,1
+40575;Jujuy;Femenino;Litio-exploración y financiación;2;9753,84;9753,84
+40575;Jujuy;Femenino;Litio-Produccion;14;6700;8093,55
+40575;Jujuy;Masculino;Litio-exploración y financiación;17;4452,43;13599,13
+40575;Jujuy;Masculino;Litio-Produccion;107;3050;5808,16
+40575;Mendoza;Femenino;Litio-Produccion;6;7762,62;10568,85
+40575;Mendoza;Masculino;Litio-Produccion;6;18087,5;17573,83
+40575;Salta;Femenino;Litio-exploración y financiación;5;4299,05;3780,66
+40575;Salta;Femenino;Litio-Produccion;22;10781,99;12274,61
+40575;Salta;Masculino;Litio-exploración y financiación;65;4216,88;6634,26
+40575;Salta;Masculino;Litio-Produccion;59;12390,4;27561,77
+40603;Catamarca;Femenino;Litio-Produccion;9;8682,86;12564,34
+40603;Catamarca;Masculino;Litio-Produccion;156;7779,44;11931,1
+40603;Jujuy;Femenino;Litio-exploración y financiación;3;6763,24;7178,18
+40603;Jujuy;Femenino;Litio-Produccion;14;7000;7948,3
+40603;Jujuy;Masculino;Litio-exploración y financiación;17;4452,43;13625,43
+40603;Jujuy;Masculino;Litio-Produccion;100;3263,63;5693,22
+40603;Mendoza;Femenino;Litio-Produccion;6;7100;9666,67
+40603;Mendoza;Masculino;Litio-Produccion;6;18600;17250
+40603;Salta;Femenino;Litio-exploración y financiación;5;3869,15;4174,33
+40603;Salta;Femenino;Litio-Produccion;21;5819,05;8457,25
+40603;Salta;Masculino;Litio-exploración y financiación;65;4310,95;6830,93
+40603;Salta;Masculino;Litio-Produccion;57;9936,99;16155,84
+40634;Catamarca;Femenino;Litio-Produccion;9;8209,89;12507,08
+40634;Catamarca;Masculino;Litio-Produccion;152;7973,06;9378,89
+40634;Jujuy;Femenino;Litio-exploración y financiación;3;6763,24;6338,82
+40634;Jujuy;Femenino;Litio-Produccion;14;7000;7973,4
+40634;Jujuy;Masculino;Litio-exploración y financiación;17;4452,43;13461,13
+40634;Jujuy;Masculino;Litio-Produccion;101;3263,63;5757,08
+40634;Mendoza;Femenino;Litio-Produccion;6;7100;9666,67
+40634;Mendoza;Masculino;Litio-Produccion;6;18600;17250
+40634;Salta;Femenino;Litio-exploración y financiación;4;4571,83;4847,98
+40634;Salta;Femenino;Litio-Produccion;20;5961,81;7971,28
+40634;Salta;Masculino;Litio-exploración y financiación;71;4216,88;6417,35
+40634;Salta;Masculino;Litio-Produccion;57;9807,24;13337,54
+40664;Catamarca;Femenino;Litio-Produccion;9;10376,8;12907,96
+40664;Catamarca;Masculino;Litio-Produccion;153;9241,74;10325,91
+40664;Jujuy;Femenino;Litio-exploración y financiación;3;6763,24;6343,77
+40664;Jujuy;Femenino;Litio-Produccion;14;7500;8128,21
+40664;Jujuy;Masculino;Litio-exploración y financiación;17;4452,43;13577,75
+40664;Jujuy;Masculino;Litio-Produccion;100;3421,18;5826,72
+40664;Mendoza;Femenino;Litio-Produccion;6;7100;9666,67
+40664;Mendoza;Masculino;Litio-Produccion;6;18600;19250
+40664;Salta;Femenino;Litio-exploración y financiación;4;4571,83;4896,45
+40664;Salta;Femenino;Litio-Produccion;23;7549,57;9107,87
+40664;Salta;Masculino;Litio-exploración y financiación;73;4431,35;6878,43
+40664;Salta;Masculino;Litio-Produccion;58;9884,17;13539,11
+40695;Catamarca;Femenino;Litio-Produccion;9;19456,5;23585,67
+40695;Catamarca;Masculino;Litio-Produccion;153;19989,8;21112,27
+40695;Jujuy;Femenino;Litio-exploración y financiación;3;16062,7;14806,14
+40695;Jujuy;Femenino;Litio-Produccion;14;11250;13563,15
+40695;Jujuy;Masculino;Litio-exploración y financiación;17;10574,5;24330,77
+40695;Jujuy;Masculino;Litio-Produccion;107;5985,13;9106,39
+40695;Mendoza;Femenino;Litio-Produccion;6;12650;17933,33
+40695;Mendoza;Masculino;Litio-Produccion;6;32400;32708,33
+40695;Salta;Femenino;Litio-exploración y financiación;4;10410,26;11255,58
+40695;Salta;Femenino;Litio-Produccion;24;14888;16463,85
+40695;Salta;Masculino;Litio-exploración y financiación;74;10259,1;13497,36
+40695;Salta;Masculino;Litio-Produccion;58;19087,75;24592,41
+40725;Catamarca;Femenino;Litio-Produccion;9;9969,12;14357,79
+40725;Catamarca;Masculino;Litio-Produccion;154;8864,92;11078,4
+40725;Jujuy;Femenino;Litio-exploración y financiación;3;8454,05;7949,34
+40725;Jujuy;Femenino;Litio-Produccion;16;10100;13110,63
+40725;Jujuy;Masculino;Litio-exploración y financiación;17;5565,54;14808,67
+40725;Jujuy;Masculino;Litio-Produccion;112;3615;7558,95
+40725;Mendoza;Femenino;Litio-Produccion;6;8200;11366,67
+40725;Mendoza;Masculino;Litio-Produccion;7;18000;19602,33
+40725;Salta;Femenino;Litio-exploración y financiación;4;5856,08;6162,23
+40725;Salta;Femenino;Litio-Produccion;25;7509,8;18292,98
+40725;Salta;Masculino;Litio-exploración y financiación;74;5522,05;7747,27
+40725;Salta;Masculino;Litio-Produccion;58;10862,45;14512,25
+40756;Catamarca;Femenino;Litio-Produccion;9;9851,87;13512,94
+40756;Catamarca;Masculino;Litio-Produccion;154;9531,83;11155,56
+40756;Jujuy;Femenino;Litio-exploración y financiación;3;8792,21;8069,07
+40756;Jujuy;Femenino;Litio-Produccion;17;7000;10368,02
+40756;Jujuy;Masculino;Litio-exploración y financiación;17;5615,68;14832,52
+40756;Jujuy;Masculino;Litio-Produccion;112;6158,67;7937,74
+40756;Mendoza;Femenino;Litio-Produccion;6;8200;11366,67
+40756;Mendoza;Masculino;Litio-Produccion;7;18000;20002,14
+40756;Salta;Femenino;Litio-exploración y financiación;4;5795,55;6057,02
+40756;Salta;Femenino;Litio-Produccion;24;7309,37;9233,17
+40756;Salta;Masculino;Litio-exploración y financiación;81;5388,69;7279,59
+40756;Salta;Masculino;Litio-Produccion;59;11604,8;15468,29
+40787;Catamarca;Femenino;Litio-Produccion;10;10892,58;27786,35
+40787;Catamarca;Masculino;Litio-Produccion;156;9007,42;10717,44
+40787;Jujuy;Femenino;Litio-exploración y financiación;3;8792,21;8076,03
+40787;Jujuy;Femenino;Litio-Produccion;18;6400;7194,4
+40787;Jujuy;Masculino;Litio-exploración y financiación;18;5590,61;14145,34
+40787;Jujuy;Masculino;Litio-Produccion;118;3916,83;6110,51
+40787;Mendoza;Femenino;Litio-Produccion;6;8200;11366,82
+40787;Mendoza;Masculino;Litio-Produccion;6;22000;23067
+40787;Salta;Femenino;Litio-exploración y financiación;5;5535,2;4938,93
+40787;Salta;Femenino;Litio-Produccion;24;7285,27;9127,63
+40787;Salta;Masculino;Litio-exploración y financiación;94;5229,8;6972,69
+40787;Salta;Masculino;Litio-Produccion;58;11078,45;14933,2
+40817;Catamarca;Femenino;Litio-Produccion;9;11933,3;14771,69
+40817;Catamarca;Masculino;Litio-Produccion;158;9953,49;11884,89
+40817;Jujuy;Femenino;Litio-exploración y financiación;3;10007,6;11484,02
+40817;Jujuy;Femenino;Litio-Produccion;19;7000;7022,05
+40817;Jujuy;Masculino;Litio-exploración y financiación;19;6681,99;14686,08
+40817;Jujuy;Masculino;Litio-Produccion;124;4087,1;6314,63
+40817;Mendoza;Femenino;Litio-Produccion;6;8200,17;11366,91
+40817;Mendoza;Masculino;Litio-Produccion;6;22000;23067
+40817;Salta;Femenino;Litio-exploración y financiación;6;6537,38;9634,51
+40817;Salta;Femenino;Litio-Produccion;23;7340,54;9232,57
+40817;Salta;Masculino;Litio-exploración y financiación;99;5935,51;7777,74
+40817;Salta;Masculino;Litio-Produccion;58;12027,95;15398,49
+40848;Catamarca;Femenino;Litio-Produccion;7;11933,3;15873,68
+40848;Catamarca;Masculino;Litio-Produccion;159;10554,3;12050,33
+40848;Jujuy;Femenino;Litio-exploración y financiación;3;9444,87;11090,62
+40848;Jujuy;Femenino;Litio-Produccion;19;7000;7334,74
+40848;Jujuy;Masculino;Litio-exploración y financiación;19;5975,09;13968,73
+40848;Jujuy;Masculino;Litio-Produccion;122;4035,88;6915,91
+40848;Mendoza;Femenino;Litio-Produccion;6;8200,17;11366,91
+40848;Mendoza;Masculino;Litio-Produccion;6;22000;23067
+40848;Salta;Femenino;Litio-exploración y financiación;6;6166,47;9564,83
+40848;Salta;Femenino;Litio-Produccion;24;7313,6;9287,92
+40848;Salta;Masculino;Litio-exploración y financiación;114;5413,71;8087,94
+40848;Salta;Masculino;Litio-Produccion;58;12018,2;16436,43
+40878;Catamarca;Femenino;Litio-Produccion;7;17899,9;24007,16
+40878;Catamarca;Masculino;Litio-Produccion;161;14878,4;17519,44
+40878;Jujuy;Femenino;Litio-exploración y financiación;3;14390,3;18823,41
+40878;Jujuy;Femenino;Litio-Produccion;17;9453,8;10552,43
+40878;Jujuy;Masculino;Litio-exploración y financiación;19;9251,61;22125,23
+40878;Jujuy;Masculino;Litio-Produccion;116;6360,59;9088,7
+40878;Mendoza;Femenino;Litio-Produccion;6;12300;17050
+40878;Mendoza;Masculino;Litio-Produccion;6;33000;39453,33
+40878;Salta;Femenino;Litio-exploración y financiación;6;9249,7;15151,09
+40878;Salta;Femenino;Litio-Produccion;26;11222,95;13804,39
+40878;Salta;Masculino;Litio-exploración y financiación;113;7587,42;11859,61
+40878;Salta;Masculino;Litio-Produccion;58;18482,55;23731,45
+40909;CABA;Masculino;Litio-Produccion;1;12800,8;12800,8
+40909;Catamarca;Femenino;Litio-Produccion;7;19602,5;22642,64
+40909;Catamarca;Masculino;Litio-Produccion;165;17940;19591,12
+40909;Jujuy;Femenino;Litio-exploración y financiación;3;9491,6;9814,98
+40909;Jujuy;Femenino;Litio-Produccion;15;5800;6842,61
+40909;Jujuy;Masculino;Litio-exploración y financiación;19;6028,54;26421,77
+40909;Jujuy;Masculino;Litio-Produccion;120;4332,45;6478,39
+40909;Mendoza;Femenino;Litio-Produccion;6;8965,84;11687,5
+40909;Mendoza;Masculino;Litio-Produccion;3;24000,7;24136,2
+40909;Salta;Femenino;Litio-exploración y financiación;6;6672,19;12316,01
+40909;Salta;Femenino;Litio-Produccion;29;13355,9;12939,82
+40909;Salta;Masculino;Litio-exploración y financiación;110;5476,2;9132,35
+40909;Salta;Masculino;Litio-Produccion;60;17105,35;21584,07
+40940;CABA;Masculino;Litio-Produccion;1;12800,1;12800,1
+40940;Catamarca;Femenino;Litio-Produccion;7;29645,3;31523,65
+40940;Catamarca;Masculino;Litio-Produccion;163;12364;18360,19
+40940;Jujuy;Femenino;Litio-exploración y financiación;3;10327,1;10603,22
+40940;Jujuy;Femenino;Litio-Produccion;17;6803,33;6922,88
+40940;Jujuy;Masculino;Litio-exploración y financiación;19;6469,37;16240,03
+40940;Jujuy;Masculino;Litio-Produccion;123;4298,96;7350,7
+40940;Mendoza;Femenino;Litio-Produccion;5;10400,1;18664,06
+40940;Mendoza;Masculino;Litio-Produccion;2;22560,1;22560,1
+40940;Salta;Femenino;Litio-exploración y financiación;8;5618,98;9596,73
+40940;Salta;Femenino;Litio-Produccion;29;8285,21;15649,86
+40940;Salta;Masculino;Litio-exploración y financiación;120;5090,55;8046,69
+40940;Salta;Masculino;Litio-Produccion;56;13090,45;26907,31
+40969;Catamarca;Femenino;Litio-Produccion;7;16200;18512,97
+40969;Catamarca;Masculino;Litio-Produccion;170;10692,95;12360,04
+40969;Jujuy;Femenino;Litio-exploración y financiación;3;9490,6;9832,85
+40969;Jujuy;Femenino;Litio-Produccion;18;6750;6895,56
+40969;Jujuy;Masculino;Litio-exploración y financiación;22;7616,84;19837,08
+40969;Jujuy;Masculino;Litio-Produccion;120;4646,88;7177,36
+40969;Mendoza;Femenino;Litio-Produccion;4;9000,05;13050,1
+40969;Mendoza;Masculino;Litio-Produccion;4;22000,2;20200,45
+40969;Salta;Femenino;Litio-exploración y financiación;7;4793,55;8623,73
+40969;Salta;Femenino;Litio-Produccion;28;7835,48;9628,74
+40969;Salta;Masculino;Litio-exploración y financiación;117;5582,03;7976,69
+40969;Salta;Masculino;Litio-Produccion;55;11445,8;21565,47
+41000;CABA;Masculino;Litio-Produccion;1;10000;10000
+41000;Catamarca;Femenino;Litio-Produccion;7;16200;18512,97
+41000;Catamarca;Masculino;Litio-Produccion;182;10149,55;11654,42
+41000;Jujuy;Femenino;Litio-exploración y financiación;3;9445,41;9841,03
+41000;Jujuy;Femenino;Litio-Produccion;18;7400;7590,99
+41000;Jujuy;Masculino;Litio-exploración y financiación;20;6976,19;18077,66
+41000;Jujuy;Masculino;Litio-Produccion;110;4298,96;6502,29
+41000;Mendoza;Femenino;Litio-Produccion;3;7600;13933,43
+41000;Mendoza;Masculino;Litio-Produccion;3;20000;18933,9
+41000;Salta;Femenino;Litio-exploración y financiación;7;7544,15;6219,74
+41000;Salta;Femenino;Litio-Produccion;26;7476,27;9236,43
+41000;Salta;Masculino;Litio-exploración y financiación;125;5414,67;8701,02
+41000;Salta;Masculino;Litio-Produccion;55;10702,3;15712,96
+41030;Catamarca;Femenino;Litio-Produccion;8;14358,7;16988,16
+41030;Catamarca;Masculino;Litio-Produccion;191;10513,4;11903,44
+41030;Jujuy;Femenino;Litio-exploración y financiación;3;14150,9;12829,2
+41030;Jujuy;Femenino;Litio-Produccion;17;6500;11082,44
+41030;Jujuy;Masculino;Litio-exploración y financiación;21;8176,17;19673,73
+41030;Jujuy;Masculino;Litio-Produccion;110;5185,45;8631,51
+41030;Mendoza;Femenino;Litio-Produccion;4;37739,55;36736,18
+41030;Mendoza;Masculino;Litio-Produccion;3;20000;18933,73
+41030;Salta;Femenino;Litio-exploración y financiación;8;10580,41;9444,37
+41030;Salta;Femenino;Litio-Produccion;26;7837,96;10311,23
+41030;Salta;Masculino;Litio-exploración y financiación;129;6935,26;9650,52
+41030;Salta;Masculino;Litio-Produccion;55;10831,2;17468
+41061;Catamarca;Femenino;Litio-Produccion;7;25056;30413,33
+41061;Catamarca;Masculino;Litio-Produccion;193;18232,9;21185,53
+41061;Jujuy;Femenino;Litio-exploración y financiación;3;21226,7;18715,88
+41061;Jujuy;Femenino;Litio-Produccion;17;9901,67;12123,19
+41061;Jujuy;Masculino;Litio-exploración y financiación;20;10491,65;25246,66
+41061;Jujuy;Masculino;Litio-Produccion;110;7315,53;10123,84
+41061;Mendoza;Femenino;Litio-Produccion;2;27540,5;27540,5
+41061;Mendoza;Masculino;Litio-Produccion;2;34102,35;34102,35
+41061;Salta;Femenino;Litio-exploración y financiación;7;11904,1;13108,4
+41061;Salta;Femenino;Litio-Produccion;24;14293;16424,55
+41061;Salta;Masculino;Litio-exploración y financiación;129;8285,63;13661,79
+41061;Salta;Masculino;Litio-Produccion;54;18928,25;24937,59
+41091;Catamarca;Femenino;Litio-Produccion;7;16200;18844,67
+41091;Catamarca;Masculino;Litio-Produccion;191;10627,4;12750,86
+41091;Jujuy;Femenino;Litio-exploración y financiación;3;14150;12429,03
+41091;Jujuy;Femenino;Litio-Produccion;14;5399,48;6725,27
+41091;Jujuy;Masculino;Litio-exploración y financiación;20;6994,15;16762,44
+41091;Jujuy;Masculino;Litio-Produccion;109;4785,45;6819,99
+41091;Mendoza;Femenino;Litio-Produccion;5;7600;14152,63
+41091;Mendoza;Masculino;Litio-Produccion;2;24400,2;24400,2
+41091;Salta;Femenino;Litio-exploración y financiación;9;7935,62;8813,84
+41091;Salta;Femenino;Litio-Produccion;24;7837,96;10864,9
+41091;Salta;Masculino;Litio-exploración y financiación;134;6014,67;9601,91
+41091;Salta;Masculino;Litio-Produccion;54;10879;15498,69
+41122;Catamarca;Femenino;Litio-Produccion;7;16200;19258,95
+41122;Catamarca;Masculino;Litio-Produccion;193;11923,7;13241,86
+41122;Jujuy;Femenino;Litio-exploración y financiación;3;14150;12531,09
+41122;Jujuy;Femenino;Litio-Produccion;18;10066,67;10727,34
+41122;Jujuy;Masculino;Litio-exploración y financiación;20;7111,78;17046,28
+41122;Jujuy;Masculino;Litio-Produccion;109;9500;11782,33
+41122;Mendoza;Femenino;Litio-Produccion;2;21800,4;21800,4
+41122;Mendoza;Masculino;Litio-Produccion;4;17997,75;16748,92
+41122;Salta;Femenino;Litio-exploración y financiación;11;7935,95;9278,91
+41122;Salta;Femenino;Litio-Produccion;24;9044,85;11029,86
+41122;Salta;Masculino;Litio-exploración y financiación;148;6335,21;9893,02
+41122;Salta;Masculino;Litio-Produccion;54;11600,15;16462,26
+41153;Catamarca;Femenino;Litio-Produccion;8;20812,05;25726,44
+41153;Catamarca;Masculino;Litio-Produccion;194;16778,65;19181,67
+41153;Jujuy;Femenino;Litio-exploración y financiación;3;15565,7;13631,19
+41153;Jujuy;Femenino;Litio-Produccion;20;6099,19;7177,85
+41153;Jujuy;Masculino;Litio-exploración y financiación;19;7626,41;16006
+41153;Jujuy;Masculino;Litio-Produccion;114;5170,36;7725,35
+41153;Mendoza;Femenino;Litio-Produccion;3;7600;15933,67
+41153;Mendoza;Masculino;Litio-Produccion;3;22000;17324,74
+41153;Salta;Femenino;Litio-exploración y financiación;15;6293,98;8260,55
+41153;Salta;Femenino;Litio-Produccion;24;13343,3;16571,52
+41153;Salta;Masculino;Litio-exploración y financiación;160;5904,42;9826,31
+41153;Salta;Masculino;Litio-Produccion;54;14457,8;22342,05
+41183;Catamarca;Femenino;Litio-Produccion;7;19116;22491,66
+41183;Catamarca;Masculino;Litio-Produccion;193;12537;14766,33
+41183;Jujuy;Femenino;Litio-exploración y financiación;3;15565,7;13631,08
+41183;Jujuy;Femenino;Litio-Produccion;21;5198,38;7095,53
+41183;Jujuy;Masculino;Litio-exploración y financiación;20;7435,53;17528,29
+41183;Jujuy;Masculino;Litio-Produccion;113;4959,17;7761,2
+41183;Mendoza;Femenino;Litio-Produccion;2;22640,4;22640,4
+41183;Mendoza;Masculino;Litio-Produccion;2;23560,45;23560,45
+41183;Salta;Femenino;Litio-exploración y financiación;15;8151,67;9066,9
+41183;Salta;Femenino;Litio-Produccion;23;9333,52;15362,91
+41183;Salta;Masculino;Litio-exploración y financiación;161;5886,27;9772,46
+41183;Salta;Masculino;Litio-Produccion;53;12243,2;18358,77
+41214;Catamarca;Femenino;Litio-Produccion;8;18323,65;22051,77
+41214;Catamarca;Masculino;Litio-Produccion;192;16096,15;18004,42
+41214;Jujuy;Femenino;Litio-exploración y financiación;3;15565,7;13631,24
+41214;Jujuy;Femenino;Litio-Produccion;21;6900;7523,5
+41214;Jujuy;Masculino;Litio-exploración y financiación;20;7316,58;17643,07
+41214;Jujuy;Masculino;Litio-Produccion;115;4941,38;7746,42
+41214;Mendoza;Femenino;Litio-Produccion;3;7600;15933,47
+41214;Mendoza;Masculino;Litio-Produccion;3;22000;15333,63
+41214;Salta;Femenino;Litio-exploración y financiación;15;8151,67;9390,91
+41214;Salta;Femenino;Litio-Produccion;22;9730,15;12318,19
+41214;Salta;Masculino;Litio-exploración y financiación;163;6074,93;9876,47
+41214;Salta;Masculino;Litio-Produccion;52;14956,55;17821,01
+41244;CABA;Femenino;Litio-Produccion;1;21309,11;21309,11
+41244;CABA;Masculino;Litio-Produccion;1;6658,6;6658,6
+41244;Catamarca;Femenino;Litio-Produccion;8,5;27718,2;32428,38
+41244;Catamarca;Masculino;Litio-Produccion;192;26949,12;29223,82
+41244;Jujuy;Femenino;Litio-exploración y financiación;3;23623,47;20820,7
+41244;Jujuy;Femenino;Litio-Produccion;20;10947,5;11360,31
+41244;Jujuy;Masculino;Litio-exploración y financiación;19,5;11058,29;26099,49
+41244;Jujuy;Masculino;Litio-Produccion;114,5;7544,22;12085,89
+41244;Mendoza;Femenino;Litio-Produccion;3;11020;23509,65
+41244;Mendoza;Masculino;Litio-Produccion;3;34839,29;30610,35
+41244;Salta;Femenino;Litio-exploración y financiación;15;12656,83;14689,63
+41244;Salta;Femenino;Litio-Produccion;22;14108,71;17949,28
+41244;Salta;Masculino;Litio-exploración y financiación;160,5;9902,09;15277,92
+41244;Salta;Masculino;Litio-Produccion;54,5;23870,48;40435,82
+41275;CABA;Femenino;Litio-Produccion;2;14695,94;14695,94
+41275;CABA;Masculino;Litio-Produccion;2;4592,14;4592,14
+41275;Catamarca;Femenino;Litio-Produccion;9;19116;22642,29
+41275;Catamarca;Masculino;Litio-Produccion;192;21556,7;22304,3
+41275;Jujuy;Femenino;Litio-exploración y financiación;3;17018,4;15086,96
+41275;Jujuy;Femenino;Litio-Produccion;19;8500;8178,66
+41275;Jujuy;Masculino;Litio-exploración y financiación;19;7957,74;18375
+41275;Jujuy;Masculino;Litio-Produccion;114;5478,12;8928,93
+41275;Mendoza;Femenino;Litio-Produccion;3;7600;16493,63
+41275;Mendoza;Masculino;Litio-Produccion;3;25120,5;26887,53
+41275;Salta;Femenino;Litio-exploración y financiación;15;8730,7;10870,65
+41275;Salta;Femenino;Litio-Produccion;22;9896,36;12439,44
+41275;Salta;Masculino;Litio-exploración y financiación;158;7122,3;11217,42
+41275;Salta;Masculino;Litio-Produccion;57;17500;37069,58
+41306;CABA;Masculino;Litio-Produccion;1;12800;12800
+41306;Catamarca;Femenino;Litio-Produccion;16;10154,24;21152,62
+41306;Catamarca;Masculino;Litio-Produccion;204;18384,65;24320,74
+41306;Jujuy;Femenino;Litio-exploración y financiación;3;15565,9;14469,42
+41306;Jujuy;Femenino;Litio-Produccion;25;8500;8671,78
+41306;Jujuy;Masculino;Litio-exploración y financiación;19;7512,35;18400,91
+41306;Jujuy;Masculino;Litio-Produccion;110;5513,72;8520,17
+41306;Mendoza;Femenino;Litio-Produccion;2;20100,45;20100,45
+41306;Mendoza;Masculino;Litio-Produccion;2;23000,25;23000,25
+41306;Salta;Femenino;Litio-exploración y financiación;16;8335,08;10163,13
+41306;Salta;Femenino;Litio-Produccion;24;16159,2;22039,77
+41306;Salta;Masculino;Litio-exploración y financiación;160;6042,04;10338,65
+41306;Salta;Masculino;Litio-Produccion;59;16501,6;24972,71
+41334;CABA;Masculino;Litio-Produccion;1;12800,3;12800,3
+41334;Catamarca;Femenino;Litio-Produccion;15;10490,4;16791,71
+41334;Catamarca;Masculino;Litio-Produccion;200;15157,2;20384,19
+41334;Jujuy;Femenino;Litio-exploración y financiación;3;15565,8;14846,91
+41334;Jujuy;Femenino;Litio-Produccion;24;8750;8807,27
+41334;Jujuy;Masculino;Litio-exploración y financiación;19;7388,96;18833,79
+41334;Jujuy;Masculino;Litio-Produccion;110;5555,27;8506,85
+41334;Mendoza;Femenino;Litio-Produccion;3;7600;15933,6
+41334;Mendoza;Masculino;Litio-Produccion;2;23000,05;23000,05
+41334;Salta;Femenino;Litio-exploración y financiación;16;8365,42;10008,96
+41334;Salta;Femenino;Litio-Produccion;23;10049,1;14108,53
+41334;Salta;Masculino;Litio-exploración y financiación;161;5955,25;10349,43
+41334;Salta;Masculino;Litio-Produccion;59;12946,5;20514,1
+41365;Catamarca;Femenino;Litio-Produccion;16;9135,99;15069,87
+41365;Catamarca;Masculino;Litio-Produccion;199;15247,2;19971,49
+41365;Jujuy;Femenino;Litio-exploración y financiación;3;15565,8;14686,61
+41365;Jujuy;Femenino;Litio-Produccion;25;12480,2;11521,35
+41365;Jujuy;Masculino;Litio-exploración y financiación;19;7829,6;18884,91
+41365;Jujuy;Masculino;Litio-Produccion;110;5555,39;10198,33
+41365;Mendoza;Femenino;Litio-Produccion;3;7600;15933,6
+41365;Mendoza;Masculino;Litio-Produccion;2;26000,1;26000,1
+41365;Salta;Femenino;Litio-exploración y financiación;16;8365,74;10054,74
+41365;Salta;Femenino;Litio-Produccion;23;10047,2;11676,59
+41365;Salta;Masculino;Litio-exploración y financiación;161;7225,21;11227,96
+41365;Salta;Masculino;Litio-Produccion;59;13088,2;18555,23
+41395;CABA;Masculino;Litio-Produccion;1;13994,8;13994,8
+41395;Catamarca;Femenino;Litio-Produccion;15;7092,08;12618,8
+41395;Catamarca;Masculino;Litio-Produccion;199;14945,5;17070,76
+41395;Jujuy;Femenino;Litio-exploración y financiación;3;17900;16456,84
+41395;Jujuy;Femenino;Litio-Produccion;24;10400;13490,15
+41395;Jujuy;Masculino;Litio-exploración y financiación;19;8313,01;19917,65
+41395;Jujuy;Masculino;Litio-Produccion;111;6853,05;10374,8
+41395;Mendoza;Femenino;Litio-Produccion;2;21800,4;21800,4
+41395;Mendoza;Masculino;Litio-Produccion;3;25000;25933,63
+41395;Salta;Femenino;Litio-exploración y financiación;18;7733,67;10229,82
+41395;Salta;Femenino;Litio-Produccion;24;10171,95;13226,19
+41395;Salta;Masculino;Litio-exploración y financiación;177;7178,72;12349,88
+41395;Salta;Masculino;Litio-Produccion;57;12946,5;17473,55
+41426;CABA;Femenino;Litio-Produccion;1;29552;29552
+41426;CABA;Masculino;Litio-Produccion;1;18600,5;18600,5
+41426;Catamarca;Femenino;Litio-Produccion;15;16171,7;21620,19
+41426;Catamarca;Masculino;Litio-Produccion;199;25444,4;29285,81
+41426;Jujuy;Femenino;Litio-exploración y financiación;3;26850,1;24638,34
+41426;Jujuy;Femenino;Litio-Produccion;23;15000;14951,23
+41426;Jujuy;Masculino;Litio-exploración y financiación;19;12155,1;30404,83
+41426;Jujuy;Masculino;Litio-Produccion;114;10709;17104,47
+41426;Mendoza;Femenino;Litio-Produccion;2;42873,5;42873,5
+41426;Mendoza;Masculino;Litio-Produccion;3;82945,6;85882,2
+41426;Salta;Femenino;Litio-exploración y financiación;17;12869,7;15661,45
+41426;Salta;Femenino;Litio-Produccion;24;17077,95;23375,66
+41426;Salta;Masculino;Litio-exploración y financiación;174;10838,8;17000,99
+41426;Salta;Masculino;Litio-Produccion;56;21944,65;29132,15
+41456;Catamarca;Femenino;Litio-Produccion;15;12590,8;15638,73
+41456;Catamarca;Masculino;Litio-Produccion;202;17123,5;21426,23
+41456;Jujuy;Femenino;Litio-exploración y financiación;3;18735,2;17514,02
+41456;Jujuy;Femenino;Litio-Produccion;22;10400;10562,22
+41456;Jujuy;Masculino;Litio-exploración y financiación;19;8720,34;20632,15
+41456;Jujuy;Masculino;Litio-Produccion;118;6305,78;9697,32
+41456;Mendoza;Femenino;Litio-Produccion;1;36000,8;36000,8
+41456;Mendoza;Masculino;Litio-Produccion;1;25000;25000
+41456;Salta;Femenino;Litio-exploración y financiación;17;8579,81;10568
+41456;Salta;Femenino;Litio-Produccion;23;11339,6;16261,78
+41456;Salta;Masculino;Litio-exploración y financiación;172;7225,54;12732,31
+41456;Salta;Masculino;Litio-Produccion;55;14526,1;19665,25
+41487;CABA;Masculino;Litio-Produccion;1;12800,8;12800,8
+41487;Catamarca;Femenino;Litio-Produccion;17;10792,1;15941,05
+41487;Catamarca;Masculino;Litio-Produccion;204;16893,25;18813,72
+41487;Jujuy;Femenino;Litio-exploración y financiación;3;17900,4;16425,65
+41487;Jujuy;Femenino;Litio-Produccion;22;10400;10489,07
+41487;Jujuy;Masculino;Litio-exploración y financiación;18;8911,63;26200,61
+41487;Jujuy;Masculino;Litio-Produccion;129;6363,77;11492,98
+41487;Mendoza;Femenino;Litio-Produccion;1;36000,8;36000,8
+41487;Mendoza;Masculino;Litio-Produccion;1;25000;25000
+41487;Salta;Femenino;Litio-exploración y financiación;17;8579,81;10337,41
+41487;Salta;Femenino;Litio-Produccion;24;11087,4;13739,44
+41487;Salta;Masculino;Litio-exploración y financiación;171;7233,49;11976,5
+41487;Salta;Masculino;Litio-Produccion;55;14266,1;19487,99
+41518;CABA;Masculino;Litio-Produccion;2;20800;20800
+41518;Catamarca;Femenino;Litio-Produccion;16;9717,21;16776,59
+41518;Catamarca;Masculino;Litio-Produccion;208;17602,9;21542,23
+41518;Jujuy;Femenino;Litio-exploración y financiación;3;17900,7;16657,39
+41518;Jujuy;Femenino;Litio-Produccion;22;15853;19206,82
+41518;Jujuy;Masculino;Litio-exploración y financiación;18;9599,22;19661,34
+41518;Jujuy;Masculino;Litio-Produccion;129;11700;17133,58
+41518;Mendoza;Femenino;Litio-Produccion;1;36000,6;36000,6
+41518;Mendoza;Masculino;Litio-Produccion;1;25000;25000
+41518;Salta;Femenino;Litio-exploración y financiación;17;8579,81;10324,96
+41518;Salta;Femenino;Litio-Produccion;24;11087,4;14091,4
+41518;Salta;Masculino;Litio-exploración y financiación;170;8182,52;12495,12
+41518;Salta;Masculino;Litio-Produccion;54;13530,55;19008,42
+41548;CABA;Masculino;Litio-Produccion;1;12800;12800
+41548;Catamarca;Femenino;Litio-Produccion;15;10638;17498,65
+41548;Catamarca;Masculino;Litio-Produccion;205;17446,3;22270,55
+41548;Jujuy;Femenino;Litio-exploración y financiación;3;19690,7;18121,82
+41548;Jujuy;Femenino;Litio-Produccion;22;11850;11328,64
+41548;Jujuy;Masculino;Litio-exploración y financiación;18;9679,33;20221,35
+41548;Jujuy;Masculino;Litio-Produccion;133;7000;12354,46
+41548;Mendoza;Femenino;Litio-Produccion;1;16000,6;16000,6
+41548;Mendoza;Masculino;Litio-Produccion;1;25000;25000
+41548;Salta;Femenino;Litio-exploración y financiación;17;8579,81;10694,16
+41548;Salta;Femenino;Litio-Produccion;25;11334,7;14241,71
+41548;Salta;Masculino;Litio-exploración y financiación;169;8191,27;13053,26
+41548;Salta;Masculino;Litio-Produccion;55;14580,1;21239,6
+41579;CABA;Masculino;Litio-Produccion;1;12800;12800
+41579;Catamarca;Femenino;Litio-Produccion;14;9743,09;15577,51
+41579;Catamarca;Masculino;Litio-Produccion;204;17020,85;18990,54
+41579;Jujuy;Femenino;Litio-exploración y financiación;3;19690,7;18192,6
+41579;Jujuy;Femenino;Litio-Produccion;25;11500;10960,9
+41579;Jujuy;Masculino;Litio-exploración y financiación;18;9839,99;20576,94
+41579;Jujuy;Masculino;Litio-Produccion;131;7169,49;10712,23
+41579;Mendoza;Femenino;Litio-Produccion;1;16000,6;16000,6
+41579;Salta;Femenino;Litio-exploración y financiación;17;7558,85;10175,18
+41579;Salta;Femenino;Litio-Produccion;25;11334,7;14241,71
+41579;Salta;Masculino;Litio-exploración y financiación;167;8442,05;13592,9
+41579;Salta;Masculino;Litio-Produccion;53;15173,9;21299,38
+41609;CABA;Masculino;Litio-Produccion;1;19200;19200
+41609;Catamarca;Femenino;Litio-Produccion;14;20560,5;27202,73
+41609;Catamarca;Masculino;Litio-Produccion;205;29508,9;34947,17
+41609;Jujuy;Femenino;Litio-exploración y financiación;3;29534,6;27217,89
+41609;Jujuy;Femenino;Litio-Produccion;25;17250,5;17151,55
+41609;Jujuy;Masculino;Litio-exploración y financiación;18;14722;31684,44
+41609;Jujuy;Masculino;Litio-Produccion;128;11262,5;17254,66
+41609;Mendoza;Femenino;Litio-Produccion;1;34000,5;34000,5
+41609;Salta;Femenino;Litio-exploración y financiación;17;11288;16549,92
+41609;Salta;Femenino;Litio-Produccion;25;17604,7;23320,21
+41609;Salta;Masculino;Litio-exploración y financiación;163;13172,3;21421,49
+41609;Salta;Masculino;Litio-Produccion;52;26273,5;33084,7
+41640;CABA;Masculino;Litio-Produccion;1;12800;12800
+41640;Catamarca;Femenino;Litio-Produccion;14;20960,45;22863,44
+41640;Catamarca;Masculino;Litio-Produccion;204;28600,55;32111,49
+41640;Jujuy;Femenino;Litio-exploración y financiación;3;21527,8;18902,66
+41640;Jujuy;Femenino;Litio-Produccion;27;9621,33;12693,38
+41640;Jujuy;Masculino;Litio-exploración y financiación;18;10291,19;24234,07
+41640;Jujuy;Masculino;Litio-Produccion;127;7070,86;11303,14
+41640;Mendoza;Femenino;Litio-Produccion;1;16000,9;16000,9
+41640;Salta;Femenino;Litio-exploración y financiación;18;8662,31;10270,3
+41640;Salta;Femenino;Litio-Produccion;25;12298,2;14335,56
+41640;Salta;Masculino;Litio-exploración y financiación;159;8970,08;14491,74
+41640;Salta;Masculino;Litio-Produccion;54;22483,2;35256,09
+41671;CABA;Masculino;Litio-Produccion;1;12800;12800
+41671;Catamarca;Femenino;Litio-Produccion;14;24973,55;39309,78
+41671;Catamarca;Masculino;Litio-Produccion;206;26610,15;33081,19
+41671;Jujuy;Femenino;Litio-exploración y financiación;3;21265,7;19571,85
+41671;Jujuy;Femenino;Litio-Produccion;28;11375;13360,83
+41671;Jujuy;Masculino;Litio-exploración y financiación;18;10699,15;37110,63
+41671;Jujuy;Masculino;Litio-Produccion;128;7999,37;13676,98
+41671;Mendoza;Femenino;Litio-Produccion;1;16000,9;16000,9
+41671;Salta;Femenino;Litio-exploración y financiación;17;8196,16;10840,49
+41671;Salta;Femenino;Litio-Produccion;25;20159,6;27174,44
+41671;Salta;Masculino;Litio-exploración y financiación;156;9679,92;15573,82
+41671;Salta;Masculino;Litio-Produccion;55;22795;34586,98
+41699;CABA;Masculino;Litio-Produccion;1;12800;12800
+41699;Catamarca;Femenino;Litio-Produccion;14;18039,35;22424,48
+41699;Catamarca;Masculino;Litio-Produccion;205;23941,1;29142,3
+41699;Jujuy;Femenino;Litio-exploración y financiación;3;21265,5;19590,83
+41699;Jujuy;Femenino;Litio-Produccion;28;13215,3;25872,55
+41699;Jujuy;Masculino;Litio-exploración y financiación;16;10453,7;25153,34
+41699;Jujuy;Masculino;Litio-Produccion;130;8522,94;14170,12
+41699;Mendoza;Femenino;Litio-Produccion;1;19200,3;19200,3
+41699;Salta;Femenino;Litio-exploración y financiación;16;9369,19;11411,28
+41699;Salta;Femenino;Litio-Produccion;25;11576,3;17361,91
+41699;Salta;Masculino;Litio-exploración y financiación;155;9688,09;15919,08
+41699;Salta;Masculino;Litio-Produccion;55;18790,9;34278,84
+41730;CABA;Masculino;Litio-Produccion;1;12800;12800
+41730;Catamarca;Femenino;Litio-Produccion;15;21311,8;24745,17
+41730;Catamarca;Masculino;Litio-Produccion;207;28232,2;31129,2
+41730;Jujuy;Femenino;Litio-exploración y financiación;3;30935,7;29735,1
+41730;Jujuy;Femenino;Litio-Produccion;29;11250;13863,74
+41730;Jujuy;Masculino;Litio-exploración y financiación;15;36295,4;48038,68
+41730;Jujuy;Masculino;Litio-Produccion;134;9633,94;14559,88
+41730;Mendoza;Femenino;Litio-Produccion;1;19200,5;19200,5
+41730;Salta;Femenino;Litio-exploración y financiación;16;10839,15;12109,88
+41730;Salta;Femenino;Litio-Produccion;25;17255,9;27623,13
+41730;Salta;Masculino;Litio-exploración y financiación;154;9688,01;17038,64
+41730;Salta;Masculino;Litio-Produccion;55;24267,1;37174,7
+41760;CABA;Masculino;Litio-Produccion;1;106895;106895
+41760;Catamarca;Femenino;Litio-Produccion;15;16579,6;24586,61
+41760;Catamarca;Masculino;Litio-Produccion;207;20503,1;24913,51
+41760;Jujuy;Femenino;Litio-exploración y financiación;2;29604,5;29604,5
+41760;Jujuy;Femenino;Litio-Produccion;30;13215,3;14585,81
+41760;Jujuy;Masculino;Litio-exploración y financiación;5;14822,8;46197,18
+41760;Jujuy;Masculino;Litio-Produccion;135;9633,94;14520,89
+41760;Salta;Femenino;Litio-exploración y financiación;16;9912,22;12689,09
+41760;Salta;Femenino;Litio-Produccion;24;15101,5;18738,96
+41760;Salta;Masculino;Litio-exploración y financiación;157;10877;17182,03
+41760;Salta;Masculino;Litio-Produccion;52;16745,7;25534,82
+41791;Catamarca;Femenino;Litio-Produccion;16;24092,5;35808,16
+41791;Catamarca;Masculino;Litio-Produccion;210;38971,65;43123,2
+41791;Jujuy;Femenino;Litio-exploración y financiación;2;176513,8;176513,8
+41791;Jujuy;Femenino;Litio-Produccion;30;16875;21115,13
+41791;Jujuy;Masculino;Litio-exploración y financiación;5;22234,8;57718,98
+41791;Jujuy;Masculino;Litio-Produccion;149;13101;20349,03
+41791;Mendoza;Femenino;Litio-Produccion;1;32832,8;32832,8
+41791;Salta;Femenino;Litio-exploración y financiación;16;14868,35;18689,66
+41791;Salta;Femenino;Litio-Produccion;24;24959,6;31102,88
+41791;Salta;Masculino;Litio-exploración y financiación;158;16628,25;30000,26
+41791;Salta;Masculino;Litio-Produccion;54;29912,35;42841,41
+41821;Catamarca;Femenino;Litio-Produccion;18;12619,5;20539,57
+41821;Catamarca;Masculino;Litio-Produccion;211;23098,2;26804,91
+41821;Jujuy;Femenino;Litio-Produccion;32;11250;13694,37
+41821;Jujuy;Masculino;Litio-Produccion;150;8168,83;13744,34
+41821;Mendoza;Femenino;Litio-Produccion;1;19200,5;19200,5
+41821;Salta;Femenino;Litio-exploración y financiación;17;10527,7;12988,17
+41821;Salta;Femenino;Litio-Produccion;24;17035,3;21806,04
+41821;Salta;Masculino;Litio-exploración y financiación;160;11520,4;17666,34
+41821;Salta;Masculino;Litio-Produccion;54;19640,35;29307,66
+41852;Catamarca;Femenino;Litio-Produccion;18;16680,1;23751,36
+41852;Catamarca;Masculino;Litio-Produccion;212;25452,8;30534,12
+41852;Jujuy;Femenino;Litio-Produccion;32;18603,6;24230,78
+41852;Jujuy;Masculino;Litio-Produccion;149;19557,8;26481,53
+41852;Mendoza;Femenino;Litio-Produccion;1;19200,5;19200,5
+41852;Salta;Femenino;Litio-exploración y financiación;17;10527,7;15085,63
+41852;Salta;Femenino;Litio-Produccion;25;18361,6;21861,88
+41852;Salta;Masculino;Litio-exploración y financiación;160;12605,45;25146,78
+41852;Salta;Masculino;Litio-Produccion;54;19732,25;29368,59
+41883;Catamarca;Femenino;Litio-Produccion;17;15833,8;24015,35
+41883;Catamarca;Masculino;Litio-Produccion;208;28065;33696,68
+41883;Jujuy;Femenino;Litio-Produccion;31;11475,8;14041,69
+41883;Jujuy;Masculino;Litio-Produccion;158;7668,04;12927,55
+41883;Mendoza;Femenino;Litio-Produccion;1;22200,5;22200,5
+41883;Salta;Femenino;Litio-exploración y financiación;17;10893,6;14847,19
+41883;Salta;Femenino;Litio-Produccion;25;18361,6;22248,97
+41883;Salta;Masculino;Litio-exploración y financiación;155;11929,7;20801,66
+41883;Salta;Masculino;Litio-Produccion;56;21300,4;30477,47
+41913;Catamarca;Femenino;Litio-Produccion;17;20545,3;26640,22
+41913;Catamarca;Masculino;Litio-Produccion;206;28432,55;30407,57
+41913;Jujuy;Femenino;Litio-Produccion;33;15000;15087,89
+41913;Jujuy;Masculino;Litio-Produccion;161;7873,13;13265,97
+41913;Salta;Femenino;Litio-exploración y financiación;17;10527,7;13316,56
+41913;Salta;Femenino;Litio-Produccion;25;18956,1;22281,31
+41913;Salta;Masculino;Litio-exploración y financiación;156;12033,25;24843,99
+41913;Salta;Masculino;Litio-Produccion;56;25034,25;30505,07
+41944;Catamarca;Femenino;Litio-Produccion;18;18525,2;25188,96
+41944;Catamarca;Masculino;Litio-Produccion;206;29463,8;31709,02
+41944;Jujuy;Femenino;Litio-Produccion;38;11250;13451,41
+41944;Jujuy;Masculino;Litio-Produccion;190;7723,5;11625,56
+41944;Mendoza;Femenino;Litio-Produccion;1;22201;22201
+41944;Salta;Femenino;Litio-exploración y financiación;18;10534,95;20055,36
+41944;Salta;Femenino;Litio-Produccion;25;18361,6;22316,9
+41944;Salta;Masculino;Litio-exploración y financiación;151;12366,2;20764,95
+41944;Salta;Masculino;Litio-Produccion;59;27513;30600,73
+41944;San Juan;Masculino;Litio-Produccion;1;3346,85;3346,85
+41974;Catamarca;Femenino;Litio-Produccion;18;22478,15;35480,79
+41974;Catamarca;Masculino;Litio-Produccion;207;39540,3;43100,55
+41974;Jujuy;Femenino;Litio-Produccion;38;17117,9;19666,66
+41974;Jujuy;Masculino;Litio-Produccion;209;11885,5;16981,76
+41974;Mendoza;Femenino;Litio-Produccion;1;33300,9;33300,9
+41974;Salta;Femenino;Litio-exploración y financiación;18;18274,25;28957,55
+41974;Salta;Femenino;Litio-Produccion;24;26043,6;31872
+41974;Salta;Masculino;Litio-exploración y financiación;153;19136,9;35982,26
+41974;Salta;Masculino;Litio-Produccion;61;35386,5;44093,76
+42005;CABA;Femenino;Litio-Produccion;1;22200,8;22200,8
+42005;CABA;Masculino;Litio-Produccion;1;23921,6;23921,6
+42005;Catamarca;Femenino;Litio-Produccion;18;25422,9;34271,04
+42005;Catamarca;Masculino;Litio-Produccion;208;42835;44737,89
+42005;Jujuy;Femenino;Litio-Produccion;39;14990;18664,13
+42005;Jujuy;Masculino;Litio-Produccion;197;10272,6;16013,05
+42005;Salta;Femenino;Litio-exploración y financiación;19;15699,6;24444,61
+42005;Salta;Femenino;Litio-Produccion;24;24755,4;26480,7
+42005;Salta;Masculino;Litio-exploración y financiación;150;12588,1;24363,97
+42005;Salta;Masculino;Litio-Produccion;60;37388,85;40048,58
+42036;CABA;Femenino;Litio-Produccion;1;22200;22200
+42036;CABA;Masculino;Litio-Produccion;1;13966,2;13966,2
+42036;Catamarca;Femenino;Litio-Produccion;19;19269,6;33886,34
+42036;Catamarca;Masculino;Litio-Produccion;212;30931,05;38773,21
+42036;Jujuy;Femenino;Litio-Produccion;39;14990;18226,75
+42036;Jujuy;Masculino;Litio-Produccion;195;9462,78;15352,47
+42036;Salta;Femenino;Litio-exploración y financiación;20;15000;23432,3
+42036;Salta;Femenino;Litio-Produccion;24;36597,3;41157,9
+42036;Salta;Masculino;Litio-exploración y financiación;156;16322,55;43839,33
+42036;Salta;Masculino;Litio-Produccion;63;31530,5;47957,64
+42064;Catamarca;Femenino;Litio-Produccion;19;16342,5;39663,98
+42064;Catamarca;Masculino;Litio-Produccion;212;29609,4;39597,57
+42064;Jujuy;Femenino;Litio-Produccion;34;14990;17939,45
+42064;Jujuy;Masculino;Litio-Produccion;172;9597;17006,59
+42064;Mendoza;Femenino;Litio-Produccion;1;22200,3;22200,3
+42064;Salta;Femenino;Litio-exploración y financiación;20;15000;23426,66
+42064;Salta;Femenino;Litio-Produccion;24;20456,15;33544,42
+42064;Salta;Masculino;Litio-exploración y financiación;122;14063,9;25661,27
+42064;Salta;Masculino;Litio-Produccion;63;25442,3;54377,83
+42095;Catamarca;Femenino;Litio-Produccion;21;16016;24663,64
+42095;Catamarca;Masculino;Litio-Produccion;213;28111,6;30695,69
+42095;Jujuy;Femenino;Litio-Produccion;34;15894,9;21455,17
+42095;Jujuy;Masculino;Litio-Produccion;172;10272,6;18009,57
+42095;Mendoza;Femenino;Litio-Produccion;1;22200,3;22200,3
+42095;Salta;Femenino;Litio-exploración y financiación;20;15000;24282
+42095;Salta;Femenino;Litio-Produccion;24;20281,55;25305,85
+42095;Salta;Masculino;Litio-exploración y financiación;123;14173;27585,96
+42095;Salta;Masculino;Litio-Produccion;63;22755,7;33698,22
+42125;CABA;Masculino;Litio-Produccion;1;5000;5000
+42125;Catamarca;Femenino;Litio-Produccion;21;16016;24489,73
+42125;Catamarca;Masculino;Litio-Produccion;211;27000;29648,31
+42125;Jujuy;Femenino;Litio-Produccion;33;15187,5;20120,32
+42125;Jujuy;Masculino;Litio-Produccion;180;13583,7;17010,26
+42125;Mendoza;Femenino;Litio-Produccion;1;22510;22510
+42125;Salta;Femenino;Litio-exploración y financiación;20;15000;23625,37
+42125;Salta;Femenino;Litio-Produccion;24;21345,7;25739,6
+42125;Salta;Masculino;Litio-exploración y financiación;116;13893,6;26339,95
+42125;Salta;Masculino;Litio-Produccion;62;22312,75;33287,58
+42156;CABA;Masculino;Litio-Produccion;1;7500;7500
+42156;Catamarca;Femenino;Litio-Produccion;21;32014,7;46898,84
+42156;Catamarca;Masculino;Litio-Produccion;212;53400,8;57377,38
+42156;Jujuy;Femenino;Litio-Produccion;34;22684,85;31256,1
+42156;Jujuy;Masculino;Litio-Produccion;192;18184,8;26561,2
+42156;Mendoza;Femenino;Litio-Produccion;1;33609,9;33609,9
+42156;Salta;Femenino;Litio-exploración y financiación;20;25356,25;40290,34
+42156;Salta;Femenino;Litio-Produccion;24;36398,35;46125,64
+42156;Salta;Masculino;Litio-exploración y financiación;117;26480,5;47946,94
+42156;Salta;Masculino;Litio-Produccion;63;41703,9;60275,64
+42186;CABA;Masculino;Litio-Produccion;1;5000;5000
+42186;Catamarca;Femenino;Litio-Produccion;23;18725,6;29133,02
+42186;Catamarca;Masculino;Litio-Produccion;214;30682;33804,24
+42186;Jujuy;Femenino;Litio-Produccion;33;14990;19612,71
+42186;Jujuy;Masculino;Litio-Produccion;191;12123,2;21958,66
+42186;Mendoza;Femenino;Litio-Produccion;1;22200;22200
+42186;Salta;Femenino;Litio-exploración y financiación;20;16434,45;28842,52
+42186;Salta;Femenino;Litio-Produccion;23;24156,5;28730,6
+42186;Salta;Masculino;Litio-exploración y financiación;117;16603,8;31008,3
+42186;Salta;Masculino;Litio-Produccion;62;26683,5;38407,2
+42217;CABA;Masculino;Litio-Produccion;1;5000;5000
+42217;Catamarca;Femenino;Litio-Produccion;22;18819,25;29077,41
+42217;Catamarca;Masculino;Litio-Produccion;215;30602,7;34061,91
+42217;Jujuy;Femenino;Litio-Produccion;33;14990;20100,9
+42217;Jujuy;Masculino;Litio-Produccion;189;12123,2;19555,94
+42217;Mendoza;Femenino;Litio-Produccion;1;22200;22200
+42217;Salta;Femenino;Litio-exploración y financiación;20;16036,1;27293,22
+42217;Salta;Femenino;Litio-Produccion;23;24156,5;28666,66
+42217;Salta;Masculino;Litio-exploración y financiación;115;17653,7;34153,46
+42217;Salta;Masculino;Litio-Produccion;61;26153,1;38856,97
+42248;CABA;Masculino;Litio-Produccion;1;5000;5000
+42248;Catamarca;Femenino;Litio-Produccion;22;20903,5;30652,89
+42248;Catamarca;Masculino;Litio-Produccion;216;32212,2;36121,52
+42248;Jujuy;Femenino;Litio-Produccion;33;29437,1;37022,01
+42248;Jujuy;Masculino;Litio-Produccion;189;25650;36058,32
+42248;Mendoza;Femenino;Litio-Produccion;1;22200;22200
+42248;Salta;Femenino;Litio-exploración y financiación;21;15000;26259,75
+42248;Salta;Femenino;Litio-Produccion;23;24938,7;30985,32
+42248;Salta;Masculino;Litio-exploración y financiación;116;17653,7;30685,61
+42248;Salta;Masculino;Litio-Produccion;60;35452,25;45160,46
+42278;CABA;Masculino;Litio-Produccion;1;5000;5000
+42278;Catamarca;Femenino;Litio-Produccion;21;19611,8;30723,86
+42278;Catamarca;Masculino;Litio-Produccion;211;32350,7;35342,07
+42278;Jujuy;Femenino;Litio-Produccion;32;15413;35555,4
+42278;Jujuy;Masculino;Litio-Produccion;189;12405,8;18831,11
+42278;Mendoza;Femenino;Litio-Produccion;1;22200;22200
+42278;Salta;Femenino;Litio-exploración y financiación;21;18281,8;35659,95
+42278;Salta;Femenino;Litio-Produccion;23;24938,7;30985,32
+42278;Salta;Masculino;Litio-exploración y financiación;118;17257,95;33104,41
+42278;Salta;Masculino;Litio-Produccion;54;28141,95;41731,99
+42309;CABA;Masculino;Litio-Produccion;1;5000;5000
+42309;Catamarca;Femenino;Litio-Produccion;21;18563,7;30440,39
+42309;Catamarca;Masculino;Litio-Produccion;211;33716,3;36699,95
+42309;Jujuy;Femenino;Litio-Produccion;32;14990;21497,45
+42309;Jujuy;Masculino;Litio-Produccion;190;12789,6;21308,03
+42309;Mendoza;Femenino;Litio-Produccion;1;22200;22200
+42309;Salta;Femenino;Litio-exploración y financiación;20;26613,5;44434,78
+42309;Salta;Femenino;Litio-Produccion;23;24938,7;30985,32
+42309;Salta;Masculino;Litio-exploración y financiación;118;18462,4;48348,45
+42309;Salta;Masculino;Litio-Produccion;56;29647;39954,49
+42339;CABA;Masculino;Litio-Produccion;1;7500;7500
+42339;Catamarca;Femenino;Litio-Produccion;21;28439;46173,88
+42339;Catamarca;Masculino;Litio-Produccion;210;54137;59736,37
+42339;Jujuy;Femenino;Litio-Produccion;33;22485;33516,18
+42339;Jujuy;Masculino;Litio-Produccion;190;19779,75;27525,71
+42339;Mendoza;Femenino;Litio-Produccion;1;33300;33300
+42339;Salta;Femenino;Litio-exploración y financiación;18;28532,2;44851,48
+42339;Salta;Femenino;Litio-Produccion;23;38545,2;46379,96
+42339;Salta;Masculino;Litio-exploración y financiación;106;25275,65;50418
+42339;Salta;Masculino;Litio-Produccion;56;46848,8;65228,71
+42370;CABA;Masculino;Litio-Produccion;1;5000;5000
+42370;Catamarca;Femenino;Litio-Produccion;21;32812,2;47093,51
+42370;Catamarca;Masculino;Litio-Produccion;205;60459,7;66065,7
+42370;Jujuy;Femenino;Litio-Produccion;35;24603,8;27019,17
+42370;Jujuy;Masculino;Litio-Produccion;193;14534,3;24284,63
+42370;Mendoza;Femenino;Litio-Produccion;1;23236;23236
+42370;Salta;Femenino;Litio-exploración y financiación;18;23483,5;34046,25
+42370;Salta;Femenino;Litio-Produccion;23;32754;39105,68
+42370;Salta;Masculino;Litio-exploración y financiación;106;18294,7;38287,21
+42370;Salta;Masculino;Litio-Produccion;55;50341,2;55666,05
+42401;CABA;Masculino;Litio-Produccion;1;5467;5467
+42401;Catamarca;Femenino;Litio-Produccion;21;30221,9;74966,47
+42401;Catamarca;Masculino;Litio-Produccion;203;44859,8;58421,59
+42401;Jujuy;Femenino;Litio-Produccion;37;26426,2;27246,76
+42401;Jujuy;Masculino;Litio-Produccion;216;16256,05;24063,75
+42401;Mendoza;Femenino;Litio-Produccion;1;22200;22200
+42401;Salta;Femenino;Litio-exploración y financiación;18;23483,5;33840,32
+42401;Salta;Femenino;Litio-Produccion;24;49367,35;84608,39
+42401;Salta;Masculino;Litio-exploración y financiación;105;18012,7;36095,06
+42401;Salta;Masculino;Litio-Produccion;56;44596,35;69469,95
+42430;CABA;Masculino;Litio-Produccion;1;5000;5000
+42430;Catamarca;Femenino;Litio-Produccion;20;31592,25;44644,98
+42430;Catamarca;Masculino;Litio-Produccion;202;51032,8;62736,85
+42430;Jujuy;Femenino;Litio-Produccion;39;26426,2;28358,25
+42430;Jujuy;Masculino;Litio-Produccion;221;18136,6;25357,34
+42430;Mendoza;Femenino;Litio-Produccion;1;29970;29970
+42430;Mendoza;Masculino;Litio-Produccion;5;30669,6;41253,32
+42430;Salta;Femenino;Litio-exploración y financiación;18;27378,55;40619,6
+42430;Salta;Femenino;Litio-Produccion;22;35281,05;37238,88
+42430;Salta;Masculino;Litio-exploración y financiación;105;22880,2;42820,21
+42430;Salta;Masculino;Litio-Produccion;57;39439,1;62979,71
+42461;Catamarca;Femenino;Litio-Produccion;20;21997,3;32983,64
+42461;Catamarca;Masculino;Litio-Produccion;205;35187,2;39990,37
+42461;Jujuy;Femenino;Litio-Produccion;41;26404;36019,7
+42461;Jujuy;Masculino;Litio-Produccion;239;17873,3;24293,52
+42461;Mendoza;Femenino;Litio-Produccion;1;29970;29970
+42461;Mendoza;Masculino;Litio-Produccion;1;24187;24187
+42461;Salta;Femenino;Litio-exploración y financiación;18;32263,15;42813,43
+42461;Salta;Femenino;Litio-Produccion;23;27830,5;30424,06
+42461;Salta;Masculino;Litio-exploración y financiación;105;20279,2;39545,54
+42461;Salta;Masculino;Litio-Produccion;57;29942,3;45418,59
+42491;Catamarca;Femenino;Litio-Produccion;20;24187,2;35180,82
+42491;Catamarca;Masculino;Litio-Produccion;205;40988,1;48532,98
+42491;Jujuy;Femenino;Litio-Produccion;42;20997,8;27490,89
+42491;Jujuy;Masculino;Litio-Produccion;243;18681;24240,9
+42491;Mendoza;Femenino;Litio-Produccion;2;21207,9;21207,9
+42491;Mendoza;Masculino;Litio-Produccion;1;24187;24187
+42491;Salta;Femenino;Litio-exploración y financiación;17;31355,2;40368,78
+42491;Salta;Femenino;Litio-Produccion;23;27830,5;32761,91
+42491;Salta;Masculino;Litio-exploración y financiación;105;21296,4;40023,28
+42491;Salta;Masculino;Litio-Produccion;56;31841,25;45391,61
+42522;Catamarca;Femenino;Litio-Produccion;20;49173,05;71517,33
+42522;Catamarca;Masculino;Litio-Produccion;202;83483,5;90137,58
+42522;Jujuy;Femenino;Litio-Produccion;42;34551,5;41395,93
+42522;Jujuy;Masculino;Litio-Produccion;244;27578,9;36159,63
+42522;Mendoza;Femenino;Litio-Produccion;2;32819,05;32819,05
+42522;Mendoza;Masculino;Litio-Produccion;1;36280,5;36280,5
+42522;Salta;Femenino;Litio-exploración y financiación;18;41588,65;56343,44
+42522;Salta;Femenino;Litio-Produccion;22;51983,05;64073,01
+42522;Salta;Masculino;Litio-exploración y financiación;106;32367,65;57030,32
+42522;Salta;Masculino;Litio-Produccion;56;74810,6;88827,76
+42552;Catamarca;Femenino;Litio-Produccion;23;25658,9;40547,86
+42552;Catamarca;Masculino;Litio-Produccion;204;48814,85;54925,79
+42552;Jujuy;Femenino;Litio-Produccion;42;26426,3;29518,83
+42552;Jujuy;Masculino;Litio-exploración y financiación;1;62029,8;62029,8
+42552;Jujuy;Masculino;Litio-Produccion;251;24126,8;28870,38
+42552;Mendoza;Femenino;Litio-Produccion;4;23984,5;23689,75
+42552;Mendoza;Masculino;Litio-Produccion;3;49700;53596,07
+42552;Salta;Femenino;Litio-exploración y financiación;18;20480,1;35555,38
+42552;Salta;Femenino;Litio-Produccion;22;30907,65;39082,73
+42552;Salta;Masculino;Litio-exploración y financiación;106;21240,15;40203,27
+42552;Salta;Masculino;Litio-Produccion;56;44575,1;64379,56
+42583;Catamarca;Femenino;Litio-Produccion;27;23788,8;38733,31
+42583;Catamarca;Masculino;Litio-Produccion;206;47022,75;52993,1
+42583;Jujuy;Femenino;Litio-Produccion;42;25515;29148,48
+42583;Jujuy;Masculino;Litio-Produccion;248;20793,2;26639,05
+42583;Mendoza;Femenino;Litio-Produccion;4;37850;41588,25
+42583;Mendoza;Masculino;Litio-Produccion;6;30000;40450
+42583;Salta;Femenino;Litio-exploración y financiación;19;16863,8;66693,26
+42583;Salta;Femenino;Litio-Produccion;23;32130,6;39128,18
+42583;Salta;Masculino;Litio-exploración y financiación;107;21470,1;38527,97
+42583;Salta;Masculino;Litio-Produccion;55;43024,8;64197,41
+42614;Catamarca;Femenino;Litio-Produccion;27;26751,2;38344,58
+42614;Catamarca;Masculino;Litio-Produccion;206;45471,25;51030,95
+42614;Jujuy;Femenino;Litio-Produccion;45;48007,5;69343,4
+42614;Jujuy;Masculino;Litio-Produccion;263;44411,7;57303,25
+42614;Mendoza;Femenino;Litio-Produccion;4;37850;45343,75
+42614;Mendoza;Masculino;Litio-Produccion;8;39850;49712,5
+42614;Salta;Femenino;Litio-exploración y financiación;18;22299,5;42940,96
+42614;Salta;Femenino;Litio-Produccion;24;27908,05;34792,95
+42614;Salta;Masculino;Litio-exploración y financiación;109;24885,7;44913,49
+42614;Salta;Masculino;Litio-Produccion;54;36555,05;55462
+42644;Catamarca;Femenino;Litio-Produccion;26;26518,65;37887,41
+42644;Catamarca;Masculino;Litio-Produccion;206;51205,05;58241,77
+42644;Jujuy;Femenino;Litio-Produccion;49;26060;32228,88
+42644;Jujuy;Masculino;Litio-Produccion;270;22158,1;28420,82
+42644;Mendoza;Femenino;Litio-Produccion;4;37850;44122,5
+42644;Mendoza;Masculino;Litio-Produccion;14;24000;31483,33
+42644;Salta;Femenino;Litio-exploración y financiación;18;29548,2;41589,63
+42644;Salta;Femenino;Litio-Produccion;24;27908,05;34768,68
+42644;Salta;Masculino;Litio-exploración y financiación;112;23055,6;40725,35
+42644;Salta;Masculino;Litio-Produccion;54;39130,9;61925,31
+42675;Catamarca;Femenino;Litio-Produccion;28;26518,65;36525,86
+42675;Catamarca;Masculino;Litio-Produccion;207;46911,3;52090,93
+42675;Jujuy;Femenino;Litio-Produccion;49;27922,9;32254,31
+42675;Jujuy;Masculino;Litio-Produccion;287;21284,7;27932,22
+42675;Mendoza;Femenino;Litio-Produccion;5;28426,7;76867,24
+42675;Mendoza;Masculino;Litio-Produccion;17;28000;35480,39
+42675;Salta;Femenino;Litio-exploración y financiación;19;24096,4;41215,68
+42675;Salta;Femenino;Litio-Produccion;23;29524,4;36774,23
+42675;Salta;Masculino;Litio-exploración y financiación;120;25014,4;44426,59
+42675;Salta;Masculino;Litio-Produccion;52;41266,55;58083,72
+42705;Catamarca;Femenino;Litio-Produccion;28;46936,7;63993,16
+42705;Catamarca;Masculino;Litio-Produccion;207;78422,3;86418,93
+42705;Jujuy;Femenino;Litio-Produccion;53;35549,4;44995,18
+42705;Jujuy;Masculino;Litio-Produccion;295;32111,8;41014,47
+42705;Mendoza;Femenino;Litio-Produccion;4;32940;56882,5
+42705;Mendoza;Masculino;Litio-Produccion;19;33833,3;48654,98
+42705;Salta;Femenino;Litio-exploración y financiación;19;39084,6;63661,28
+42705;Salta;Femenino;Litio-Produccion;23;56764,7;64190,06
+42705;Salta;Masculino;Litio-exploración y financiación;120;36765,05;66671,48
+42705;Salta;Masculino;Litio-Produccion;52;65777,15;91005,56
+42736;Catamarca;Femenino;Litio-Produccion;29;42046,1;59296,71
+42736;Catamarca;Masculino;Litio-Produccion;210;83912,85;86253,8
+42736;Jujuy;Femenino;Litio-Produccion;56;25955,8;32918,86
+42736;Jujuy;Masculino;Litio-Produccion;300;22900,15;28248,43
+42736;Mendoza;Femenino;Litio-Produccion;5;30000;38122,18
+42736;Mendoza;Masculino;Litio-Produccion;22;28000;37683,33
+42736;Salta;Femenino;Litio-exploración y financiación;19;20781,2;44246,52
+42736;Salta;Femenino;Litio-Produccion;23;39999,5;49928,93
+42736;Salta;Masculino;Litio-exploración y financiación;124;26447,8;51537,6
+42736;Salta;Masculino;Litio-Produccion;53;64048,7;74496,63
+42767;Catamarca;Femenino;Litio-Produccion;26;35486,65;69156,25
+42767;Catamarca;Masculino;Litio-Produccion;206;50617,05;73232,69
+42767;Jujuy;Femenino;Litio-Produccion;57;27922,9;37542,9
+42767;Jujuy;Masculino;Litio-Produccion;308;24247,15;35086,17
+42767;Mendoza;Femenino;Litio-Produccion;7;22000;31515,84
+42767;Mendoza;Masculino;Litio-Produccion;27;30000;40271,61
+42767;Salta;Femenino;Litio-exploración y financiación;19;20781,2;40967,05
+42767;Salta;Femenino;Litio-Produccion;27;61834,5;85553,72
+42767;Salta;Masculino;Litio-exploración y financiación;125;26119,5;46242,46
+42767;Salta;Masculino;Litio-Produccion;58;64346,8;93388,23
+42795;Catamarca;Femenino;Litio-Produccion;27;34791,87;44439,54
+42795;Catamarca;Masculino;Litio-Produccion;210;49411,14;65147,65
+42795;Jujuy;Femenino;Litio-Produccion;57;27422,2;35664,07
+42795;Jujuy;Masculino;Litio-Produccion;311;23305;32881,91
+42795;Mendoza;Femenino;Litio-Produccion;7;22000;33199,47
+42795;Mendoza;Masculino;Litio-Produccion;27;30000;38333,33
+42795;Salta;Femenino;Litio-exploración y financiación;21;19814,5;37409,89
+42795;Salta;Femenino;Litio-Produccion;26;34639,26;44742,74
+42795;Salta;Masculino;Litio-exploración y financiación;133;25732,3;44569,9
+42795;Salta;Masculino;Litio-Produccion;59;51142,89;85512,4
+42826;Catamarca;Femenino;Litio-Produccion;26;34883,96;44874,66
+42826;Catamarca;Masculino;Litio-exploración y financiación;2;18455,8;18455,8
+42826;Catamarca;Masculino;Litio-Produccion;197;48616,3;55746,1
+42826;Jujuy;Femenino;Litio-Produccion;59;28335,47;37783,32
+42826;Jujuy;Masculino;Litio-Produccion;332;23818,19;31331,33
+42826;Mendoza;Femenino;Litio-Produccion;7;22000;33426,86
+42826;Mendoza;Masculino;Litio-Produccion;29;30000;43528,74
+42826;Salta;Femenino;Litio-exploración y financiación;22;18907,25;36766,35
+42826;Salta;Femenino;Litio-Produccion;25;36103,48;45816,95
+42826;Salta;Masculino;Litio-exploración y financiación;143;24096;43126,39
+42826;Salta;Masculino;Litio-Produccion;72;62651,64;77625,16
+42856;Catamarca;Femenino;Litio-Produccion;24;35538,36;49825,88
+42856;Catamarca;Masculino;Litio-exploración y financiación;4;25000;25239
+42856;Catamarca;Masculino;Litio-Produccion;199;48877,14;54273,57
+42856;Jujuy;Femenino;Litio-Produccion;64;31377,06;33316,58
+42856;Jujuy;Masculino;Litio-Produccion;345;36144,58;36086,61
+42856;Mendoza;Femenino;Litio-Produccion;7;22000;33885,13
+42856;Mendoza;Masculino;Litio-Produccion;28;30000;44591,67
+42856;Salta;Femenino;Litio-exploración y financiación;22;21677,77;68393
+42856;Salta;Femenino;Litio-Produccion;25;37977,25;47751,93
+42856;Salta;Masculino;Litio-exploración y financiación;142;30151,31;52168,86
+42856;Salta;Masculino;Litio-Produccion;78;57546,65;76528,57
+42887;Catamarca;Femenino;Litio-exploración y financiación;1;35240,83;35240,83
+42887;Catamarca;Femenino;Litio-Produccion;24;55771,53;79882,12
+42887;Catamarca;Masculino;Litio-exploración y financiación;4;17486,53;22834,96
+42887;Catamarca;Masculino;Litio-Produccion;205;83926,3;88014,6
+42887;Jujuy;Femenino;Litio-Produccion;65;40684,72;49859,22
+42887;Jujuy;Masculino;Litio-Produccion;355;40708,49;47979,8
+42887;Mendoza;Femenino;Litio-Produccion;7;33000;51737,05
+42887;Mendoza;Masculino;Litio-Produccion;29;42000;50117,43
+42887;Salta;Femenino;Litio-exploración y financiación;22;30726,03;77475,44
+42887;Salta;Femenino;Litio-Produccion;25;60201,55;75499,37
+42887;Salta;Masculino;Litio-exploración y financiación;148;39844,75;65415,05
+42887;Salta;Masculino;Litio-Produccion;79;91234;126369,52
+42917;Catamarca;Femenino;Litio-exploración y financiación;1;33734,95;33734,95
+42917;Catamarca;Femenino;Litio-Produccion;24;47131,63;58083,21
+42917;Catamarca;Masculino;Litio-exploración y financiación;1;21000;21000
+42917;Catamarca;Masculino;Litio-Produccion;207;62847,41;69934,16
+42917;Jujuy;Femenino;Litio-Produccion;67;27040;33507,14
+42917;Jujuy;Masculino;Litio-Produccion;365;26285,51;32705,15
+42917;Mendoza;Femenino;Litio-Produccion;7;18773,33;33833,86
+42917;Mendoza;Masculino;Litio-Produccion;30;30000;35571,56
+42917;Salta;Femenino;Litio-exploración y financiación;22;22718,92;29692,6
+42917;Salta;Femenino;Litio-Produccion;25;40154,86;48781,9
+42917;Salta;Masculino;Litio-exploración y financiación;156;27012,02;56198,43
+42917;Salta;Masculino;Litio-Produccion;79;62635,15;82990,56
+42948;Catamarca;Femenino;Litio-exploración y financiación;1;37720,54;37720,54
+42948;Catamarca;Femenino;Litio-Produccion;24;60469,94;72964,3
+42948;Catamarca;Masculino;Litio-exploración y financiación;1;21000;21000
+42948;Catamarca;Masculino;Litio-Produccion;206;77221,41;85763,66
+42948;Jujuy;Femenino;Litio-Produccion;69;26450;33082
+42948;Jujuy;Masculino;Litio-Produccion;377;25956,77;34397,87
+42948;Mendoza;Femenino;Litio-Produccion;7;22000;38475,55
+42948;Mendoza;Masculino;Litio-Produccion;32;33000;44062,5
+42948;Salta;Femenino;Litio-exploración y financiación;22;25738,08;33688,74
+42948;Salta;Femenino;Litio-Produccion;25;59395,32;65628,46
+42948;Salta;Masculino;Litio-exploración y financiación;157;29073,8;44697,46
+42948;Salta;Masculino;Litio-Produccion;79;88389,61;98683,95
+42979;Catamarca;Femenino;Litio-exploración y financiación;5;28000;35274,54
+42979;Catamarca;Femenino;Litio-Produccion;26;37819,21;49061,28
+42979;Catamarca;Masculino;Litio-exploración y financiación;4;68000;64250
+42979;Catamarca;Masculino;Litio-Produccion;213;52564,96;59774,32
+42979;Jujuy;Femenino;Litio-Produccion;68;45948,5;73965,64
+42979;Jujuy;Masculino;Litio-Produccion;386;56473,15;65267,18
+42979;Mendoza;Femenino;Litio-Produccion;7;22000;67420,5
+42979;Mendoza;Masculino;Litio-Produccion;32;68193;79828,88
+42979;Salta;Femenino;Litio-exploración y financiación;23;24154,26;32239,71
+42979;Salta;Femenino;Litio-Produccion;25;39395,32;48841,73
+42979;Salta;Masculino;Litio-exploración y financiación;161;29684,02;45789,31
+42979;Salta;Masculino;Litio-Produccion;79;63782,66;82974,46
+43009;CABA;Masculino;Litio-Produccion;5;8798,4;10612,37
+43009;Catamarca;Femenino;Litio-exploración y financiación;5;28000;35708,28
+43009;Catamarca;Femenino;Litio-Produccion;27;40076,85;50736,19
+43009;Catamarca;Masculino;Litio-exploración y financiación;4;68000;64250
+43009;Catamarca;Masculino;Litio-Produccion;216;57005,43;58916,48
+43009;Jujuy;Femenino;Litio-Produccion;72;30424,34;45696,1
+43009;Jujuy;Masculino;Litio-Produccion;399;29207,19;37191,51
+43009;Mendoza;Femenino;Litio-Produccion;6;22000;26024,05
+43009;Mendoza;Masculino;Litio-Produccion;36;33000;43856,63
+43009;Salta;Femenino;Litio-exploración y financiación;25;24154,26;32574,72
+43009;Salta;Femenino;Litio-Produccion;25;43286,71;52814,47
+43009;Salta;Masculino;Litio-exploración y financiación;163;29441,66;48084,77
+43009;Salta;Masculino;Litio-Produccion;81;65055,11;86000,86
+43040;CABA;Masculino;Litio-Produccion;5;8065,2;8779,4
+43040;Catamarca;Femenino;Litio-exploración y financiación;4;31185,46;38385,35
+43040;Catamarca;Femenino;Litio-Produccion;34;52613,93;63467,03
+43040;Catamarca;Masculino;Litio-exploración y financiación;3;75000;78666,67
+43040;Catamarca;Masculino;Litio-Produccion;232;71515,6;75308,76
+43040;Jujuy;Femenino;Litio-Produccion;76;28698,9;35083,52
+43040;Jujuy;Masculino;Litio-Produccion;417;28055,89;36061,57
+43040;Mendoza;Femenino;Litio-Produccion;7;22000;23604,57
+43040;Mendoza;Masculino;Litio-Produccion;36;36000;47388,89
+43040;Salta;Femenino;Litio-exploración y financiación;26;26133,37;36436,26
+43040;Salta;Femenino;Litio-Produccion;25;67453,8;74106,5
+43040;Salta;Masculino;Litio-exploración y financiación;170;29766,21;49013,51
+43040;Salta;Masculino;Litio-Produccion;83;82003,31;102057,18
+43070;CABA;Masculino;Litio-Produccion;1;27654,76;27654,76
+43070;Catamarca;Femenino;Litio-exploración y financiación;5;37488,89;47499,16
+43070;Catamarca;Femenino;Litio-Produccion;36;54926,84;71860,91
+43070;Catamarca;Masculino;Litio-exploración y financiación;5;81672,22;72941,92
+43070;Catamarca;Masculino;Litio-Produccion;234;94100,26;95318,04
+43070;Jujuy;Femenino;Litio-Produccion;100;39597,39;44835,95
+43070;Jujuy;Masculino;Litio-Produccion;465;45886,34;51396,83
+43070;Mendoza;Femenino;Litio-Produccion;7;33000;36456,94
+43070;Mendoza;Masculino;Litio-Produccion;37;51000;65735,18
+43070;Salta;Femenino;Litio-exploración y financiación;27;36231,39;52097,2
+43070;Salta;Femenino;Litio-Produccion;25;71180,7;79139,78
+43070;Salta;Masculino;Litio-exploración y financiación;168;45100,01;77127,11
+43070;Salta;Masculino;Litio-Produccion;85;97582,67;124150,77
+43101;CABA;Masculino;Litio-Produccion;1;21640,81;21640,81
+43101;Catamarca;Femenino;Litio-exploración y financiación;5;36364,53;43488,44
+43101;Catamarca;Femenino;Litio-Produccion;37;54617,49;69975,43
+43101;Catamarca;Masculino;Litio-exploración y financiación;6;86000;97241,58
+43101;Catamarca;Masculino;Litio-Produccion;234;103398,79;102054,68
+43101;Jujuy;Femenino;Litio-Produccion;98;26987,81;34341,04
+43101;Jujuy;Masculino;Litio-Produccion;466;28598,66;37616,2
+43101;Mendoza;Femenino;Litio-Produccion;9;22000;31514,67
+43101;Mendoza;Masculino;Litio-Produccion;41;50000;65306,34
+43101;Salta;Femenino;Litio-exploración y financiación;26;27697,86;41702,72
+43101;Salta;Femenino;Litio-Produccion;23;60704,17;72648,12
+43101;Salta;Masculino;Litio-exploración y financiación;162;32110,26;53933,09
+43101;Salta;Masculino;Litio-Produccion;82;96102,78;111413,12
+43132;CABA;Masculino;Litio-Produccion;2;21640,81;21640,81
+43132;Catamarca;Femenino;Litio-exploración y financiación;5;36155;45013,16
+43132;Catamarca;Femenino;Litio-Produccion;39;40964;81499,14
+43132;Catamarca;Masculino;Litio-exploración y financiación;6;86000;100809,35
+43132;Catamarca;Masculino;Litio-Produccion;244;62267,81;81407,98
+43132;Jujuy;Femenino;Litio-Produccion;97;26500;33993,02
+43132;Jujuy;Masculino;Litio-Produccion;446;27103,35;37601,68
+43132;Mendoza;Femenino;Litio-Produccion;9;24053,33;31782,78
+43132;Mendoza;Masculino;Litio-Produccion;43;38000;49546,82
+43132;Salta;Femenino;Litio-exploración y financiación;27;35188,45;45980,57
+43132;Salta;Femenino;Litio-Produccion;24;95606,04;129656,36
+43132;Salta;Masculino;Litio-exploración y financiación;165;32878,42;58326,33
+43132;Salta;Masculino;Litio-Produccion;85;106489,65;146413,13
+43160;CABA;Masculino;Litio-Produccion;5;17080;16098,41
+43160;Catamarca;Femenino;Litio-exploración y financiación;5;36155;42432,49
+43160;Catamarca;Femenino;Litio-Produccion;41;39427,48;49583,56
+43160;Catamarca;Masculino;Litio-exploración y financiación;6;86000;100935,94
+43160;Catamarca;Masculino;Litio-Produccion;243;58123,4;63696,84
+43160;Jujuy;Femenino;Litio-Produccion;95;28416,67;35754,06
+43160;Jujuy;Masculino;Litio-Produccion;438;28611,93;42209,35
+43160;Mendoza;Femenino;Litio-Produccion;8;22000;32256,67
+43160;Mendoza;Masculino;Litio-Produccion;43;40000;50255,81
+43160;Salta;Femenino;Litio-exploración y financiación;26;26571,36;40928,15
+43160;Salta;Femenino;Litio-Produccion;23;56362,48;63526,22
+43160;Salta;Masculino;Litio-exploración y financiación;167;30120,48;54720,8
+43160;Salta;Masculino;Litio-Produccion;83;73640,87;117553,12
+43191;CABA;Masculino;Litio-Produccion;9;13300;16131,38
+43191;Catamarca;Femenino;Litio-exploración y financiación;5;42792;49002,95
+43191;Catamarca;Femenino;Litio-Produccion;40;41935,93;56676,12
+43191;Catamarca;Masculino;Litio-exploración y financiación;6;86000;100935,94
+43191;Catamarca;Masculino;Litio-Produccion;244;63470,15;67145,26
+43191;Jujuy;Femenino;Litio-Produccion;95;37627,94;43072,79
+43191;Jujuy;Masculino;Litio-Produccion;432;37806,6;46434,73
+43191;Mendoza;Femenino;Litio-Produccion;8;22513,33;55509,58
+43191;Mendoza;Masculino;Litio-Produccion;44;39000;49701,52
+43191;Salta;Femenino;Litio-exploración y financiación;27;26288;42786,24
+43191;Salta;Femenino;Litio-Produccion;23;60195,13;67168,55
+43191;Salta;Masculino;Litio-exploración y financiación;168;31393,87;54576,18
+43191;Salta;Masculino;Litio-Produccion;83;78648,45;99450,65
+43221;CABA;Masculino;Litio-Produccion;9;13300;24564,12
+43221;Catamarca;Femenino;Litio-exploración y financiación;6;38077,5;37435,05
+43221;Catamarca;Femenino;Litio-Produccion;40;46091,18;60288,62
+43221;Catamarca;Masculino;Litio-exploración y financiación;7;94875;102325,47
+43221;Catamarca;Masculino;Litio-Produccion;242;67019,05;71031,96
+43221;Jujuy;Femenino;Litio-Produccion;97;31455,51;39023,08
+43221;Jujuy;Masculino;Litio-Produccion;434;33537,05;43319,91
+43221;Mendoza;Femenino;Litio-Produccion;7;23000;28581,9
+43221;Mendoza;Masculino;Litio-Produccion;45;46000;61968,22
+43221;Salta;Femenino;Litio-exploración y financiación;27;28500;47513,63
+43221;Salta;Femenino;Litio-Produccion;24;58041,72;64431,69
+43221;Salta;Masculino;Litio-exploración y financiación;173;37512,47;63756,21
+43221;Salta;Masculino;Litio-Produccion;82;75505,38;102628,31
+43252;CABA;Masculino;Litio-Produccion;8;19950;22878,71
+43252;Catamarca;Femenino;Litio-exploración y financiación;6;57116,25;60484,58
+43252;Catamarca;Femenino;Litio-Produccion;39;84952,43;100139,07
+43252;Catamarca;Masculino;Litio-exploración y financiación;6;116947,6;160949,76
+43252;Catamarca;Masculino;Litio-Produccion;230;128386,8;130646,45
+43252;Jujuy;Femenino;Litio-Produccion;99;44876,35;57601,09
+43252;Jujuy;Masculino;Litio-Produccion;445;49835,4;65654,93
+43252;Mendoza;Femenino;Litio-Produccion;7;35026,67;42794,76
+43252;Mendoza;Masculino;Litio-Produccion;44;67275;83322,05
+43252;Salta;Femenino;Litio-exploración y financiación;27;42750;70277,17
+43252;Salta;Femenino;Litio-Produccion;24;100747,16;112389,07
+43252;Salta;Masculino;Litio-exploración y financiación;174;51536,4;89716,18
+43252;Salta;Masculino;Litio-Produccion;83;132979,97;174095,08
+43282;CABA;Masculino;Litio-Produccion;6;12087,96;13555,53
+43282;Catamarca;Femenino;Litio-exploración y financiación;6;40337,19;70543,11
+43282;Catamarca;Femenino;Litio-Produccion;40;51830,68;66363,49
+43282;Catamarca;Masculino;Litio-exploración y financiación;7;78313;107180,96
+43282;Catamarca;Masculino;Litio-Produccion;233;83149,92;88678,71
+43282;Jujuy;Femenino;Litio-Produccion;102;32013,98;42816,82
+43282;Jujuy;Masculino;Litio-Produccion;454;34707,51;46873,67
+43282;Mendoza;Femenino;Litio-Produccion;7;25872;32325,39
+43282;Mendoza;Masculino;Litio-Produccion;43;80650;99628,05
+43282;Salta;Femenino;Litio-exploración y financiación;30;29616,08;46721,71
+43282;Salta;Femenino;Litio-Produccion;25;67594,66;71600,95
+43282;Salta;Masculino;Litio-exploración y financiación;175;36400;67465,61
+43282;Salta;Masculino;Litio-Produccion;85;75712,05;106815,91
+43313;CABA;Masculino;Litio-Produccion;1;36919,19;36919,19
+43313;Catamarca;Femenino;Litio-exploración y financiación;6;40337,19;49874,09
+43313;Catamarca;Femenino;Litio-Produccion;40;62691,43;77433,21
+43313;Catamarca;Masculino;Litio-exploración y financiación;7;78313;108523,44
+43313;Catamarca;Masculino;Litio-Produccion;237;87064,25;89338,31
+43313;Jujuy;Femenino;Litio-Produccion;106;33110;44253,49
+43313;Jujuy;Masculino;Litio-Produccion;454;34855,26;50971,24
+43313;Mendoza;Femenino;Litio-Produccion;7;25872;31980,43
+43313;Mendoza;Masculino;Litio-Produccion;43;56250;70238,76
+43313;Salta;Femenino;Litio-exploración y financiación;33;31350;54963,72
+43313;Salta;Femenino;Litio-Produccion;24;69176,1;73880,49
+43313;Salta;Masculino;Litio-exploración y financiación;174;37561,88;77439,35
+43313;Salta;Masculino;Litio-Produccion;84;82841,55;109565,54
+43344;CABA;Masculino;Litio-Produccion;1;29280;29280
+43344;Catamarca;Femenino;Litio-exploración y financiación;9;44741,82;112248,07
+43344;Catamarca;Femenino;Litio-Produccion;41;58952,53;68140,08
+43344;Catamarca;Masculino;Litio-exploración y financiación;8;95252,4;156364,96
+43344;Catamarca;Masculino;Litio-Produccion;243;82115,72;87299,72
+43344;Jujuy;Femenino;Litio-Produccion;108;45219,37;82060,81
+43344;Jujuy;Masculino;Litio-Produccion;463;85019,3;97394,67
+43344;Mendoza;Femenino;Litio-Produccion;7;29325;35719,86
+43344;Mendoza;Masculino;Litio-Produccion;43;52222;75525,19
+43344;Salta;Femenino;Litio-exploración y financiación;35;31579,69;51843,51
+43344;Salta;Femenino;Litio-Produccion;26;68516,94;69491,89
+43344;Salta;Masculino;Litio-exploración y financiación;181;37620;72504,37
+43344;Salta;Masculino;Litio-Produccion;84;79502,74;111605,54
+43374;CABA;Masculino;Litio-Produccion;1;29280;29280
+43374;Catamarca;Femenino;Litio-exploración y financiación;11;44000;152196,69
+43374;Catamarca;Femenino;Litio-Produccion;41;68952,53;76542,32
+43374;Catamarca;Masculino;Litio-exploración y financiación;10;92667,2;155085,63
+43374;Catamarca;Masculino;Litio-Produccion;247;94688,56;94550,86
+43374;Jujuy;Femenino;Litio-Produccion;110;39099,25;50842,95
+43374;Jujuy;Masculino;Litio-Produccion;481;40762,31;55025,93
+43374;Mendoza;Femenino;Litio-Produccion;9;29325;35426,56
+43374;Mendoza;Masculino;Litio-Produccion;46;48387;72130,33
+43374;Salta;Femenino;Litio-exploración y financiación;37;40000;54280,78
+43374;Salta;Femenino;Litio-Produccion;27;70097,13;76112,77
+43374;Salta;Masculino;Litio-exploración y financiación;190;38507,35;69393,51
+43374;Salta;Masculino;Litio-Produccion;85;86059,33;115839,15
+43405;CABA;Masculino;Litio-Produccion;1;29280;29280
+43405;Catamarca;Femenino;Litio-exploración y financiación;13;50000;158226,5
+43405;Catamarca;Femenino;Litio-Produccion;43;61569,3;73835,54
+43405;Catamarca;Masculino;Litio-exploración y financiación;12;120106,25;215082,33
+43405;Catamarca;Masculino;Litio-Produccion;251;94595,59;95325,41
+43405;Jujuy;Femenino;Litio-Produccion;122;39337,55;54949,63
+43405;Jujuy;Masculino;Litio-Produccion;500;42411,18;58031,75
+43405;Mendoza;Femenino;Litio-Produccion;9;31825;40948,78
+43405;Mendoza;Masculino;Litio-Produccion;46;52476,84;75954,42
+43405;Salta;Femenino;Litio-exploración y financiación;36;42500;59868,25
+43405;Salta;Femenino;Litio-Produccion;28;72669,73;78338,17
+43405;Salta;Masculino;Litio-exploración y financiación;180;44004,23;75106,12
+43405;Salta;Masculino;Litio-Produccion;82;96686,39;128994,07
+43435;CABA;Masculino;Litio-Produccion;1;43920;43920
+43435;Catamarca;Femenino;Litio-exploración y financiación;13;67112,73;177089,25
+43435;Catamarca;Femenino;Litio-Produccion;43;82715,85;102374,99
+43435;Catamarca;Masculino;Litio-exploración y financiación;15;129216,45;400703,73
+43435;Catamarca;Masculino;Litio-Produccion;251;138988,06;143239,83
+43435;Jujuy;Femenino;Litio-Produccion;123;58989;77409,65
+43435;Jujuy;Masculino;Litio-Produccion;510;62500;83651,85
+43435;Mendoza;Femenino;Litio-Produccion;9;43987,5;55599,66
+43435;Mendoza;Masculino;Litio-Produccion;45;78453,28;115126,94
+43435;Salta;Femenino;Litio-exploración y financiación;37;64900;87574,18
+43435;Salta;Femenino;Litio-Produccion;29;103267,7;118517,91
+43435;Salta;Masculino;Litio-exploración y financiación;177;65100;105345,58
+43435;Salta;Masculino;Litio-Produccion;85;151302,17;206835,8
+43466;CABA;Masculino;Litio-Produccion;1;40992;40992
+43466;Catamarca;Femenino;Litio-exploración y financiación;12;61847,92;143878,84
+43466;Catamarca;Femenino;Litio-Produccion;46;64804,98;88046,95
+43466;Catamarca;Masculino;Litio-exploración y financiación;23;110000;288972,33
+43466;Catamarca;Masculino;Litio-Produccion;252;148466,63;147500
+43466;Jujuy;Femenino;Litio-Produccion;128;44166,66;60313,87
+43466;Jujuy;Masculino;Litio-Produccion;527;46950,67;66129,39
+43466;Mendoza;Femenino;Litio-Produccion;10;31294,58;37270,92
+43466;Mendoza;Masculino;Litio-Produccion;45;50887;76142,64
+43466;Salta;Femenino;Litio-exploración y financiación;41;49700;71531,79
+43466;Salta;Femenino;Litio-Produccion;27;86794,55;99163,75
+43466;Salta;Masculino;Litio-exploración y financiación;183;47364,52;89699,26
+43466;Salta;Masculino;Litio-Produccion;93;125357,75;150254,39
+43497;CABA;Masculino;Litio-exploración y financiación;2;18975,9;18975,9
+43497;CABA;Masculino;Litio-Produccion;1;40992;40992
+43497;Catamarca;Femenino;Litio-exploración y financiación;13;78329,52;168323,66
+43497;Catamarca;Femenino;Litio-Produccion;46;53426,68;66564,77
+43497;Catamarca;Masculino;Litio-exploración y financiación;25;147400;304018,74
+43497;Catamarca;Masculino;Litio-Produccion;250;77625,43;86454,15
+43497;Jujuy;Femenino;Litio-Produccion;124;42703,02;60447,76
+43497;Jujuy;Masculino;Litio-Produccion;551;42741,03;63913,01
+43497;Mendoza;Femenino;Litio-Produccion;11;29325;34162,41
+43497;Mendoza;Masculino;Litio-Produccion;45;52222;95388,18
+43497;Salta;Femenino;Litio-exploración y financiación;41;54704,49;70353,97
+43497;Salta;Femenino;Litio-Produccion;27;72567,28;82342,69
+43497;Salta;Masculino;Litio-exploración y financiación;192;44798,65;83282,45
+43497;Salta;Masculino;Litio-Produccion;93;95508,81;139989,99
+43525;CABA;Femenino;Litio-exploración y financiación;6;78390;257630,02
+43525;CABA;Masculino;Litio-exploración y financiación;12;145922,28;363912,76
+43525;CABA;Masculino;Litio-Produccion;1;40992;40992
+43525;Catamarca;Femenino;Litio-exploración y financiación;7;63433,89;95469,13
+43525;Catamarca;Femenino;Litio-Produccion;47;88633,96;129809,91
+43525;Catamarca;Masculino;Litio-exploración y financiación;17;56385,53;259836,29
+43525;Catamarca;Masculino;Litio-Produccion;249;88830,61;140548,24
+43525;Jujuy;Femenino;Litio-Produccion;125;48325,33;64354,85
+43525;Jujuy;Masculino;Litio-Produccion;562;47254,47;73225,91
+43525;Mendoza;Femenino;Litio-Produccion;11;32800;38987,58
+43525;Mendoza;Masculino;Litio-Produccion;45;50000;79393,43
+43525;Salta;Femenino;Litio-exploración y financiación;44;47442,11;66593,97
+43525;Salta;Femenino;Litio-Produccion;28;160585,29;204346
+43525;Salta;Masculino;Litio-exploración y financiación;204;46274,38;148956,62
+43525;Salta;Masculino;Litio-Produccion;92;134872,66;329329,95
+43556;CABA;Femenino;Litio-exploración y financiación;7;58687,2;209370,58
+43556;CABA;Masculino;Litio-exploración y financiación;13;146718;316622
+43556;CABA;Masculino;Litio-Produccion;2;147775;147775
+43556;Catamarca;Femenino;Litio-exploración y financiación;6;83082,58;190961,86
+43556;Catamarca;Femenino;Litio-Produccion;44;55798,77;69232,11
+43556;Catamarca;Masculino;Litio-exploración y financiación;16;62708,22;248932,9
+43556;Catamarca;Masculino;Litio-Produccion;247;80349,99;87894,26
+43556;Jujuy;Femenino;Litio-Produccion;128;51235,08;75417,43
+43556;Jujuy;Masculino;Litio-Produccion;590;47170,9;80474,84
+43556;Mendoza;Femenino;Litio-Produccion;11;30000;39137,88
+43556;Mendoza;Masculino;Litio-Produccion;46;50000;79253,74
+43556;Salta;Femenino;Litio-exploración y financiación;44;47200;106174,77
+43556;Salta;Femenino;Litio-Produccion;28;68275,27;79989,12
+43556;Salta;Masculino;Litio-exploración y financiación;207;46320,15;117589,39
+43556;Salta;Masculino;Litio-Produccion;90;92003,19;135257,66
+43586;CABA;Femenino;Litio-exploración y financiación;8;89364,6;258402,39
+43586;CABA;Masculino;Litio-exploración y financiación;18;235297,6;323505,35
+43586;CABA;Masculino;Litio-Produccion;1;1149250,11;1149250,11
+43586;Catamarca;Femenino;Litio-exploración y financiación;5;80349,39;79239,29
+43586;Catamarca;Femenino;Litio-Produccion;49;53033,28;62603,09
+43586;Catamarca;Masculino;Litio-exploración y financiación;14;63488,37;239622,32
+43586;Catamarca;Masculino;Litio-Produccion;261;74441,08;82915,32
+43586;Jujuy;Femenino;Litio-Produccion;127;49920;68608,45
+43586;Jujuy;Masculino;Litio-Produccion;604;57367,78;74951,38
+43586;Mendoza;Femenino;Litio-Produccion;11;30000;38604,55
+43586;Mendoza;Masculino;Litio-Produccion;47;50000;83261,93
+43586;Salta;Femenino;Litio-exploración y financiación;44;59687,1;101226,19
+43586;Salta;Femenino;Litio-Produccion;30;63680,02;77277,98
+43586;Salta;Masculino;Litio-exploración y financiación;217;125042,3;294508,57
+43586;Salta;Masculino;Litio-Produccion;101;76191,94;124176,28
+43617;CABA;Femenino;Litio-exploración y financiación;8;82112,88;230428,23
+43617;CABA;Masculino;Litio-exploración y financiación;14;245061,24;427473,7
+43617;CABA;Masculino;Litio-Produccion;1;382244,68;382244,68
+43617;Catamarca;Femenino;Litio-exploración y financiación;5;120524,09;119575,06
+43617;Catamarca;Femenino;Litio-Produccion;50;85494,53;105788,59
+43617;Catamarca;Masculino;Litio-exploración y financiación;14;115957,35;328142,51
+43617;Catamarca;Masculino;Litio-Produccion;263;141080,09;146483,56
+43617;Jujuy;Femenino;Litio-Produccion;133;69013,82;95109,11
+43617;Jujuy;Masculino;Litio-Produccion;619;71513,51;102749,6
+43617;Mendoza;Femenino;Litio-Produccion;11;57750;88015,87
+43617;Mendoza;Masculino;Litio-Produccion;48;86250;149740,82
+43617;Salta;Femenino;Litio-exploración y financiación;42;101131,66;248407,53
+43617;Salta;Femenino;Litio-Produccion;30;118595,24;133299,67
+43617;Salta;Masculino;Litio-exploración y financiación;164;102220;238511,41
+43617;Salta;Masculino;Litio-Produccion;108;114406,88;193073,95
+43647;CABA;Femenino;Litio-exploración y financiación;10;75448,77;253390,32
+43647;CABA;Masculino;Litio-exploración y financiación;17;233459,5;562608,67
+43647;CABA;Masculino;Litio-Produccion;1;297520,33;297520,33
+43647;Catamarca;Femenino;Litio-exploración y financiación;5;90660,76;95384,68
+43647;Catamarca;Femenino;Litio-Produccion;52;51893,23;123149,18
+43647;Catamarca;Masculino;Litio-exploración y financiación;10;85916,79;179493,41
+43647;Catamarca;Masculino;Litio-Produccion;266;78020,16;101049,61
+43647;Jujuy;Femenino;Litio-Produccion;134;55554,72;74797,41
+43647;Jujuy;Masculino;Litio-Produccion;618;57017,46;85299,18
+43647;Mendoza;Femenino;Litio-Produccion;10;38500;43764,8
+43647;Mendoza;Masculino;Litio-Produccion;45;57500;88850,93
+43647;Neuquen;Femenino;Litio-exploración y financiación;1;30299,81;30299,81
+43647;Neuquen;Masculino;Litio-exploración y financiación;1;66265,07;66265,07
+43647;Salta;Femenino;Litio-exploración y financiación;37;60000;123707,06
+43647;Salta;Femenino;Litio-Produccion;30;66150,21;78881,23
+43647;Salta;Masculino;Litio-exploración y financiación;149;74698,8;201403,83
+43647;Salta;Masculino;Litio-Produccion;108;69566,99;331231,22
+43678;CABA;Femenino;Litio-exploración y financiación;10;61812,5;177966,43
+43678;CABA;Masculino;Litio-exploración y financiación;17;205154,66;372206,08
+43678;CABA;Masculino;Litio-Produccion;1;333222,77;333222,77
+43678;Catamarca;Femenino;Litio-exploración y financiación;5;86375,59;87104,41
+43678;Catamarca;Femenino;Litio-Produccion;52;121827,64;137710,78
+43678;Catamarca;Masculino;Litio-exploración y financiación;10;75861,9;197729,23
+43678;Catamarca;Masculino;Litio-Produccion;267;190851,63;198780,29
+43678;Jujuy;Femenino;Litio-Produccion;133;54960,54;81310,7
+43678;Jujuy;Masculino;Litio-Produccion;613;57018,93;89144,38
+43678;Mendoza;Femenino;Litio-Produccion;10;38500;43764,8
+43678;Mendoza;Masculino;Litio-Produccion;45;56350;94114,67
+43678;Salta;Femenino;Litio-exploración y financiación;34;56963,85;98889,99
+43678;Salta;Femenino;Litio-Produccion;39;115700,17;150347,99
+43678;Salta;Masculino;Litio-exploración y financiación;146;80907,57;192732,58
+43678;Salta;Masculino;Litio-Produccion;112;126361,45;219185,76
+43678;San Juan;Masculino;Litio-exploración y financiación;1;66265,07;66265,07
+43709;CABA;Femenino;Litio-exploración y financiación;10;64367,25;219253,83
+43709;CABA;Femenino;Litio-Produccion;1;28166,67;28166,67
+43709;CABA;Masculino;Litio-exploración y financiación;16;199509,48;499932,06
+43709;CABA;Masculino;Litio-Produccion;1;331016;331016
+43709;Catamarca;Femenino;Litio-exploración y financiación;5;86375,59;87104,41
+43709;Catamarca;Femenino;Litio-Produccion;52;68037,94;79932,94
+43709;Catamarca;Masculino;Litio-exploración y financiación;10;75861,9;198498,48
+43709;Catamarca;Masculino;Litio-Produccion;269;100443,99;106431,82
+43709;Jujuy;Femenino;Litio-Produccion;131;100000;133087,66
+43709;Jujuy;Masculino;Litio-Produccion;618;116870,12;145780,13
+43709;Mendoza;Femenino;Litio-Produccion;10;42680;49683,53
+43709;Mendoza;Masculino;Litio-Produccion;44;106848;133817,62
+43709;Salta;Femenino;Litio-exploración y financiación;35;60700;107231,63
+43709;Salta;Femenino;Litio-Produccion;40;72875,83;99565,89
+43709;Salta;Masculino;Litio-exploración y financiación;151;80625;197691,16
+43709;Salta;Masculino;Litio-Produccion;113;78159,49;145514,1
+43709;San Juan;Femenino;Litio-exploración y financiación;1;32500;32500
+43709;San Juan;Masculino;Litio-exploración y financiación;1;95615,45;95615,45
+43739;CABA;Femenino;Litio-exploración y financiación;10;78688,58;242792,84
+43739;CABA;Femenino;Litio-Produccion;1;65433,33;65433,33
+43739;CABA;Masculino;Litio-exploración y financiación;16;256037,22;489789,61
+43739;CABA;Masculino;Litio-Produccion;1;333222,77;333222,77
+43739;Catamarca;Femenino;Litio-exploración y financiación;5;106664,07;108535,31
+43739;Catamarca;Femenino;Litio-Produccion;54;87346,17;102951,27
+43739;Catamarca;Masculino;Litio-exploración y financiación;10;94289,45;235560,64
+43739;Catamarca;Masculino;Litio-Produccion;269;145901,32;147001,83
+43739;Jujuy;Femenino;Litio-Produccion;131;60532;100840,01
+43739;Jujuy;Masculino;Litio-Produccion;619;63020,55;99875,82
+43739;Mendoza;Femenino;Litio-Produccion;10;45180;53846,96
+43739;Mendoza;Masculino;Litio-Produccion;46;69517;110517,36
+43739;Salta;Femenino;Litio-exploración y financiación;43;75620;115725,49
+43739;Salta;Femenino;Litio-Produccion;39;90856,84;120739,28
+43739;Salta;Masculino;Litio-exploración y financiación;160;90391,52;226639,27
+43739;Salta;Masculino;Litio-Produccion;112;100790,16;204359,27
+43739;San Juan;Femenino;Litio-exploración y financiación;3;5923,95;20640,46
+43739;San Juan;Masculino;Litio-exploración y financiación;1;90615,45;90615,45
+43770;CABA;Femenino;Litio-exploración y financiación;9;75916,5;276756,21
+43770;CABA;Femenino;Litio-Produccion;1;85063,33;85063,33
+43770;CABA;Masculino;Litio-exploración y financiación;10;469254,26;750676,8
+43770;CABA;Masculino;Litio-Produccion;1;562506,99;562506,99
+43770;Catamarca;Femenino;Litio-exploración y financiación;6;98614,26;92080,47
+43770;Catamarca;Femenino;Litio-Produccion;55;85014,38;92709,41
+43770;Catamarca;Masculino;Litio-exploración y financiación;10;89289,45;222997,66
+43770;Catamarca;Masculino;Litio-Produccion;266;130851,44;135513,06
+43770;Jujuy;Femenino;Litio-Produccion;133;65995,43;89076,19
+43770;Jujuy;Masculino;Litio-Produccion;630;76884,86;107222,38
+43770;Mendoza;Femenino;Litio-Produccion;10;47815;57027,5
+43770;Mendoza;Masculino;Litio-Produccion;45;73533;96118,33
+43770;Neuquen;Masculino;Litio-exploración y financiación;2;280000;280000
+43770;Salta;Femenino;Litio-exploración y financiación;48;82998,5;120659,46
+43770;Salta;Femenino;Litio-Produccion;38;101439,3;198888,11
+43770;Salta;Masculino;Litio-exploración y financiación;179;84337,35;222812,72
+43770;Salta;Masculino;Litio-Produccion;114;104706,49;183683,26
+43770;San Juan;Femenino;Litio-exploración y financiación;2;27500;27500
+43770;San Juan;Masculino;Litio-exploración y financiación;1;90615,45;90615,45
+43800;CABA;Femenino;Litio-exploración y financiación;9;124503,06;393358,98
+43800;CABA;Femenino;Litio-Produccion;1;91874,26;91874,26
+43800;CABA;Masculino;Litio-exploración y financiación;13;417540,75;810004,81
+43800;Catamarca;Femenino;Litio-exploración y financiación;5;159612,59;158728,72
+43800;Catamarca;Femenino;Litio-Produccion;59;108354,55;126143,97
+43800;Catamarca;Masculino;Litio-exploración y financiación;10;138138,82;333780,3
+43800;Catamarca;Masculino;Litio-Produccion;271;191480,53;201137,8
+43800;Jujuy;Femenino;Litio-Produccion;133;92588,49;130509,82
+43800;Jujuy;Masculino;Litio-Produccion;631;104467,65;178320,62
+43800;Mendoza;Femenino;Litio-Produccion;10;68218,64;83337,54
+43800;Mendoza;Masculino;Litio-Produccion;46;104424,09;137766,72
+43800;Salta;Femenino;Litio-exploración y financiación;51;110783,13;165984,13
+43800;Salta;Femenino;Litio-Produccion;38;146583,93;195910,3
+43800;Salta;Masculino;Litio-exploración y financiación;182;127182,57;244623,43
+43800;Salta;Masculino;Litio-Produccion;124;158845,31;278628,76
+43800;San Juan;Femenino;Litio-exploración y financiación;1;70992,62;70992,62
+43800;San Juan;Masculino;Litio-exploración y financiación;1;135922,69;135922,69
+43831;CABA;Femenino;Litio-exploración y financiación;13;79201,19;310272,68
+43831;CABA;Femenino;Litio-Produccion;1;66346,67;66346,67
+43831;CABA;Masculino;Litio-exploración y financiación;14;359605;992244,49
+43831;Catamarca;Femenino;Litio-exploración y financiación;6;116725,28;105774,26
+43831;Catamarca;Femenino;Litio-Produccion;61;100077,5;125126,05
+43831;Catamarca;Masculino;Litio-exploración y financiación;10;101398,7;258127,22
+43831;Catamarca;Masculino;Litio-Produccion;273;211212,15;283693,99
+43831;Jujuy;Femenino;Litio-Produccion;133;72162,81;100487,34
+43831;Jujuy;Masculino;Litio-Produccion;642;72994,26;106799,72
+43831;Mendoza;Femenino;Litio-Produccion;10;49442,4;59982,96
+43831;Mendoza;Masculino;Litio-exploración y financiación;1;52426;52426
+43831;Mendoza;Masculino;Litio-Produccion;46;73291,5;97039,46
+43831;Salta;Femenino;Litio-exploración y financiación;52;87500;145865,53
+43831;Salta;Femenino;Litio-Produccion;40;119017,2;149681,37
+43831;Salta;Masculino;Litio-exploración y financiación;186;95402,03;215252,45
+43831;Salta;Masculino;Litio-Produccion;127;132157,72;231199,45
+43831;San Juan;Femenino;Litio-exploración y financiación;1;58000;58000
+43831;San Juan;Masculino;Litio-exploración y financiación;1;93615,45;93615,45
+43862;CABA;Femenino;Litio-exploración y financiación;13;80201,19;237048,06
+43862;CABA;Femenino;Litio-Produccion;1;79800;79800
+43862;CABA;Masculino;Litio-exploración y financiación;15;284000;631914,27
+43862;Catamarca;Femenino;Litio-exploración y financiación;9;106400;98689,13
+43862;Catamarca;Femenino;Litio-Produccion;61;94305,18;120553,95
+43862;Catamarca;Masculino;Litio-exploración y financiación;16;88231,36;162959,92
+43862;Catamarca;Masculino;Litio-Produccion;274;134910,38;157365,71
+43862;Jujuy;Femenino;Litio-Produccion;132;72827,7;104560,32
+43862;Jujuy;Masculino;Litio-Produccion;645;73579,22;110183,69
+43862;Mendoza;Femenino;Litio-exploración y financiación;1;67333,33;67333,33
+43862;Mendoza;Femenino;Litio-Produccion;10;60000;87023,96
+43862;Mendoza;Masculino;Litio-exploración y financiación;3;51666,67;50888,89
+43862;Mendoza;Masculino;Litio-Produccion;47;161790;182676,75
+43862;Rio Negro;Femenino;Litio-exploración y financiación;1;63250,5;63250,5
+43862;Rio Negro;Masculino;Litio-exploración y financiación;1;104207,19;104207,19
+43862;Salta;Femenino;Litio-exploración y financiación;51;90700;170072,13
+43862;Salta;Femenino;Litio-Produccion;41;113016,38;136038,04
+43862;Salta;Masculino;Litio-exploración y financiación;200;94297,99;215794,85
+43862;Salta;Masculino;Litio-Produccion;129;107933,64;646762,28
+43891;CABA;Femenino;Litio-exploración y financiación;13;87128,57;237463,12
+43891;CABA;Femenino;Litio-Produccion;1;80325;80325
+43891;CABA;Masculino;Litio-exploración y financiación;16;284000;572059,17
+43891;Catamarca;Femenino;Litio-exploración y financiación;7;110215;106280,41
+43891;Catamarca;Femenino;Litio-Produccion;59;125347,96;153547,88
+43891;Catamarca;Masculino;Litio-exploración y financiación;10;102961,1;233334,17
+43891;Catamarca;Masculino;Litio-Produccion;273;138608,91;200714,51
+43891;Jujuy;Femenino;Litio-Produccion;133;76397,87;108395,92
+43891;Jujuy;Masculino;Litio-Produccion;652;77327,34;107937,67
+43891;Mendoza;Femenino;Litio-exploración y financiación;1;107051;107051
+43891;Mendoza;Femenino;Litio-Produccion;10;53923,5;62418,59
+43891;Mendoza;Masculino;Litio-exploración y financiación;5;95379;87304,46
+43891;Mendoza;Masculino;Litio-Produccion;47;99999;120087,55
+43891;Rio Negro;Masculino;Litio-exploración y financiación;1;104207,19;104207,19
+43891;Salta;Femenino;Litio-exploración y financiación;51;91042,77;127800,65
+43891;Salta;Femenino;Litio-Produccion;41;168126,68;250061,64
+43891;Salta;Masculino;Litio-exploración y financiación;206;96099,18;195454,75
+43891;Salta;Masculino;Litio-Produccion;127;154341,3;301546,88
+43891;San Juan;Femenino;Litio-exploración y financiación;1;63250,5;63250,5
+43922;CABA;Femenino;Litio-exploración y financiación;12;107256,8;349406,95
+43922;CABA;Femenino;Litio-Produccion;1;79275;79275
+43922;CABA;Masculino;Litio-exploración y financiación;15;285248,81;778736,05
+43922;Catamarca;Femenino;Litio-exploración y financiación;7;126764,33;122977,87
+43922;Catamarca;Femenino;Litio-Produccion;62;91215,12;98752,61
+43922;Catamarca;Masculino;Litio-exploración y financiación;11;135357,13;958327,84
+43922;Catamarca;Masculino;Litio-Produccion;273;115149,51;128609,91
+43922;Jujuy;Femenino;Litio-Produccion;133;73177,14;107655,82
+43922;Jujuy;Masculino;Litio-Produccion;653;73293,25;108629,63
+43922;Mendoza;Femenino;Litio-exploración y financiación;1;104000;104000
+43922;Mendoza;Femenino;Litio-Produccion;9;55000;62075,89
+43922;Mendoza;Masculino;Litio-exploración y financiación;5;94000;94246
+43922;Mendoza;Masculino;Litio-Produccion;47;99999;120326,53
+43922;Salta;Femenino;Litio-exploración y financiación;51;97902,58;139728,93
+43922;Salta;Femenino;Litio-Produccion;41;113016,38;136277,57
+43922;Salta;Masculino;Litio-exploración y financiación;206;106000;215813,02
+43922;Salta;Masculino;Litio-Produccion;125;101613,63;188228,4
+43922;San Juan;Femenino;Litio-exploración y financiación;1;63250,5;63250,5
+43922;San Juan;Masculino;Litio-exploración y financiación;1;104207,19;104207,19
+43952;CABA;Femenino;Litio-exploración y financiación;13;97657,41;330366,69
+43952;CABA;Femenino;Litio-Produccion;1;79800;79800
+43952;CABA;Masculino;Litio-exploración y financiación;19;303452,13;602236,25
+43952;Catamarca;Femenino;Litio-exploración y financiación;2;72891,56;72891,56
+43952;Catamarca;Femenino;Litio-Produccion;58;93368,87;101180,48
+43952;Catamarca;Masculino;Litio-exploración y financiación;1;96677,99;96677,99
+43952;Catamarca;Masculino;Litio-Produccion;265;114348,47;127706,61
+43952;Jujuy;Femenino;Litio-Produccion;131;90459;138126,73
+43952;Jujuy;Masculino;Litio-Produccion;655;77589,12;137216,55
+43952;Mendoza;Femenino;Litio-exploración y financiación;1;107798,75;107798,75
+43952;Mendoza;Femenino;Litio-Produccion;9;55000;62075,89
+43952;Mendoza;Masculino;Litio-exploración y financiación;4;67000;79314,29
+43952;Mendoza;Masculino;Litio-Produccion;49;99999;116603,78
+43952;Salta;Femenino;Litio-exploración y financiación;55;101658,68;113523,41
+43952;Salta;Femenino;Litio-Produccion;41;113016,38;137203,18
+43952;Salta;Masculino;Litio-exploración y financiación;211;101140,52;195652,39
+43952;Salta;Masculino;Litio-Produccion;125;101885,44;197449,36
+43952;San Juan;Femenino;Litio-exploración y financiación;1;63250,5;63250,5
+43952;San Juan;Masculino;Litio-exploración y financiación;1;104207,19;104207,19
+43983;CABA;Femenino;Litio-exploración y financiación;13;146486,12;437514,12
+43983;CABA;Femenino;Litio-Produccion;1;118845,98;118845,98
+43983;CABA;Masculino;Litio-exploración y financiación;17;464106,3;626534,19
+43983;CABA;Masculino;Litio-Produccion;1;614765,02;614765,02
+43983;Catamarca;Femenino;Litio-exploración y financiación;2;106698,46;106698,46
+43983;Catamarca;Femenino;Litio-Produccion;52;180631,33;196713,21
+43983;Catamarca;Masculino;Litio-exploración y financiación;1;145178,24;145178,24
+43983;Catamarca;Masculino;Litio-Produccion;259;242336,84;258473,35
+43983;Jujuy;Femenino;Litio-Produccion;129;114076,01;160148,25
+43983;Jujuy;Masculino;Litio-Produccion;662;113710,76;179125,97
+43983;Mendoza;Femenino;Litio-Produccion;9;82500;97905,71
+43983;Mendoza;Masculino;Litio-exploración y financiación;4;126666,67;157513,6
+43983;Mendoza;Masculino;Litio-Produccion;49;149998,5;182604,28
+43983;Salta;Femenino;Litio-exploración y financiación;55;157841,98;180368,74
+43983;Salta;Femenino;Litio-Produccion;42;214359,06;246792,15
+43983;Salta;Masculino;Litio-exploración y financiación;214;155943,69;288354,86
+43983;Salta;Masculino;Litio-Produccion;127;182358,85;317208,41
+43983;San Juan;Femenino;Litio-exploración y financiación;1;127980,6;127980,6
+43983;San Juan;Masculino;Litio-exploración y financiación;3;156310,79;148503,48
+44013;CABA;Femenino;Litio-exploración y financiación;14;120123,3;501103,27
+44013;CABA;Femenino;Litio-Produccion;1;79800;79800
+44013;CABA;Masculino;Litio-exploración y financiación;18;336838,66;621724,89
+44013;CABA;Masculino;Litio-Produccion;2;466133,34;466133,34
+44013;Catamarca;Femenino;Litio-exploración y financiación;2;72891,56;72891,56
+44013;Catamarca;Femenino;Litio-Produccion;53;93926,7;119580,37
+44013;Catamarca;Masculino;Litio-exploración y financiación;1;98943,08;98943,08
+44013;Catamarca;Masculino;Litio-Produccion;258;127404,31;140004,39
+44013;Jujuy;Femenino;Litio-Produccion;131;83292,18;119284,07
+44013;Jujuy;Masculino;Litio-Produccion;660;84534,17;115804,9
+44013;Mendoza;Femenino;Litio-Produccion;9;55000;62620,2
+44013;Mendoza;Masculino;Litio-exploración y financiación;4;108517,5;119208,75
+44013;Mendoza;Masculino;Litio-Produccion;48;97499,5;118675,72
+44013;Rio Negro;Masculino;Litio-exploración y financiación;1;308160,5;308160,5
+44013;Salta;Femenino;Litio-exploración y financiación;55;137285,46;231153,28
+44013;Salta;Femenino;Litio-Produccion;42;133177,08;167168,61
+44013;Salta;Masculino;Litio-exploración y financiación;217;121851,94;347987,77
+44013;Salta;Masculino;Litio-Produccion;128;111461,44;192335,22
+44013;San Juan;Femenino;Litio-exploración y financiación;1;85320,4;85320,4
+44013;San Juan;Masculino;Litio-exploración y financiación;3;102600;85805,47
+44044;CABA;Femenino;Litio-exploración y financiación;14;208877,99;464168,04
+44044;CABA;Femenino;Litio-Produccion;2;50757,54;50757,54
+44044;CABA;Masculino;Litio-exploración y financiación;17;326812,24;558309,75
+44044;CABA;Masculino;Litio-Produccion;2;463066,66;463066,66
+44044;Catamarca;Femenino;Litio-exploración y financiación;2;73289,63;73289,63
+44044;Catamarca;Femenino;Litio-Produccion;52;111348,05;127388,48
+44044;Catamarca;Masculino;Litio-exploración y financiación;1;106822,49;106822,49
+44044;Catamarca;Masculino;Litio-Produccion;259;162948,32;191750,31
+44044;Jujuy;Femenino;Litio-Produccion;131;92546;120115,02
+44044;Jujuy;Masculino;Litio-Produccion;658;102653,31;126486,47
+44044;Mendoza;Femenino;Litio-Produccion;9;55000;62075,89
+44044;Mendoza;Masculino;Litio-exploración y financiación;4;85000;98250
+44044;Mendoza;Masculino;Litio-Produccion;48;97499,5;118053,5
+44044;Salta;Femenino;Litio-exploración y financiación;49;113396;130693,49
+44044;Salta;Femenino;Litio-Produccion;39;155026,67;161057,72
+44044;Salta;Masculino;Litio-exploración y financiación;199;122620;260440,52
+44044;Salta;Masculino;Litio-Produccion;128;116867,87;236292,45
+44044;San Juan;Femenino;Litio-exploración y financiación;2;54708,38;54708,38
+44044;San Juan;Masculino;Litio-exploración y financiación;4;103403,6;141394,22
+44075;CABA;Femenino;Litio-exploración y financiación;14;197025,4;424387,83
+44075;CABA;Femenino;Litio-Produccion;1;78750;78750
+44075;CABA;Masculino;Litio-exploración y financiación;20;300226,51;514764,05
+44075;CABA;Masculino;Litio-Produccion;2;1815215,55;1815215,55
+44075;Catamarca;Femenino;Litio-exploración y financiación;2;73397,82;73397,82
+44075;Catamarca;Femenino;Litio-Produccion;52;103100,89;113586,16
+44075;Catamarca;Masculino;Litio-exploración y financiación;2;97915,85;97915,85
+44075;Catamarca;Masculino;Litio-Produccion;256;138634,35;156847,28
+44075;Jujuy;Femenino;Litio-Produccion;132;165948,76;320143,58
+44075;Jujuy;Masculino;Litio-Produccion;660;172838,34;283618,39
+44075;Mendoza;Femenino;Litio-Produccion;9;55000;62075,89
+44075;Mendoza;Masculino;Litio-exploración y financiación;4;85000;98250
+44075;Mendoza;Masculino;Litio-Produccion;48;164272;179384,4
+44075;Rio Negro;Femenino;Litio-exploración y financiación;2;54708,38;54708,38
+44075;Rio Negro;Masculino;Litio-exploración y financiación;4;103403,6;142406,74
+44075;Salta;Femenino;Litio-exploración y financiación;49;114000;130828
+44075;Salta;Femenino;Litio-Produccion;40;169373,58;195391,2
+44075;Salta;Masculino;Litio-exploración y financiación;203;114488,36;298680,66
+44075;Salta;Masculino;Litio-Produccion;128;117520,11;255789,7
+44105;CABA;Femenino;Litio-exploración y financiación;13;116671,07;277139,42
+44105;CABA;Femenino;Litio-Produccion;1;79275;79275
+44105;CABA;Masculino;Litio-exploración y financiación;18;313263,34;428976,47
+44105;CABA;Masculino;Litio-Produccion;3;563733,33;560377,78
+44105;Catamarca;Femenino;Litio-exploración y financiación;2;73585,98;73585,98
+44105;Catamarca;Femenino;Litio-Produccion;52;107936,44;122798,81
+44105;Catamarca;Masculino;Litio-exploración y financiación;2;154545,37;154545,37
+44105;Catamarca;Masculino;Litio-Produccion;256;135677,55;155011,97
+44105;Jujuy;Femenino;Litio-Produccion;133;87431,09;123583,73
+44105;Jujuy;Masculino;Litio-Produccion;659;89754,01;131597,39
+44105;Mendoza;Femenino;Litio-Produccion;9;61200;69707,44
+44105;Mendoza;Masculino;Litio-exploración y financiación;7;90605;129648,33
+44105;Mendoza;Masculino;Litio-Produccion;49;109200;135509,13
+44105;Salta;Femenino;Litio-exploración y financiación;50;118956,79;138158,96
+44105;Salta;Femenino;Litio-Produccion;39;155026,67;161503,26
+44105;Salta;Masculino;Litio-exploración y financiación;206;129955,3;254703,55
+44105;Salta;Masculino;Litio-Produccion;125;121973,8;207656,83
+44105;San Juan;Femenino;Litio-exploración y financiación;2;54708,38;54708,38
+44105;San Juan;Masculino;Litio-exploración y financiación;9;57190,44;96787,26
+44136;CABA;Femenino;Litio-exploración y financiación;18;113518,01;204481,84
+44136;CABA;Femenino;Litio-Produccion;1;110985;110985
+44136;CABA;Masculino;Litio-exploración y financiación;36;169563,97;327621,33
+44136;CABA;Masculino;Litio-Produccion;3;732853,33;725471,11
+44136;Catamarca;Femenino;Litio-exploración y financiación;2;102269,76;102269,76
+44136;Catamarca;Femenino;Litio-Produccion;49;114701,52;126372,61
+44136;Catamarca;Masculino;Litio-exploración y financiación;2;145861,6;145861,6
+44136;Catamarca;Masculino;Litio-Produccion;251;165856,68;175669,17
+44136;Jujuy;Femenino;Litio-Produccion;134;88664,9;110702,09
+44136;Jujuy;Masculino;Litio-Produccion;661;97201,71;124172,53
+44136;Mendoza;Femenino;Litio-exploración y financiación;1;416500;416500
+44136;Mendoza;Femenino;Litio-Produccion;9;61200;69707,44
+44136;Mendoza;Masculino;Litio-exploración y financiación;10;87802,5;117687,17
+44136;Mendoza;Masculino;Litio-Produccion;49;109200;139178,09
+44136;Salta;Femenino;Litio-exploración y financiación;54;135000;281116,92
+44136;Salta;Femenino;Litio-Produccion;40;137885,41;169566,26
+44136;Salta;Masculino;Litio-exploración y financiación;212;138547,61;324739,29
+44136;Salta;Masculino;Litio-Produccion;128;129240,45;314950,25
+44166;Buenos Aires;Masculino;Litio-Produccion;1;1939431,25;1939431,25
+44166;CABA;Femenino;Litio-exploración y financiación;20;222609,1;512055,59
+44166;CABA;Femenino;Litio-Produccion;1;144585;144585
+44166;CABA;Masculino;Litio-exploración y financiación;43;195000;607047,27
+44166;CABA;Masculino;Litio-Produccion;3;1071000;1073200
+44166;Catamarca;Femenino;Litio-exploración y financiación;2;173236,29;173236,29
+44166;Catamarca;Femenino;Litio-Produccion;47;182450,84;213398,76
+44166;Catamarca;Masculino;Litio-exploración y financiación;2;219106,8;219106,8
+44166;Catamarca;Masculino;Litio-Produccion;251;240838,66;308968,36
+44166;Jujuy;Femenino;Litio-Produccion;133;154869,97;181586,2
+44166;Jujuy;Masculino;Litio-Produccion;665;173965,43;211643,38
+44166;Mendoza;Femenino;Litio-exploración y financiación;1;680944,44;680944,44
+44166;Mendoza;Femenino;Litio-Produccion;9;104000;154863,08
+44166;Mendoza;Masculino;Litio-exploración y financiación;10;133787,09;177943,33
+44166;Mendoza;Masculino;Litio-Produccion;48;195593,75;232836,96
+44166;Salta;Femenino;Litio-exploración y financiación;53;215715,82;233319,25
+44166;Salta;Femenino;Litio-Produccion;42;233044,43;263725,7
+44166;Salta;Masculino;Litio-exploración y financiación;203;203070;450384,46
+44166;Salta;Masculino;Litio-Produccion;137;180616,27;715623,77
+44197;Buenos Aires;Masculino;Litio-Produccion;1;2443902,66;2443902,66
+44197;CABA;Femenino;Litio-exploración y financiación;15;119922,73;170942,35
+44197;CABA;Femenino;Litio-Produccion;1;104643;104643
+44197;CABA;Masculino;Litio-exploración y financiación;40;130550,48;174309,43
+44197;CABA;Masculino;Litio-Produccion;3;434880;519848,89
+44197;Catamarca;Femenino;Litio-exploración y financiación;2;102113,77;102113,77
+44197;Catamarca;Femenino;Litio-Produccion;47;143019,68;167296,9
+44197;Catamarca;Masculino;Litio-exploración y financiación;2;157818,95;157818,95
+44197;Catamarca;Masculino;Litio-Produccion;250;294903,91;291976,14
+44197;Jujuy;Femenino;Litio-Produccion;132;102069,5;131809,68
+44197;Jujuy;Masculino;Litio-Produccion;669;104310,6;146646,33
+44197;Mendoza;Femenino;Litio-exploración y financiación;3;135000;250000
+44197;Mendoza;Femenino;Litio-Produccion;9;73640;87564,44
+44197;Mendoza;Masculino;Litio-exploración y financiación;11;90605;123162,58
+44197;Mendoza;Masculino;Litio-Produccion;48;132920;162062,06
+44197;Salta;Femenino;Litio-exploración y financiación;53;136000;156208,02
+44197;Salta;Femenino;Litio-Produccion;39;165771,2;212624,59
+44197;Salta;Masculino;Litio-exploración y financiación;209;139258,08;276241,1
+44197;Salta;Masculino;Litio-Produccion;132;147755,61;260313,89
+44228;Buenos Aires;Masculino;Litio-Produccion;1;2526101,5;2526101,5
+44228;CABA;Femenino;Litio-exploración y financiación;17;132923,98;184599,26
+44228;CABA;Femenino;Litio-Produccion;1;121968;121968
+44228;CABA;Masculino;Litio-exploración y financiación;41;160537,27;204812,58
+44228;CABA;Masculino;Litio-Produccion;3;652586,67;705742,22
+44228;Catamarca;Femenino;Litio-exploración y financiación;2;102648,36;102648,36
+44228;Catamarca;Femenino;Litio-Produccion;48;111007,08;131250,68
+44228;Catamarca;Masculino;Litio-exploración y financiación;2;151890,88;151890,88
+44228;Catamarca;Masculino;Litio-Produccion;249;151789,76;212005,34
+44228;Jujuy;Femenino;Litio-Produccion;135;104115,94;135422,94
+44228;Jujuy;Masculino;Litio-Produccion;680;110455,42;148331,96
+44228;Mendoza;Femenino;Litio-exploración y financiación;3;150000;268333,33
+44228;Mendoza;Femenino;Litio-Produccion;10;84370;121327,8
+44228;Mendoza;Masculino;Litio-exploración y financiación;15;90605;108265,89
+44228;Mendoza;Masculino;Litio-Produccion;50;218720;260090,13
+44228;Salta;Femenino;Litio-exploración y financiación;56;133856,45;154927,15
+44228;Salta;Femenino;Litio-Produccion;41;171832,48;194050,21
+44228;Salta;Masculino;Litio-exploración y financiación;221;145349;320052,84
+44228;Salta;Masculino;Litio-Produccion;139;119008,24;224877,35
+44256;Buenos Aires;Masculino;Litio-Produccion;1;2587975,35;2587975,35
+44256;CABA;Femenino;Litio-exploración y financiación;17;132923,42;198078,51
+44256;CABA;Femenino;Litio-Produccion;1;124074,72;124074,72
+44256;CABA;Masculino;Litio-exploración y financiación;48;131937,34;189774
+44256;CABA;Masculino;Litio-Produccion;3;804398,93;767132,44
+44256;Catamarca;Femenino;Litio-exploración y financiación;2;101180,49;101180,49
+44256;Catamarca;Femenino;Litio-Produccion;48;180307,94;254651,74
+44256;Catamarca;Masculino;Litio-exploración y financiación;3;241171,68;645325,39
+44256;Catamarca;Masculino;Litio-Produccion;250;158598,22;255490,43
+44256;Jujuy;Femenino;Litio-Produccion;140;117264,03;175453,63
+44256;Jujuy;Masculino;Litio-Produccion;693;122626,13;167646,11
+44256;Mendoza;Femenino;Litio-exploración y financiación;4;152250;271125
+44256;Mendoza;Femenino;Litio-Produccion;10;71393,5;82938,33
+44256;Mendoza;Masculino;Litio-exploración y financiación;19;138000;151984,96
+44256;Mendoza;Masculino;Litio-Produccion;51;133040;167165,52
+44256;Salta;Femenino;Litio-exploración y financiación;60;132542,5;160126,87
+44256;Salta;Femenino;Litio-Produccion;42;262050,21;373032,56
+44256;Salta;Masculino;Litio-exploración y financiación;228;140083,44;263429,65
+44256;Salta;Masculino;Litio-Produccion;141;160818,67;446211,77
+44287;Buenos Aires;Masculino;Litio-Produccion;1;2645646,51;2645646,51
+44287;CABA;Femenino;Litio-exploración y financiación;18;120840,02;650394,59
+44287;CABA;Femenino;Litio-Produccion;1;117200,16;117200,16
+44287;CABA;Masculino;Litio-exploración y financiación;54;131937,76;219546,69
+44287;CABA;Masculino;Litio-Produccion;3;726088,53;747254,04
+44287;Catamarca;Femenino;Litio-exploración y financiación;2;125922,99;125922,99
+44287;Catamarca;Femenino;Litio-Produccion;49;133328,27;158251,27
+44287;Catamarca;Masculino;Litio-exploración y financiación;2;200884,99;200884,99
+44287;Catamarca;Masculino;Litio-Produccion;253;181729,95;202647,66
+44287;Jujuy;Femenino;Litio-Produccion;145;129140,91;180098,24
+44287;Jujuy;Masculino;Litio-Produccion;695;130886,4;207823,16
+44287;Mendoza;Femenino;Litio-exploración y financiación;4;159500;274750
+44287;Mendoza;Femenino;Litio-Produccion;12;78745;90066,78
+44287;Mendoza;Masculino;Litio-exploración y financiación;21;140000;156753,97
+44287;Mendoza;Masculino;Litio-Produccion;54;172960;187581,46
+44287;Salta;Femenino;Litio-exploración y financiación;62;145633,09;212964,4
+44287;Salta;Femenino;Litio-Produccion;42;179170,29;223729,06
+44287;Salta;Masculino;Litio-exploración y financiación;224;154872,72;371845,71
+44287;Salta;Masculino;Litio-Produccion;142;146046,2;271014,2
+44317;Buenos Aires;Masculino;Litio-Produccion;1;2723669,02;2723669,02
+44317;CABA;Femenino;Litio-exploración y financiación;20;117740,96;159120,95
+44317;CABA;Femenino;Litio-Produccion;1;342175,43;342175,43
+44317;CABA;Masculino;Litio-exploración y financiación;54;130794,27;171692,25
+44317;CABA;Masculino;Litio-Produccion;3;1666068,48;1874640,75
+44317;Catamarca;Femenino;Litio-exploración y financiación;2;125810,24;125810,24
+44317;Catamarca;Femenino;Litio-Produccion;49;133922,25;157514,9
+44317;Catamarca;Masculino;Litio-exploración y financiación;2;235613,32;235613,32
+44317;Catamarca;Masculino;Litio-Produccion;255;180835,49;199591,71
+44317;Jujuy;Femenino;Litio-Produccion;149;115637,56;150790,57
+44317;Jujuy;Masculino;Litio-Produccion;713;124842,05;165562,38
+44317;Mendoza;Femenino;Litio-exploración y financiación;4;174000;283200
+44317;Mendoza;Femenino;Litio-Produccion;13;79960;94308,92
+44317;Mendoza;Masculino;Litio-exploración y financiación;21;156000;181785,71
+44317;Mendoza;Masculino;Litio-Produccion;53;149000;181747,65
+44317;Salta;Femenino;Litio-exploración y financiación;61;157640,15;179599,82
+44317;Salta;Femenino;Litio-Produccion;43;211205,37;298060,42
+44317;Salta;Masculino;Litio-exploración y financiación;231;162260,37;300979,59
+44317;Salta;Masculino;Litio-Produccion;150;159894,34;349945,21
+44348;Buenos Aires;Masculino;Litio-Produccion;1;2727928,98;2727928,98
+44348;CABA;Femenino;Litio-exploración y financiación;21;164844,36;260133,36
+44348;CABA;Femenino;Litio-Produccion;2;278534,98;278534,98
+44348;CABA;Masculino;Litio-exploración y financiación;49;214249,09;302790,04
+44348;CABA;Masculino;Litio-Produccion;3;1208624,85;1200067,06
+44348;Catamarca;Femenino;Litio-exploración y financiación;3;188694;222259,41
+44348;Catamarca;Femenino;Litio-Produccion;48;272105,41;310239,15
+44348;Catamarca;Masculino;Litio-exploración y financiación;5;108433,71;186622,55
+44348;Catamarca;Masculino;Litio-Produccion;257;335194,05;366119,53
+44348;Jujuy;Femenino;Litio-Produccion;153;181603,98;225758,08
+44348;Jujuy;Masculino;Litio-Produccion;731;190995,72;254395,75
+44348;Mendoza;Femenino;Litio-Produccion;15;129640;151143,72
+44348;Mendoza;Masculino;Litio-Produccion;57;231489,65;266605,63
+44348;Salta;Femenino;Litio-exploración y financiación;69;204693,98;268644,32
+44348;Salta;Femenino;Litio-Produccion;43;280818,79;360021,25
+44348;Salta;Masculino;Litio-exploración y financiación;267;215350,01;373218,96
+44348;Salta;Masculino;Litio-Produccion;150;239162,28;403471,71
+44378;Buenos Aires;Masculino;Litio-Produccion;1;2746571,22;2746571,22
+44378;CABA;Femenino;Litio-exploración y financiación;24;121720,87;169640,36
+44378;CABA;Femenino;Litio-Produccion;2;399855,26;399855,26
+44378;CABA;Masculino;Litio-exploración y financiación;54;162418,04;212337,96
+44378;CABA;Masculino;Litio-Produccion;4;667234,78;644062,2
+44378;Catamarca;Femenino;Litio-exploración y financiación;2;148557,83;148557,83
+44378;Catamarca;Femenino;Litio-Produccion;50;167289,66;204903,34
+44378;Catamarca;Masculino;Litio-exploración y financiación;6;74999,99;114735,01
+44378;Catamarca;Masculino;Litio-Produccion;262;203988,36;242636,72
+44378;Jujuy;Femenino;Litio-Produccion;155;133496,32;177647,12
+44378;Jujuy;Masculino;Litio-Produccion;737;146349,87;191123,7
+44378;Mendoza;Femenino;Litio-Produccion;16;105333,33;130051,04
+44378;Mendoza;Masculino;Litio-Produccion;60;168390,5;201168,97
+44378;Salta;Femenino;Litio-exploración y financiación;70;157987,06;192973,92
+44378;Salta;Femenino;Litio-Produccion;43;177350,51;312665,8
+44378;Salta;Masculino;Litio-exploración y financiación;278;161980;317103,25
+44378;Salta;Masculino;Litio-Produccion;151;161227,73;347678,51
+44409;Buenos Aires;Masculino;Litio-Produccion;1;2780820,74;2780820,74
+44409;CABA;Femenino;Litio-exploración y financiación;24;135930,1;264797,2
+44409;CABA;Femenino;Litio-Produccion;2;897576,35;897576,35
+44409;CABA;Masculino;Litio-exploración y financiación;57;165480,6;261022,77
+44409;CABA;Masculino;Litio-Produccion;4;733958,26;778468,41
+44409;Catamarca;Femenino;Litio-exploración y financiación;2;149461,44;149461,44
+44409;Catamarca;Femenino;Litio-Produccion;52;218868,6;242524,57
+44409;Catamarca;Masculino;Litio-exploración y financiación;7;88604,95;139173,66
+44409;Catamarca;Masculino;Litio-Produccion;262;279683,7;314162,26
+44409;Jujuy;Femenino;Litio-Produccion;158;131271,9;181022,74
+44409;Jujuy;Masculino;Litio-Produccion;754;146206,43;192492,75
+44409;Mendoza;Femenino;Litio-Produccion;20;115000;132945,37
+44409;Mendoza;Masculino;Litio-Produccion;66;160000;209032,52
+44409;Salta;Femenino;Litio-exploración y financiación;75;154915,38;184986,71
+44409;Salta;Femenino;Litio-Produccion;44;212425,24;262483,13
+44409;Salta;Masculino;Litio-exploración y financiación;279;162392,6;317699,25
+44409;Salta;Masculino;Litio-Produccion;153;193174,75;297255,39
+44440;CABA;Femenino;Litio-exploración y financiación;29;106380,6;154906,73
+44440;CABA;Femenino;Litio-Produccion;2;405831,7;405831,7
+44440;CABA;Masculino;Litio-exploración y financiación;60;157677,8;215639,57
+44440;CABA;Masculino;Litio-Produccion;7;585446,4;986430,7
+44440;Catamarca;Femenino;Litio-exploración y financiación;3;116392,77;105464,26
+44440;Catamarca;Femenino;Litio-Produccion;51;169672,89;184265,38
+44440;Catamarca;Masculino;Litio-exploración y financiación;7;91566,27;225619,13
+44440;Catamarca;Masculino;Litio-Produccion;267;224443,49;244036,31
+44440;Jujuy;Femenino;Litio-Produccion;158;235189,02;332692,66
+44440;Jujuy;Masculino;Litio-Produccion;761;336991,94;382328,35
+44440;Mendoza;Femenino;Litio-exploración y financiación;2;117500;117500
+44440;Mendoza;Femenino;Litio-Produccion;22;115000;141089,93
+44440;Mendoza;Masculino;Litio-exploración y financiación;2;75000;75000
+44440;Mendoza;Masculino;Litio-Produccion;71;250000;294172,1
+44440;Salta;Femenino;Litio-exploración y financiación;75;168666,66;190448,81
+44440;Salta;Femenino;Litio-Produccion;47;196504;253272,26
+44440;Salta;Masculino;Litio-exploración y financiación;282;167164,2;332940,38
+44440;Salta;Masculino;Litio-Produccion;158;169836,44;285303,89
+44470;CABA;Femenino;Litio-exploración y financiación;31;133299,83;188562,43
+44470;CABA;Femenino;Litio-Produccion;2;453962,94;453962,94
+44470;CABA;Masculino;Litio-exploración y financiación;56;209675,72;269614,71
+44470;CABA;Masculino;Litio-Produccion;8;574893,64;940299,95
+44470;Catamarca;Femenino;Litio-exploración y financiación;3;150000;156775,63
+44470;Catamarca;Femenino;Litio-Produccion;52;188336,91;201988,38
+44470;Catamarca;Masculino;Litio-exploración y financiación;6;122951,83;148850,2
+44470;Catamarca;Masculino;Litio-Produccion;269;229112,47;254171,81
+44470;Jujuy;Femenino;Litio-Produccion;159;145066,13;263283,64
+44470;Jujuy;Masculino;Litio-Produccion;772;164248,04;215067,3
+44470;Mendoza;Femenino;Litio-exploración y financiación;2;165500;165500
+44470;Mendoza;Femenino;Litio-Produccion;23;135974;170485,92
+44470;Mendoza;Masculino;Litio-exploración y financiación;2;115000;115000
+44470;Mendoza;Masculino;Litio-Produccion;72;200395,5;238324,13
+44470;Salta;Femenino;Litio-exploración y financiación;77;149955;222490,07
+44470;Salta;Femenino;Litio-Produccion;47;218119,44;278668,19
+44470;Salta;Masculino;Litio-exploración y financiación;284;169804,59;303861,82
+44470;Salta;Masculino;Litio-Produccion;159;188336,91;603756,35
+44501;CABA;Femenino;Litio-exploración y financiación;31;147584,18;192179,26
+44501;CABA;Femenino;Litio-Produccion;2;678672,71;678672,71
+44501;CABA;Masculino;Litio-exploración y financiación;58;205058,72;315755,77
+44501;CABA;Masculino;Litio-Produccion;8;585722,92;944522,6
+44501;Catamarca;Femenino;Litio-exploración y financiación;3;144578,31;161643,43
+44501;Catamarca;Femenino;Litio-Produccion;53;188336,91;206250,37
+44501;Catamarca;Masculino;Litio-exploración y financiación;8;89096,39;129887,5
+44501;Catamarca;Masculino;Litio-Produccion;277;226642,43;289536,65
+44501;Jujuy;Femenino;Litio-Produccion;161;141337;271230,28
+44501;Jujuy;Masculino;Litio-Produccion;773;164878,38;284523,69
+44501;Mendoza;Femenino;Litio-Produccion;23;135974;164655,08
+44501;Mendoza;Masculino;Litio-Produccion;71;181299;231397,73
+44501;Neuquen;Masculino;Litio-exploración y financiación;1;443666,17;443666,17
+44501;Salta;Femenino;Litio-exploración y financiación;82;174904,71;206124,84
+44501;Salta;Femenino;Litio-Produccion;50;242537,5;279684,02
+44501;Salta;Masculino;Litio-exploración y financiación;302;174829;309511,64
+44501;Salta;Masculino;Litio-Produccion;168;197551,77;316596
+44531;CABA;Femenino;Litio-exploración y financiación;32;199852,48;288155,43
+44531;CABA;Femenino;Litio-Produccion;3;379222,01;551117,27
+44531;CABA;Masculino;Litio-exploración y financiación;58;307461,55;401243,32
+44531;CABA;Masculino;Litio-Produccion;10;767786,54;1060745,63
+44531;Catamarca;Femenino;Litio-exploración y financiación;3;207880,49;229842,68
+44531;Catamarca;Femenino;Litio-Produccion;55;282505,37;283747,46
+44531;Catamarca;Masculino;Litio-exploración y financiación;8;144351,46;219406,08
+44531;Catamarca;Masculino;Litio-Produccion;290;351232,52;369876,92
+44531;Jujuy;Femenino;Litio-Produccion;162;312465,66;428328,31
+44531;Jujuy;Masculino;Litio-Produccion;773;295407,58;490486,94
+44531;Mendoza;Femenino;Litio-Produccion;23;213032,19;332944,86
+44531;Mendoza;Masculino;Litio-Produccion;71;379399,24;508238,04
+44531;Neuquen;Masculino;Litio-exploración y financiación;1;665499;665499
+44531;Salta;Femenino;Litio-exploración y financiación;81;261242,67;317242,86
+44531;Salta;Femenino;Litio-Produccion;51;363584;494506,49
+44531;Salta;Masculino;Litio-exploración y financiación;304;275428,83;466488,9
+44531;Salta;Masculino;Litio-Produccion;169;327706,23;503684,58
+44562;CABA;Femenino;Litio-exploración y financiación;31;139884;218322,73
+44562;CABA;Femenino;Litio-Produccion;3;347021;478047,77
+44562;CABA;Masculino;Litio-exploración y financiación;61;223369;306196,79
+44562;CABA;Masculino;Litio-Produccion;10;584609,5;800617,25
+44562;Catamarca;Femenino;Litio-exploración y financiación;3;189500;194169,2
+44562;Catamarca;Femenino;Litio-Produccion;60;215129,24;230053,89
+44562;Catamarca;Masculino;Litio-exploración y financiación;11;123292,77;165663,46
+44562;Catamarca;Masculino;Litio-Produccion;287;389860,67;378724,7
+44562;Jujuy;Femenino;Litio-Produccion;173;166920;232911,23
+44562;Jujuy;Masculino;Litio-Produccion;820;174361,16;229938,23
+44562;Mendoza;Femenino;Litio-Produccion;23;135640;175124,63
+44562;Mendoza;Masculino;Litio-Produccion;71;204800;258048,47
+44562;Neuquen;Masculino;Litio-exploración y financiación;2;264914,36;264914,36
+44562;Salta;Femenino;Litio-exploración y financiación;83;201811,98;242864,86
+44562;Salta;Femenino;Litio-Produccion;52;239526,16;322854,85
+44562;Salta;Masculino;Litio-exploración y financiación;325;196851,66;360842,38
+44562;Salta;Masculino;Litio-Produccion;180;212712,09;346671,34
+44593;CABA;Femenino;Litio-exploración y financiación;32;155899,3;226177,8
+44593;CABA;Femenino;Litio-Produccion;14;544299,74;506991,03
+44593;CABA;Masculino;Litio-exploración y financiación;59;251715,56;383740,31
+44593;CABA;Masculino;Litio-Produccion;27;543162;679193,21
+44593;Catamarca;Femenino;Litio-exploración y financiación;3;189500;198751,72
+44593;Catamarca;Femenino;Litio-Produccion;65;188336,91;207931,77
+44593;Catamarca;Masculino;Litio-exploración y financiación;11;90000;125457,85
+44593;Catamarca;Masculino;Litio-Produccion;301;260820,83;281619,3
+44593;Jujuy;Femenino;Litio-Produccion;183;157627;176887,49
+44593;Jujuy;Masculino;Litio-Produccion;917;164209,05;212300,02
+44593;Mendoza;Femenino;Litio-Produccion;23;135640;173343,28
+44593;Mendoza;Masculino;Litio-Produccion;69;197300;255846,82
+44593;Neuquen;Masculino;Litio-exploración y financiación;2;365823,13;365823,13
+44593;Salta;Femenino;Litio-exploración y financiación;92;201050,21;295338,65
+44593;Salta;Femenino;Litio-Produccion;51;241600;289107,02
+44593;Salta;Masculino;Litio-exploración y financiación;355;215901,81;443473,94
+44593;Salta;Masculino;Litio-Produccion;178;192779,08;324020,52
+44621;CABA;Femenino;Litio-exploración y financiación;21;150000;241440,69
+44621;CABA;Femenino;Litio-Produccion;14;635454;713683,91
+44621;CABA;Masculino;Litio-exploración y financiación;24;217342;359609,04
+44621;CABA;Masculino;Litio-Produccion;32;724262,32;843187,78
+44621;Catamarca;Femenino;Litio-exploración y financiación;2;173063,26;173063,26
+44621;Catamarca;Femenino;Litio-Produccion;67;300317,59;400081,13
+44621;Catamarca;Masculino;Litio-exploración y financiación;11;91012,05;138178,54
+44621;Catamarca;Masculino;Litio-Produccion;297;348477,65;480907,31
+44621;Jujuy;Femenino;Litio-Produccion;193;182756,46;213230,34
+44621;Jujuy;Masculino;Litio-Produccion;957;195445,05;243845,86
+44621;Mendoza;Femenino;Litio-Produccion;25;135640;171122,34
+44621;Mendoza;Masculino;Litio-Produccion;71;197300;258660,66
+44621;Rio Negro;Femenino;Litio-exploración y financiación;11;149800,51;173501,59
+44621;Rio Negro;Masculino;Litio-exploración y financiación;35;210076,36;264077,38
+44621;Salta;Femenino;Litio-exploración y financiación;103;212000;242316,23
+44621;Salta;Femenino;Litio-Produccion;53;368005,09;776166,61
+44621;Salta;Masculino;Litio-exploración y financiación;395;219606,6;490079,34
+44621;Salta;Masculino;Litio-Produccion;198;200023,62;723496,45
+44652;CABA;Femenino;Litio-exploración y financiación;22;267891,5;747842,17
+44652;CABA;Femenino;Litio-Produccion;15;631678;582959,26
+44652;CABA;Masculino;Litio-exploración y financiación;26;277397;1159970,84
+44652;CABA;Masculino;Litio-Produccion;31;656930;908868,42
+44652;Catamarca;Femenino;Litio-exploración y financiación;2;224052,71;224052,71
+44652;Catamarca;Femenino;Litio-Produccion;72;211152,44;231172,78
+44652;Catamarca;Masculino;Litio-exploración y financiación;10;127500;175318,65
+44652;Catamarca;Masculino;Litio-Produccion;316;260638,8;334675,15
+44652;Jujuy;Femenino;Litio-Produccion;196;200620,4;374440,75
+44652;Jujuy;Masculino;Litio-Produccion;991;209107,04;406484,97
+44652;Mendoza;Femenino;Litio-Produccion;32;151673,34;189678,32
+44652;Mendoza;Masculino;Litio-Produccion;79;233475;290324,15
+44652;Rio Negro;Femenino;Litio-exploración y financiación;11;170000;216312,48
+44652;Rio Negro;Masculino;Litio-exploración y financiación;39;241451,39;468844,56
+44652;Salta;Femenino;Litio-exploración y financiación;110;222892,56;288224,18
+44652;Salta;Femenino;Litio-Produccion;53;271400;354650,92
+44652;Salta;Masculino;Litio-exploración y financiación;406;247495,36;465963,41
+44652;Salta;Masculino;Litio-Produccion;207;242334,83;367776,36
+44682;Buenos Aires;Masculino;Litio-exploración y financiación;2;48553,93;48553,93
+44682;CABA;Femenino;Litio-exploración y financiación;22;186555;280936,36
+44682;CABA;Femenino;Litio-Produccion;16;594154;562026,56
+44682;CABA;Masculino;Litio-exploración y financiación;28;231847,27;402663,56
+44682;CABA;Masculino;Litio-Produccion;32;646728,31;1030841,62
+44682;Catamarca;Femenino;Litio-exploración y financiación;2;258040,66;258040,66
+44682;Catamarca;Femenino;Litio-Produccion;75;238865;263170,05
+44682;Catamarca;Masculino;Litio-exploración y financiación;11;120000;189725,9
+44682;Catamarca;Masculino;Litio-Produccion;335;296941,98;320922,3
+44682;Jujuy;Femenino;Litio-Produccion;222;185380,63;207968,61
+44682;Jujuy;Masculino;Litio-Produccion;1034;191383,41;246821,78
+44682;Mendoza;Femenino;Litio-Produccion;36;172915;209010,74
+44682;Mendoza;Masculino;Litio-Produccion;102;186336,67;241347,99
+44682;Rio Negro;Femenino;Litio-exploración y financiación;13;170000;222362,1
+44682;Rio Negro;Masculino;Litio-exploración y financiación;40;328483;351583,36
+44682;Salta;Femenino;Litio-exploración y financiación;123;227669,07;353156,76
+44682;Salta;Femenino;Litio-Produccion;58;318341;478207,36
+44682;Salta;Masculino;Litio-exploración y financiación;436;264954,99;412657,87
+44682;Salta;Masculino;Litio-Produccion;211;237500,06;480066,92
+44713;Buenos Aires;Masculino;Litio-exploración y financiación;4;110696,72;104910,55
+44713;CABA;Femenino;Litio-exploración y financiación;24;276867,75;441446,97
+44713;CABA;Femenino;Litio-Produccion;16;859611,7;856686,88
+44713;CABA;Masculino;Litio-exploración y financiación;37;373515;651639,45
+44713;CABA;Masculino;Litio-Produccion;34;991514,05;1252478,73
+44713;Catamarca;Femenino;Litio-exploración y financiación;2;388416,42;388416,42
+44713;Catamarca;Femenino;Litio-Produccion;83;342868,91;378836,53
+44713;Catamarca;Masculino;Litio-exploración y financiación;11;180000;260071,67
+44713;Catamarca;Masculino;Litio-Produccion;356;485859,26;508480,34
+44713;Jujuy;Femenino;Litio-Produccion;224;265557,32;345956,21
+44713;Jujuy;Masculino;Litio-Produccion;1028;292712,91;384358,02
+44713;Mendoza;Femenino;Litio-Produccion;51;204000;245440,71
+44713;Mendoza;Masculino;Litio-Produccion;124;248966,18;360906
+44713;Rio Negro;Femenino;Litio-exploración y financiación;14;285746,9;369033,2
+44713;Rio Negro;Masculino;Litio-exploración y financiación;42;416882,42;522313,04
+44713;Salta;Femenino;Litio-exploración y financiación;132;313023,9;469790,66
+44713;Salta;Femenino;Litio-Produccion;61;458319,21;545876,13
+44713;Salta;Masculino;Litio-exploración y financiación;458;370012,32;553832,4
+44713;Salta;Masculino;Litio-Produccion;211;337504,75;622659,32
+44743;Buenos Aires;Masculino;Litio-exploración y financiación;5;383892,42;368120,9
+44743;CABA;Femenino;Litio-exploración y financiación;23;249011;338607,52
+44743;CABA;Femenino;Litio-Produccion;16;742693;730018,74
+44743;CABA;Masculino;Litio-exploración y financiación;33;345000;486524,52
+44743;CABA;Masculino;Litio-Produccion;34;823081,5;937244,34
+44743;Catamarca;Femenino;Litio-exploración y financiación;2;291764,44;291764,44
+44743;Catamarca;Femenino;Litio-Produccion;81;277533,37;308427,25
+44743;Catamarca;Masculino;Litio-exploración y financiación;10;186716;222280,62
+44743;Catamarca;Masculino;Litio-Produccion;360;337810,36;384115,61
+44743;Jujuy;Femenino;Litio-Produccion;229;226428,57;267473,04
+44743;Jujuy;Masculino;Litio-Produccion;1060;277870,32;326831,22
+44743;Mendoza;Femenino;Litio-Produccion;56;155040;210541,34
+44743;Mendoza;Masculino;Litio-Produccion;151;212800;279377
+44743;Rio Negro;Femenino;Litio-exploración y financiación;15;221950;298904,77
+44743;Rio Negro;Masculino;Litio-exploración y financiación;41;381642,84;475027,87
+44743;Salta;Femenino;Litio-exploración y financiación;138;262281,28;375047,29
+44743;Salta;Femenino;Litio-Produccion;63;326488,25;388654,55
+44743;Salta;Masculino;Litio-exploración y financiación;483;299428,02;475702,97
+44743;Salta;Masculino;Litio-Produccion;216;265760;570767,77
+44774;Buenos Aires;Masculino;Litio-exploración y financiación;8;288709,36;217173,5
+44774;CABA;Femenino;Litio-exploración y financiación;23;264433;358451,18
+44774;CABA;Femenino;Litio-Produccion;17;695788;727196,34
+44774;CABA;Masculino;Litio-exploración y financiación;32;352500;498011,18
+44774;CABA;Masculino;Litio-Produccion;35;821163;929122,29
+44774;Catamarca;Femenino;Litio-exploración y financiación;2;313285,18;313285,18
+44774;Catamarca;Femenino;Litio-Produccion;87;277751,36;314604,55
+44774;Catamarca;Masculino;Litio-exploración y financiación;10;170000;243570,7
+44774;Catamarca;Masculino;Litio-Produccion;376;349304,08;397921,6
+44774;Jujuy;Femenino;Litio-Produccion;232;251227,49;334703,61
+44774;Jujuy;Masculino;Litio-Produccion;1076;252747,53;401697,61
+44774;Mendoza;Femenino;Litio-Produccion;66;151926,5;202391,26
+44774;Mendoza;Masculino;Litio-Produccion;171;212800;268490,2
+44774;Rio Negro;Femenino;Litio-exploración y financiación;14;247176;348184,25
+44774;Rio Negro;Masculino;Litio-exploración y financiación;36;376890,1;643706,23
+44774;Salta;Femenino;Litio-exploración y financiación;153;273377,78;377487,06
+44774;Salta;Femenino;Litio-Produccion;73;320369,65;389024,79
+44774;Salta;Masculino;Litio-exploración y financiación;513;314035,65;563876,2
+44774;Salta;Masculino;Litio-Produccion;226;284371,72;432008,96
+44805;Buenos Aires;Femenino;Litio-Produccion;1;350000;350000
+44805;Buenos Aires;Masculino;Litio-exploración y financiación;12;346172,22;329452,62
+44805;CABA;Femenino;Litio-exploración y financiación;23;249011;341886,22
+44805;CABA;Femenino;Litio-Produccion;17;1353923,96;1975607,33
+44805;CABA;Masculino;Litio-exploración y financiación;32;352500;508869,72
+44805;CABA;Masculino;Litio-Produccion;37;1446801,71;2220213,84
+44805;Catamarca;Femenino;Litio-exploración y financiación;2;320818,24;320818,24
+44805;Catamarca;Femenino;Litio-Produccion;92;290124,28;313165,24
+44805;Catamarca;Masculino;Litio-exploración y financiación;10;190000;251784,41
+44805;Catamarca;Masculino;Litio-Produccion;393;361957,06;408788,31
+44805;Jujuy;Femenino;Litio-Produccion;238;299883,82;490339,74
+44805;Jujuy;Masculino;Litio-Produccion;1095;404102,52;551226,2
+44805;Mendoza;Femenino;Litio-Produccion;69;201645;261853,85
+44805;Mendoza;Masculino;Litio-Produccion;183;320000;371221,7
+44805;Rio Negro;Femenino;Litio-exploración y financiación;13;242402;343740,07
+44805;Rio Negro;Masculino;Litio-exploración y financiación;34;383119,94;570819,57
+44805;Salta;Femenino;Litio-exploración y financiación;166;302312,74;469757,82
+44805;Salta;Femenino;Litio-Produccion;72;351463,65;431182,82
+44805;Salta;Masculino;Litio-exploración y financiación;547;328217,91;587883,21
+44805;Salta;Masculino;Litio-Produccion;221;297562,08;454430,74
+44835;Buenos Aires;Femenino;Litio-Produccion;1;350000;350000
+44835;Buenos Aires;Masculino;Litio-exploración y financiación;13;354275,91;358764,08
+44835;CABA;Femenino;Litio-exploración y financiación;24;333738,6;441115,2
+44835;CABA;Femenino;Litio-Produccion;20;649038;1655711,64
+44835;CABA;Masculino;Litio-exploración y financiación;31;513736,6;673362,88
+44835;CABA;Masculino;Litio-Produccion;39;795911;3694468,69
+44835;Catamarca;Femenino;Litio-exploración y financiación;2;319309,37;319309,37
+44835;Catamarca;Femenino;Litio-Produccion;95;307500;342047,63
+44835;Catamarca;Masculino;Litio-exploración y financiación;10;244490,54;275534,67
+44835;Catamarca;Masculino;Litio-Produccion;398;376787,62;432961,2
+44835;Jujuy;Femenino;Litio-Produccion;241;246900;441655,34
+44835;Jujuy;Masculino;Litio-Produccion;1104;276983,42;557493,45
+44835;Mendoza;Femenino;Litio-Produccion;71;204000;289170,47
+44835;Mendoza;Masculino;Litio-Produccion;190;284704;358023,56
+44835;Rio Negro;Femenino;Litio-exploración y financiación;13;315122,6;432328,54
+44835;Rio Negro;Masculino;Litio-exploración y financiación;33;380786,34;561859,44
+44835;Salta;Femenino;Litio-exploración y financiación;177;343713,21;537727,79
+44835;Salta;Femenino;Litio-Produccion;81;402000,18;579043,14
+44835;Salta;Masculino;Litio-exploración y financiación;561;390624;666224,97
+44835;Salta;Masculino;Litio-Produccion;272;385417,88;658192,92
